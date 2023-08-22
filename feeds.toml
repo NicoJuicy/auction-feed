@@ -1,0 +1,46 @@
+[default]
+timeout = 30
+
+[funfacts]
+title = "Wikipedia — did you know?"
+url = "https://en.wikipedia.org/wiki/Main_Page"
+entrySelector = "#mp-dyk > ul li"
+titleSelector = "b"
+linkSelector = "b a"
+
+[fod-auction]
+title = "FOD - Openbare verkopen"
+url = "https://finshop.belgium.be/nl_BE/event"
+entrySelector = ".event_grid"
+titleSelector = "h5.card-title"
+linkSelector = "a[href]"
+
+
+[fod-shop-sport-and-outdoor]
+title = "FOD - Sport & Vrije tijd - Brussel P1"
+url = "https://finshop.belgium.be/nl_BE/shop?type=direct_shop&finshop=3&category_select=6&state=&price=&keyword="
+entrySelector = ".event_grid"
+titleSelector = "h5.card-title"
+linkSelector = "a[href]"
+
+[fod-auction-sport-and-outdoor]
+title = "FOD - Sport & Vrije tijd - Brussel P1"
+url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=&category_select=6&state=&keyword="
+entrySelector = ".event_grid"
+titleSelector = "h5.card-title"
+linkSelector = "a[href]"
+
+[fod-auction-car-and-bike]
+title = "FOD - Sport & Vrije tijd - Brussel P1"
+url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=3&category_select=1&state=&keyword="
+entrySelector = ".event_grid"
+titleSelector = "h5.card-title"
+linkSelector = "a[href]"
+
+[faillissementsdossier-veiling-wagens]
+title = "FaillissementsDossier - Wagens"
+url = "https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/"
+entrySelector = ".zoekresctr div.row.bm"
+titleSelector = "h2 a"
+linkSelector = "h2 a[href]"
+
