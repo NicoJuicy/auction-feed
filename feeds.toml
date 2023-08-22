@@ -11,7 +11,7 @@ linkSelector = "b a"
 [fod-auction]
 title = "FOD - Openbare verkopen"
 url = "https://finshop.belgium.be/nl_BE/event"
-entrySelector = ".event_grid td.oe_product"
+entrySelector = "td.oe_product"
 titleSelector = "h5.card-title"
 linkSelector = "a[href]"
 
@@ -19,21 +19,21 @@ linkSelector = "a[href]"
 [fod-shop-sport-and-outdoor]
 title = "FOD - Sport & Vrije tijd - Brussel P1"
 url = "https://finshop.belgium.be/nl_BE/shop?type=direct_shop&finshop=3&category_select=6&state=&price=&keyword="
-entrySelector = ".event_grid td.oe_product"
+entrySelector = "td.oe_product"
 titleSelector = "h5.card-title"
 linkSelector = "a[href]"
 
 [fod-auction-sport-and-outdoor]
 title = "FOD - Sport & Vrije tijd - Brussel P1"
 url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=&category_select=6&state=&keyword="
-entrySelector = ".event_grid td.oe_product"
+entrySelector = "td.oe_product"
 titleSelector = "h5.card-title"
 linkSelector = "a[href]"
 
 [fod-auction-car-and-bike]
 title = "FOD - Sport & Vrije tijd - Brussel P1"
 url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=3&category_select=1&state=&keyword="
-entrySelector = ".event_grid td.oe_product"
+entrySelector = "td.oe_product"
 titleSelector = "h5.card-title"
 linkSelector = "a[href]"
 
