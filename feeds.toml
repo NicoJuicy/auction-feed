@@ -12,7 +12,7 @@ linkSelector = "b a"
 title = "FOD - Openbare verkopen"
 url = "https://finshop.belgium.be/nl_BE/event"
 entrySelector = "td.oe_product"
-titleSelector = "h5.card-title"
+titleSelector = "div.o_wsale_product_information_text h6 a"
 linkSelector = "a[href]"
 
 
@@ -20,21 +20,21 @@ linkSelector = "a[href]"
 title = "FOD - Sport & Vrije tijd - Brussel P1"
 url = "https://finshop.belgium.be/nl_BE/shop?type=direct_shop&finshop=3&category_select=6&state=&price=&keyword="
 entrySelector = "td.oe_product"
-titleSelector = "h5.card-title"
+titleSelector = "div.o_wsale_product_information_text h6 a"
 linkSelector = "a[href]"
 
 [fod-auction-sport-and-outdoor]
 title = "FOD - Sport & Vrije tijd - Brussel P1"
 url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=&category_select=6&state=&keyword="
 entrySelector = "td.oe_product"
-titleSelector = "h5.card-title"
+titleSelector = "div.o_wsale_product_information_text h6 a"
 linkSelector = "a[href]"
 
 [fod-auction-car-and-bike]
 title = "FOD - Sport & Vrije tijd - Brussel P1"
 url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=3&category_select=1&state=&keyword="
 entrySelector = "td.oe_product"
-titleSelector = "h5.card-title"
+titleSelector = "div.o_wsale_product_information_text h6 a"
 linkSelector = "a[href]"
 
 [faillissementsdossier-veiling-wagens]
