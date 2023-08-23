@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-08-23T17:32:29.558Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Yokcushlu]]></title>
+        <id>https://en.wikipedia.org/wiki/Yokcushlu</id>
+        <link href="https://en.wikipedia.org/wiki/Yokcushlu"/>
+        <updated>2023-08-23T17:31:56.346Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Yokcushlu" title="Yokcushlu">Yokcushlu</a></b> <i>(pictured)</i> was taken hostage on <a href="/wiki/HMS_Beagle" title="HMS Beagle">HMS&nbsp;<i>Beagle</i></a> and named after a basket?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delresto (Echoes)]]></title>
+        <id>https://en.wikipedia.org/wiki/Delresto_(Echoes)</id>
+        <link href="https://en.wikipedia.org/wiki/Delresto_(Echoes)"/>
+        <updated>2023-08-23T17:31:56.348Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Travis_Scott" title="Travis Scott">Travis Scott</a> expressed interest in collaborating with <a href="/wiki/Beyonc%C3%A9" title="Beyoncé">Beyoncé</a> eight years before creating "<b><a href="/wiki/Delresto_(Echoes)" title="Delresto (Echoes)">Delresto (Echoes)</a></b>" with her?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Venaani]]></title>
+        <id>https://en.wikipedia.org/wiki/Mike_Venaani</id>
+        <link href="https://en.wikipedia.org/wiki/Mike_Venaani"/>
+        <updated>2023-08-23T17:31:56.353Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Mike_Venaani" title="Mike Venaani">Mike Venaani</a></b> serves alongside <a href="/wiki/McHenry_Venaani" title="McHenry Venaani">his son</a> in the Namibian <a href="/wiki/National_Assembly_(Namibia)" title="National Assembly (Namibia)">National Assembly</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Ketch]]></title>
+        <id>https://en.wikipedia.org/wiki/Project_Ketch</id>
+        <link href="https://en.wikipedia.org/wiki/Project_Ketch"/>
+        <updated>2023-08-23T17:31:56.354Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Project_Ketch" title="Project Ketch">Project Ketch</a></b> proposed the detonation of a 24-kiloton nuclear device in Pennsylvania to create a natural-gas storage reservoir?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[misanthropes]]></title>
+        <id>https://en.wikipedia.org/wiki/Misanthropy</id>
+        <link href="https://en.wikipedia.org/wiki/Misanthropy"/>
+        <updated>2023-08-23T17:31:56.359Z</updated>
+        <content type="html"><![CDATA[... that some <b><a href="/wiki/Misanthropy" title="Misanthropy">misanthropes</a></b> reject humanity because of how humans treat other animals?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ann Corcoran]]></title>
+        <id>https://en.wikipedia.org/wiki/Ann_Corcoran_(activist)</id>
+        <link href="https://en.wikipedia.org/wiki/Ann_Corcoran_(activist)"/>
+        <updated>2023-08-23T17:31:56.360Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ann_Corcoran_(activist)" title="Ann Corcoran (activist)">Ann Corcoran</a></b> has wrongly claimed that refugees are a Muslim plot to colonize the United States?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kawal]]></title>
+        <id>https://en.wikipedia.org/wiki/Kawal_(food)</id>
+        <link href="https://en.wikipedia.org/wiki/Kawal_(food)"/>
+        <updated>2023-08-23T17:31:56.363Z</updated>
+        <content type="html"><![CDATA[... that fermented leaves are used to make a meat substitute in Sudan called <i><b><a href="/wiki/Kawal_(food)" title="Kawal (food)">kawal</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nancy Reagan was hexakosioihexekontahexaphobic]]></title>
+        <id>https://en.wikipedia.org/wiki/668_St._Cloud_Road</id>
+        <link href="https://en.wikipedia.org/wiki/668_St._Cloud_Road"/>
+        <updated>2023-08-23T17:31:56.365Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/668_St._Cloud_Road" title="668 St. Cloud Road">Nancy Reagan was hexakosioihexekontahexaphobic</a></b>?]]></content>
+    </entry>
+</feed>
