@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-08-24T17:32:23.990Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[his personal pet dog]]></title>
+        <id>https://en.wikipedia.org/wiki/Winston_Churchill%27s_pets</id>
+        <link href="https://en.wikipedia.org/wiki/Winston_Churchill%27s_pets"/>
+        <updated>2023-08-24T17:31:53.498Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a> was often portrayed as a bulldog <i>(pictured)</i>, but <b><a href="/wiki/Winston_Churchill%27s_pets" title="Winston Churchill's pets">his personal pet dog</a></b> during the Second World War was a poodle?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gisele Thompson]]></title>
+        <id>https://en.wikipedia.org/wiki/Gisele_Thompson</id>
+        <link href="https://en.wikipedia.org/wiki/Gisele_Thompson"/>
+        <updated>2023-08-24T17:31:53.499Z</updated>
+        <content type="html"><![CDATA[... that sisters <a href="/wiki/Alyssa_Thompson" title="Alyssa Thompson">Alyssa</a> and <b><a href="/wiki/Gisele_Thompson" title="Gisele Thompson">Gisele Thompson</a></b> are the first high school students to sign a <a href="/wiki/Student_athlete_compensation" title="Student athlete compensation">name, image, and likeness</a> deal with Nike?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaparak Khorsandi]]></title>
+        <id>https://en.wikipedia.org/wiki/Shaparak_Khorsandi</id>
+        <link href="https://en.wikipedia.org/wiki/Shaparak_Khorsandi"/>
+        <updated>2023-08-24T17:31:53.499Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Shaparak_Khorsandi" title="Shaparak Khorsandi">Shaparak Khorsandi</a></b> asked for her book to be removed from the <a href="/wiki/Jhalak_Prize" title="Jhalak Prize">Jhalak Prize</a> longlist, which she considered to be "a sticker for being brown"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eye]]></title>
+        <id>https://en.wikipedia.org/wiki/Eye_(Alexander_McQueen_collection)</id>
+        <link href="https://en.wikipedia.org/wiki/Eye_(Alexander_McQueen_collection)"/>
+        <updated>2023-08-24T17:31:53.500Z</updated>
+        <content type="html"><![CDATA[... that in 1999, British designer <a href="/wiki/Alexander_McQueen" title="Alexander McQueen">Alexander McQueen</a> staged an <i><b><a href="/wiki/Eye_(Alexander_McQueen_collection)" title="Eye (Alexander McQueen collection)">Eye</a></b></i> in the middle of <a href="/wiki/Effects_of_Hurricane_Floyd_in_New_York" title="Effects of Hurricane Floyd in New York">a New York hurricane</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bob Harlan]]></title>
+        <id>https://en.wikipedia.org/wiki/Bob_Harlan</id>
+        <link href="https://en.wikipedia.org/wiki/Bob_Harlan"/>
+        <updated>2023-08-24T17:31:53.500Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Bob_Harlan" title="Bob Harlan">Bob Harlan</a></b> was the first president of the <a href="/wiki/Green_Bay_Packers" title="Green Bay Packers">Green Bay Packers</a> without any roots in the <a href="/wiki/Green_Bay,_Wisconsin" title="Green Bay, Wisconsin">Green Bay</a> community?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pany Yathotou]]></title>
+        <id>https://en.wikipedia.org/wiki/Pany_Yathotou</id>
+        <link href="https://en.wikipedia.org/wiki/Pany_Yathotou"/>
+        <updated>2023-08-24T17:31:53.502Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Pany_Yathotou" title="Pany Yathotou">Pany Yathotou</a></b> is the first woman <a href="/wiki/Vice_President_of_Laos" title="Vice President of Laos">vice president of Laos</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fumble]]></title>
+        <id>https://en.wikipedia.org/wiki/Fumble_(song)</id>
+        <link href="https://en.wikipedia.org/wiki/Fumble_(song)"/>
+        <updated>2023-08-24T17:31:53.510Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Piri" title="Piri">Piri</a> released the song "<b><a href="/wiki/Fumble_(song)" title="Fumble (song)">Fumble</a></b>" after her relationship ended?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olivia Benson]]></title>
+        <id>https://en.wikipedia.org/wiki/Olivia_Benson_(cat)</id>
+        <link href="https://en.wikipedia.org/wiki/Olivia_Benson_(cat)"/>
+        <updated>2023-08-24T17:31:53.512Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/John_Cleese" title="John Cleese">John Cleese</a> once called <b><a href="/wiki/Olivia_Benson_(cat)" title="Olivia Benson (cat)">Olivia Benson</a></b> "the weirdest cat I've ever seen in my life"?]]></content>
+    </entry>
+</feed>
