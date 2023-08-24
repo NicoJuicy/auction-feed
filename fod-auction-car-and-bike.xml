@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2023-08-23T17:32:29.538Z</updated>
+    <updated>2023-08-24T05:31:51.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Lot 1178 - KIA Sportage  - 176.269 Km - Bouwjaar 2016 - Euro 6b]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-01710-6-10636-1-lot-1178-kia-sportage-176-269-km-bouwjaar-2016-euro-6b-10238</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01710-6-10636-1-lot-1178-kia-sportage-176-269-km-bouwjaar-2016-euro-6b-10238"/>
-        <updated>2023-08-23T17:32:20.870Z</updated>
+        <updated>2023-08-24T05:31:44.759Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10238">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01710-6-10636-1-lot-1178-kia-sportage-176-269-km-bouwjaar-2016-euro-6b-10238"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="c7299184a7c8cd23cdd8ae3a803790022dd0503do1724391103">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01710-6-10636-1-lot-1178-kia-sportage-176-269-km-bouwjaar-2016-euro-6b-10238">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10238/image_256/%5BBXL-01710-6-10636-1%5D%20Lot%201178%20-%20KIA%20Sportage%20%20-%20176.269%20Km%20-%20Bouwjaar%202016%20-%20Euro%206b?unique=aaffaf4" itemprop="image" class="img img-fluid" alt="[BXL/01710/6/10636/1] Lot 1178 - KIA Sportage  - 176.269 Km - Bouwjaar 2016 - Euro 6b" loading="lazy"></span>
                 </a>
@@ -27,17 +27,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">43</span>
+            <span class="minutes span_time_digit">44</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">41</span>
+            <span class="seconds span_time_digit">17</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -60,15 +60,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/8458">
-                    14 Biedingen</a>
+                    31 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">42</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">4.200,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">5.100,00</span>
                   </b>
                 </div>
            <p></p>
@@ -83,12 +83,12 @@
         <title type="html"><![CDATA[Lot 1205 - IVECO 35S14 - 12.069 Km - Bouwjaar 2020 - Euro 6ei]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-01790-7-10641-1-lot-1205-iveco-35s14-12-069-km-bouwjaar-2020-euro-6ei-10272</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01790-7-10641-1-lot-1205-iveco-35s14-12-069-km-bouwjaar-2020-euro-6ei-10272"/>
-        <updated>2023-08-23T17:32:20.879Z</updated>
+        <updated>2023-08-24T05:31:44.765Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10272">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01790-7-10641-1-lot-1205-iveco-35s14-12-069-km-bouwjaar-2020-euro-6ei-10272"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="c7299184a7c8cd23cdd8ae3a803790022dd0503do1724391103">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01790-7-10641-1-lot-1205-iveco-35s14-12-069-km-bouwjaar-2020-euro-6ei-10272">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10272/image_256/%5BBXL-01790-7-10641-1%5D%20Lot%201205%20-%20IVECO%2035S14%20-%2012.069%20Km%20-%20Bouwjaar%202020%20-%20Euro%206ei?unique=97c2785" itemprop="image" class="img img-fluid" alt="[BXL/01790/7/10641/1] Lot 1205 - IVECO 35S14 - 12.069 Km - Bouwjaar 2020 - Euro 6ei" loading="lazy"></span>
                 </a>
@@ -101,17 +101,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -134,15 +134,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/8475">
-                    46 Biedingen</a>
+                    47 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">15.200,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">15.400,00</span>
                   </b>
                 </div>
            <p></p>
@@ -157,12 +157,12 @@
         <title type="html"><![CDATA[Lot 1169 - CITROEN Berlingo - 92.491 Km - Bouwjaar 2022 - Euro 6if]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-01790-2-10639-1-lot-1169-citroen-berlingo-92-491-km-bouwjaar-2022-euro-6if-10266</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01790-2-10639-1-lot-1169-citroen-berlingo-92-491-km-bouwjaar-2022-euro-6if-10266"/>
-        <updated>2023-08-23T17:32:20.879Z</updated>
+        <updated>2023-08-24T05:31:44.767Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10266">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01790-2-10639-1-lot-1169-citroen-berlingo-92-491-km-bouwjaar-2022-euro-6if-10266"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01790-2-10639-1-lot-1169-citroen-berlingo-92-491-km-bouwjaar-2022-euro-6if-10266">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10266/image_256/%5BBXL-01790-2-10639-1%5D%20Lot%201169%20-%20CITROEN%20Berlingo%20-%2092.491%20Km%20-%20Bouwjaar%202022%20-%20Euro%206if?unique=6a1892a" itemprop="image" class="img img-fluid" alt="[BXL/01790/2/10639/1] Lot 1169 - CITROEN Berlingo - 92.491 Km - Bouwjaar 2022 - Euro 6if" loading="lazy"></span>
                 </a>
@@ -175,17 +175,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">42</span>
+            <span class="minutes span_time_digit">43</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -208,15 +208,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/8476">
-                    15 Biedingen</a>
+                    16 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">9.400,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">9.500,00</span>
                   </b>
                 </div>
            <p></p>
@@ -231,12 +231,12 @@
         <title type="html"><![CDATA[Lot 1215 - KTM 690 DUKE  - 8.971 Km - Bouwjaar 2012]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-01790-2-10642-1-lot-1215-ktm-690-duke-8-971-km-bouwjaar-2012-10282</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01790-2-10642-1-lot-1215-ktm-690-duke-8-971-km-bouwjaar-2012-10282"/>
-        <updated>2023-08-23T17:32:20.880Z</updated>
+        <updated>2023-08-24T05:31:44.770Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10282">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01790-2-10642-1-lot-1215-ktm-690-duke-8-971-km-bouwjaar-2012-10282"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01790-2-10642-1-lot-1215-ktm-690-duke-8-971-km-bouwjaar-2012-10282">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10282/image_256/%5BBXL-01790-2-10642-1%5D%20Lot%201215%20-%20KTM%20690%20DUKE%20%20-%208.971%20Km%20-%20Bouwjaar%202012?unique=65af1cc" itemprop="image" class="img img-fluid" alt="[BXL/01790/2/10642/1] Lot 1215 - KTM 690 DUKE  - 8.971 Km - Bouwjaar 2012" loading="lazy"></span>
                 </a>
@@ -249,17 +249,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">42</span>
+            <span class="minutes span_time_digit">43</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -285,7 +285,7 @@
                     4 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -305,12 +305,12 @@
         <title type="html"><![CDATA[Lot 1157 - BMW 420d - 174.507 Km - Bouwjaar 2015 - Euro 6b]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-10640-1-lot-1157-bmw-420d-174-507-km-bouwjaar-2015-euro-6b-10267</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-10640-1-lot-1157-bmw-420d-174-507-km-bouwjaar-2015-euro-6b-10267"/>
-        <updated>2023-08-23T17:32:20.880Z</updated>
+        <updated>2023-08-24T05:31:44.772Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10267">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-10640-1-lot-1157-bmw-420d-174-507-km-bouwjaar-2015-euro-6b-10267"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-10640-1-lot-1157-bmw-420d-174-507-km-bouwjaar-2015-euro-6b-10267">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10267/image_256/%5BBXL-00002-3-10640-1%5D%20Lot%201157%20-%20BMW%20420d%20-%20174.507%20Km%20-%20Bouwjaar%202015%20-%20Euro%206b?unique=f8f4c61" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/10640/1] Lot 1157 - BMW 420d - 174.507 Km - Bouwjaar 2015 - Euro 6b" loading="lazy"></span>
                 </a>
@@ -323,17 +323,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">19</span>
+            <span class="hours span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">12</span>
+            <span class="minutes span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -359,7 +359,7 @@
                     13 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -379,12 +379,12 @@
         <title type="html"><![CDATA[Lot 1183 - BMW M6 - 212.688 Km - Bouwjaar 2005 - Euro 4]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-10638-1-lot-1183-bmw-m6-212-688-km-bouwjaar-2005-euro-4-10240</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-10638-1-lot-1183-bmw-m6-212-688-km-bouwjaar-2005-euro-4-10240"/>
-        <updated>2023-08-23T17:32:20.886Z</updated>
+        <updated>2023-08-24T05:31:44.782Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10240">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-10638-1-lot-1183-bmw-m6-212-688-km-bouwjaar-2005-euro-4-10240"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-10638-1-lot-1183-bmw-m6-212-688-km-bouwjaar-2005-euro-4-10240">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10240/image_256/%5BBXL-00002-3-10638-1%5D%20Lot%201183%20-%20BMW%20M6%20-%20212.688%20Km%20-%20Bouwjaar%202005%20-%20Euro%204?unique=874a8f8" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/10638/1] Lot 1183 - BMW M6 - 212.688 Km - Bouwjaar 2005 - Euro 4" loading="lazy"></span>
                 </a>
@@ -397,17 +397,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -433,7 +433,7 @@
                     4 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -453,12 +453,12 @@
         <title type="html"><![CDATA[Lot 767 C - Auto uitrusting]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-10008-221-lot-767-c-auto-uitrusting-8453</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-10008-221-lot-767-c-auto-uitrusting-8453"/>
-        <updated>2023-08-23T17:32:20.889Z</updated>
+        <updated>2023-08-24T05:31:44.788Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-8453">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10008-221-lot-767-c-auto-uitrusting-8453"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10008-221-lot-767-c-auto-uitrusting-8453">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/8453/image_256/%5BBXL-00001-4-10008-221%5D%20Lot%20767%20C%20-%20Auto%20uitrusting?unique=ec9e80b" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10008/221] Lot 767 C - Auto uitrusting" loading="lazy"></span>
                 </a>
@@ -471,17 +471,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">42</span>
+            <span class="minutes span_time_digit">43</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -507,7 +507,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -527,12 +527,12 @@
         <title type="html"><![CDATA[Lot 1242 - Nissan Qashqai - 129.959 Km - Bouwjaar 2014 - Euro 5b]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-01815-2-10692-1-lot-1242-nissan-qashqai-129-959-km-bouwjaar-2014-euro-5b-10891</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01815-2-10692-1-lot-1242-nissan-qashqai-129-959-km-bouwjaar-2014-euro-5b-10891"/>
-        <updated>2023-08-23T17:32:20.892Z</updated>
+        <updated>2023-08-24T05:31:44.788Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10891">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01815-2-10692-1-lot-1242-nissan-qashqai-129-959-km-bouwjaar-2014-euro-5b-10891"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01815-2-10692-1-lot-1242-nissan-qashqai-129-959-km-bouwjaar-2014-euro-5b-10891">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10891/image_256/%5BBXL-01815-2-10692-1%5D%20Lot%201242%20-%20Nissan%20Qashqai%20-%20129.959%20Km%20-%20Bouwjaar%202014%20-%20Euro%205b?unique=364a5fd" itemprop="image" class="img img-fluid" alt="[BXL/01815/2/10692/1] Lot 1242 - Nissan Qashqai - 129.959 Km - Bouwjaar 2014 - Euro 5b" loading="lazy"></span>
                 </a>
@@ -545,17 +545,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">42</span>
+            <span class="minutes span_time_digit">43</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -578,15 +578,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/8982">
-                    2 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">13</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">13</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">7.000,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">7.100,00</span>
                   </b>
                 </div>
            <p></p>
@@ -601,12 +601,12 @@
         <title type="html"><![CDATA[Lot 1004 D - Joie - Kinderautostoeltje - traver]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-10008-297-lot-1004-d-joie-kinderautostoeltje-traver-10787</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-10008-297-lot-1004-d-joie-kinderautostoeltje-traver-10787"/>
-        <updated>2023-08-23T17:32:20.899Z</updated>
+        <updated>2023-08-24T05:31:44.789Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10787">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10008-297-lot-1004-d-joie-kinderautostoeltje-traver-10787"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82d72b968e31898443ba6b5e97e5cf5719c1b1f3o1724347939">
+                <input type="hidden" name="csrf_token" value="833aba1d89062da08f0e5c9efc55612498f0b621o1724391104">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10008-297-lot-1004-d-joie-kinderautostoeltje-traver-10787">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10787/image_256/%5BBXL-00001-4-10008-297%5D%20Lot%201004%20D%20-%20Joie%20-%20Kinderautostoeltje%20-%20traver?unique=2e43215" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10008/297] Lot 1004 D - Joie - Kinderautostoeltje - traver" loading="lazy"></span>
                 </a>
@@ -614,22 +614,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-09-06 18:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">14</span>
+            <span class="days span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -655,7 +655,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">14</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">13</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
