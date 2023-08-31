@@ -1,6 +1,13 @@
 [default]
 timeout = 30
 
+[autostore]
+title = "Autostore - Investors"
+url = "https://www.autostoresystem.com/investors"
+entrySelector = "div.section"
+titleSelector = ".current-report-heading,.current-report-subheading"
+linkSelector = "a.reports-grid-link"
+
 [funfacts]
 title = "Wikipedia — did you know?"
 url = "https://en.wikipedia.org/wiki/Main_Page"
