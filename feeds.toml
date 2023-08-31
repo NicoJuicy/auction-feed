@@ -5,6 +5,13 @@ timeout = 30
 title = "Autostore - Investors"
 url = "https://www.autostoresystem.com/investors"
 entrySelector = "div.section"
+titleSelector = "div.evergreen-news-headline a"
+linkSelector = "div.evergreen-news-headline a[href]"
+
+[cloudflare]
+title = "Cloudflare - Investors"
+url = "https://cloudflare.net/news/default.aspx"
+entrySelector = ".evergreen-news-item"
 titleSelector = ".current-report-heading,.current-report-subheading"
 linkSelector = "a.reports-grid-link"
 
