@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-09-09T17:32:30.668Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Twitter's headquarters building]]></title>
+        <id>https://en.wikipedia.org/wiki/Market_Square_(San_Francisco)</id>
+        <link href="https://en.wikipedia.org/wiki/Market_Square_(San_Francisco)"/>
+        <updated>2023-09-09T17:31:56.402Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Market_Square_(San_Francisco)" title="Market Square (San Francisco)">Twitter's headquarters building</a></b> <i>(pictured)</i> in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> was built as a trade center for furniture wholesalers in 1937?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[published posthumously]]></title>
+        <id>https://en.wikipedia.org/wiki/Posthumous_publication</id>
+        <link href="https://en.wikipedia.org/wiki/Posthumous_publication"/>
+        <updated>2023-09-09T17:31:56.404Z</updated>
+        <content type="html"><![CDATA[... that more than 60 scientific papers authored by mathematician <a href="/wiki/Paul_Erd%C5%91s" title="Paul Erdős">Paul Erdős</a> were <b><a href="/wiki/Posthumous_publication" title="Posthumous publication">published posthumously</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echte Wagner]]></title>
+        <id>https://en.wikipedia.org/wiki/Echte_Wagner</id>
+        <link href="https://en.wikipedia.org/wiki/Echte_Wagner"/>
+        <updated>2023-09-09T17:31:56.406Z</updated>
+        <content type="html"><![CDATA[... that an album of collectible cards from the German margarine brand <b><a href="/wiki/Echte_Wagner" title="Echte Wagner">Echte Wagner</a></b> in 1930 presented a vision of the future that incorporated concepts such as wireless personal phones with screens?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandy Liang]]></title>
+        <id>https://en.wikipedia.org/wiki/Sandy_Liang</id>
+        <link href="https://en.wikipedia.org/wiki/Sandy_Liang"/>
+        <updated>2023-09-09T17:31:56.408Z</updated>
+        <content type="html"><![CDATA[... that the New York City-based fashion label <b><a href="/wiki/Sandy_Liang" title="Sandy Liang">Sandy Liang</a></b> is inspired by grandmothers in Chinatown, and often features Liang's own grandmother as a model?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Campanile]]></title>
+        <id>https://en.wikipedia.org/wiki/Campanile,_Portmeirion</id>
+        <link href="https://en.wikipedia.org/wiki/Campanile,_Portmeirion"/>
+        <updated>2023-09-09T17:31:56.413Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Campanile,_Portmeirion" title="Campanile, Portmeirion">Campanile</a></b>, a bell tower in <a href="/wiki/Portmeirion" title="Portmeirion">Portmeirion</a>, north Wales, was built in 1928 using stone from a nearby 12th-century castle?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam W. Oberlin]]></title>
+        <id>https://en.wikipedia.org/wiki/Adam_W._Oberlin</id>
+        <link href="https://en.wikipedia.org/wiki/Adam_W._Oberlin"/>
+        <updated>2023-09-09T17:31:56.414Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Adam_W._Oberlin" title="Adam W. Oberlin">Adam W. Oberlin</a></b>, the 1917 Republican nominee to be the mayor of <a href="/wiki/Canton,_Ohio" title="Canton, Ohio">Canton, Ohio</a>, went missing and was found seven months later working as a carpenter in <a href="/wiki/Norfolk,_Virginia" title="Norfolk, Virginia">Norfolk, Virginia</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biblioteca Gabriel García Márquez]]></title>
+        <id>https://en.wikipedia.org/wiki/Biblioteca_Gabriel_Garc%C3%ADa_M%C3%A1rquez</id>
+        <link href="https://en.wikipedia.org/wiki/Biblioteca_Gabriel_Garc%C3%ADa_M%C3%A1rquez"/>
+        <updated>2023-09-09T17:31:56.416Z</updated>
+        <content type="html"><![CDATA[... that in 2023 the <a href="/wiki/International_Federation_of_Library_Associations_and_Institutions" title="International Federation of Library Associations and Institutions">IFLA</a> named the <b><a href="/wiki/Biblioteca_Gabriel_Garc%C3%ADa_M%C3%A1rquez" title="Biblioteca Gabriel García Márquez">Biblioteca Gabriel García Márquez</a></b> the "best new public library in the world"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[merry widows]]></title>
+        <id>https://en.wikipedia.org/wiki/Phallichthys_amates</id>
+        <link href="https://en.wikipedia.org/wiki/Phallichthys_amates"/>
+        <updated>2023-09-09T17:31:56.419Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Phallichthys_amates" title="Phallichthys amates">merry widows</a></b> like soft bottoms?]]></content>
+    </entry>
+</feed>
