@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-09-10T17:32:15.144Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thwaites Glacier]]></title>
+        <id>https://en.wikipedia.org/wiki/Thwaites_Glacier</id>
+        <link href="https://en.wikipedia.org/wiki/Thwaites_Glacier"/>
+        <updated>2023-09-10T17:31:41.886Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Thwaites_Glacier" title="Thwaites Glacier">Thwaites Glacier</a></b> <i>(pictured)</i> in Antarctica is expected to <a href="/wiki/Sea_level_rise" title="Sea level rise">add 65&nbsp;cm (26&nbsp;in) to global sea levels</a> over the coming centuries?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Librarian]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Librarian_(version_control_system)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Librarian_(version_control_system)"/>
+        <updated>2023-09-10T17:31:41.889Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/The_Librarian_(version_control_system)" title="The Librarian (version control system)">The Librarian</a></b> was part of the shift by computer programmers away from using <a href="/wiki/Punched_card" title="Punched card">punched cards</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepStateMap.Live]]></title>
+        <id>https://en.wikipedia.org/wiki/DeepStateMap.Live</id>
+        <link href="https://en.wikipedia.org/wiki/DeepStateMap.Live"/>
+        <updated>2023-09-10T17:31:41.890Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/DeepStateMap.Live" title="DeepStateMap.Live">DeepStateMap.Live</a></b>, an interactive map of the Russian invasion of Ukraine, received up to 120,000 visitors in 30 minutes during the <a href="/wiki/Battle_of_Izium" title="Battle of Izium">Battle of Izium</a> in the <a href="/wiki/2022_Kharkiv_counteroffensive" title="2022 Kharkiv counteroffensive">2022 Kharkiv counteroffensive</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rock Diver]]></title>
+        <id>https://en.wikipedia.org/wiki/Rock_Diver</id>
+        <link href="https://en.wikipedia.org/wiki/Rock_Diver"/>
+        <updated>2023-09-10T17:31:41.894Z</updated>
+        <content type="html"><![CDATA[... that several science fiction critics praised "<b><a href="/wiki/Rock_Diver" title="Rock Diver">Rock Diver</a></b>", the first short story by American writer <a href="/wiki/Harry_Harrison_(writer)" title="Harry Harrison (writer)">Harry Harrison</a>, for its compelling take on technology for passing through matter?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reigate]]></title>
+        <id>https://en.wikipedia.org/wiki/Reigate</id>
+        <link href="https://en.wikipedia.org/wiki/Reigate"/>
+        <updated>2023-09-10T17:31:41.906Z</updated>
+        <content type="html"><![CDATA[... that the first road tunnel in England, opened in 1823 in <b><a href="/wiki/Reigate" title="Reigate">Reigate</a></b>, Surrey, runs under the site of a medieval castle?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diggin' Dogs]]></title>
+        <id>https://en.wikipedia.org/wiki/Diggin%27_Dogs</id>
+        <link href="https://en.wikipedia.org/wiki/Diggin%27_Dogs"/>
+        <updated>2023-09-10T17:31:41.912Z</updated>
+        <content type="html"><![CDATA[... that an initial gameplay concept for <i><b><a href="/wiki/Diggin%27_Dogs" title="Diggin' Dogs">Diggin' Dogs</a></b></i> was "possibly going to be worms eating into a diseased brain", with design input from <a href="/wiki/Edmund_McMillen" title="Edmund McMillen">Edmund McMillen</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valery Chekalov]]></title>
+        <id>https://en.wikipedia.org/wiki/Valery_Chekalov</id>
+        <link href="https://en.wikipedia.org/wiki/Valery_Chekalov"/>
+        <updated>2023-09-10T17:31:41.920Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Wagner_Group" title="Wagner Group">Wagner Group</a> head of logistics <b><a href="/wiki/Valery_Chekalov" title="Valery Chekalov">Valery Chekalov</a></b>, who was killed in the <a href="/wiki/2023_Tver_Oblast_plane_crash" title="2023 Tver Oblast plane crash">2023 Tver Oblast plane crash</a>, used the <a href="/wiki/Call_sign" title="Call sign">call sign</a> "Rover"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pub test]]></title>
+        <id>https://en.wikipedia.org/wiki/Pub_test</id>
+        <link href="https://en.wikipedia.org/wiki/Pub_test"/>
+        <updated>2023-09-10T17:31:41.921Z</updated>
+        <content type="html"><![CDATA[... that Australian politicians may face the <b><a href="/wiki/Pub_test" title="Pub test">pub test</a></b>?]]></content>
+    </entry>
+</feed>
