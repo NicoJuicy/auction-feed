@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-09-11T17:33:02.250Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chollas Creek]]></title>
+        <id>https://en.wikipedia.org/wiki/Chollas_Creek</id>
+        <link href="https://en.wikipedia.org/wiki/Chollas_Creek"/>
+        <updated>2023-09-11T17:32:24.998Z</updated>
+        <content type="html"><![CDATA[... that a <a href="/wiki/California_sea_lion" title="California sea lion">California sea lion</a>, later named Freeway, was thought to have traveled up <b><a href="/wiki/Chollas_Creek" title="Chollas Creek">Chollas Creek</a></b> <i>(pictured)</i> before getting onto <a href="/wiki/California_State_Route_94" title="California State Route 94">California State Highway&nbsp;94</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akbelen Forest]]></title>
+        <id>https://en.wikipedia.org/wiki/Akbelen_Forest</id>
+        <link href="https://en.wikipedia.org/wiki/Akbelen_Forest"/>
+        <updated>2023-09-11T17:32:24.998Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Akbelen_Forest" title="Akbelen Forest">Akbelen Forest</a></b> is being cut down to make way for a coal mine?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gage and Tollner]]></title>
+        <id>https://en.wikipedia.org/wiki/Gage_and_Tollner</id>
+        <link href="https://en.wikipedia.org/wiki/Gage_and_Tollner"/>
+        <updated>2023-09-11T17:32:24.998Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Gage_and_Tollner" title="Gage and Tollner">Gage and Tollner</a></b> used to close from June to September because of oyster shortages?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poecilia gillii]]></title>
+        <id>https://en.wikipedia.org/wiki/Poecilia_gillii</id>
+        <link href="https://en.wikipedia.org/wiki/Poecilia_gillii"/>
+        <updated>2023-09-11T17:32:25.002Z</updated>
+        <content type="html"><![CDATA[... that small <i><b><a href="/wiki/Poecilia_gillii" title="Poecilia gillii">Poecilia gillii</a></b></i> males have longer <a href="/wiki/Fish_fin#reproduction" title="Fish fin">sex organs</a> than larger males, to facilitate mating with females that flee from them?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freedomland U.S.A.]]></title>
+        <id>https://en.wikipedia.org/wiki/Freedomland_U.S.A.</id>
+        <link href="https://en.wikipedia.org/wiki/Freedomland_U.S.A."/>
+        <updated>2023-09-11T17:32:25.007Z</updated>
+        <content type="html"><![CDATA[... that kids could fight the Great Chicago Fire at <b><a href="/wiki/Freedomland_U.S.A." title="Freedomland U.S.A.">Freedomland U.S.A.</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cliftonville Ladies F.C.]]></title>
+        <id>https://en.wikipedia.org/wiki/Cliftonville_Ladies_F.C.</id>
+        <link href="https://en.wikipedia.org/wiki/Cliftonville_Ladies_F.C."/>
+        <updated>2023-09-11T17:32:25.008Z</updated>
+        <content type="html"><![CDATA[... that despite being the first women's football team in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a> to sign players on professional contracts, <b><a href="/wiki/Cliftonville_Ladies_F.C." title="Cliftonville Ladies F.C.">Cliftonville Ladies F.C.</a></b> were not the first club to register them?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Art Rooney Jr.]]></title>
+        <id>https://en.wikipedia.org/wiki/Art_Rooney_Jr.</id>
+        <link href="https://en.wikipedia.org/wiki/Art_Rooney_Jr."/>
+        <updated>2023-09-11T17:32:25.013Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Art_Rooney_Jr." title="Art Rooney Jr.">Art Rooney&nbsp;Jr.</a></b> presided over what one <a href="/wiki/Pro_Football_Hall_of_Fame" title="Pro Football Hall of Fame">Pro Football Hall of Fame</a> selector described as "the best drafting run in NFL history"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leskov Island]]></title>
+        <id>https://en.wikipedia.org/wiki/Leskov_Island</id>
+        <link href="https://en.wikipedia.org/wiki/Leskov_Island"/>
+        <updated>2023-09-11T17:32:25.015Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Leskov_Island" title="Leskov Island">Leskov Island</a></b> is probably inaccessible for penguins?]]></content>
+    </entry>
+</feed>
