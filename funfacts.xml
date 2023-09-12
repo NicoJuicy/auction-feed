@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-09-12T17:32:20.125Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Frances "the Shape" Vorne]]></title>
+        <id>https://en.wikipedia.org/wiki/Frances_Vorne</id>
+        <link href="https://en.wikipedia.org/wiki/Frances_Vorne"/>
+        <updated>2023-09-12T17:31:49.482Z</updated>
+        <content type="html"><![CDATA[... that a photograph of <b><a href="/wiki/Frances_Vorne" title="Frances Vorne">Frances "the Shape" Vorne</a></b> wearing a swimsuit made from remnants of a captured Nazi parachute <i>(pictured)</i> was one of the most sought-after pin-ups of <a href="/wiki/World_War_II" title="World War II">World War&nbsp;II</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood Pit]]></title>
+        <id>https://en.wikipedia.org/wiki/Blood_Pit</id>
+        <link href="https://en.wikipedia.org/wiki/Blood_Pit"/>
+        <updated>2023-09-12T17:31:49.484Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Play-by-mail_game" title="Play-by-mail game">play-by-email</a> game <i><b><a href="/wiki/Blood_Pit" title="Blood Pit">Blood Pit</a></b></i> was so complex that even its programmer had trouble winning?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[José Cobo Cano]]></title>
+        <id>https://en.wikipedia.org/wiki/Jos%C3%A9_Cobo_Cano</id>
+        <link href="https://en.wikipedia.org/wiki/Jos%C3%A9_Cobo_Cano"/>
+        <updated>2023-09-12T17:31:49.486Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Jos%C3%A9_Cobo_Cano" title="José Cobo Cano">José Cobo Cano</a></b> compared officiating same-sex marriages to celebrating the <a href="/wiki/Eucharist" title="Eucharist">Eucharist</a> with <a href="/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eternal Blue]]></title>
+        <id>https://en.wikipedia.org/wiki/Eternal_Blue_(album)</id>
+        <link href="https://en.wikipedia.org/wiki/Eternal_Blue_(album)"/>
+        <updated>2023-09-12T17:31:49.488Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Eternal_Blue_(album)" title="Eternal Blue (album)">Eternal Blue</a></b></i>, a <a href="/wiki/Metalcore" title="Metalcore">metalcore</a> album, was inspired in part by 1980s <a href="/wiki/Pop_music" title="Pop music">pop music</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maisi]]></title>
+        <id>https://en.wikipedia.org/wiki/Maisi</id>
+        <link href="https://en.wikipedia.org/wiki/Maisi"/>
+        <updated>2023-09-12T17:31:49.492Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Loud_LDN" title="Loud LDN">Loud LDN</a> co-founder <b><a href="/wiki/Maisi" title="Maisi">Maisi</a></b> came joint last in the 2022 <a href="/wiki/Maldon_mud_race" title="Maldon mud race">Maldon mud race</a>, behind a naked runner who had been forced to start after everyone else?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1976 Spring Hill shooting]]></title>
+        <id>https://en.wikipedia.org/wiki/1976_Spring_Hill_shooting</id>
+        <link href="https://en.wikipedia.org/wiki/1976_Spring_Hill_shooting"/>
+        <updated>2023-09-12T17:31:49.493Z</updated>
+        <content type="html"><![CDATA[... that the perpetrator of the <b><a href="/wiki/1976_Spring_Hill_shooting" title="1976 Spring Hill shooting">1976 Spring Hill shooting</a></b> allegedly committed the attack in a rage after being denied membership to a model plane club?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wendy McMahon]]></title>
+        <id>https://en.wikipedia.org/wiki/Wendy_McMahon_(television_executive)</id>
+        <link href="https://en.wikipedia.org/wiki/Wendy_McMahon_(television_executive)"/>
+        <updated>2023-09-12T17:31:49.495Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/CBS_News_and_Stations" title="CBS News and Stations">CBS News and Stations</a> president <b><a href="/wiki/Wendy_McMahon_(television_executive)" title="Wendy McMahon (television executive)">Wendy McMahon</a></b> helped bring local evening news back to <a href="/wiki/WWJ-TV" title="WWJ-TV">the network's Detroit station</a> after 20 years?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dwarf merry widow]]></title>
+        <id>https://en.wikipedia.org/wiki/Phallichthys_tico</id>
+        <link href="https://en.wikipedia.org/wiki/Phallichthys_tico"/>
+        <updated>2023-09-12T17:31:49.499Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Phallichthys_tico" title="Phallichthys tico">dwarf merry widow</a></b> is not very brave?]]></content>
+    </entry>
+</feed>
