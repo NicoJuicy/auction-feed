@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2023-09-20T17:32:42.515Z</updated>
+    <updated>2023-09-21T05:34:17.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-11942">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01933-1-10756-1-10756-still-ecv-10-meeloopstapelaar-11942"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7d5b48044716b2e9e2296aba967286a581263ba8o1726767154">
+                <input type="hidden" name="csrf_token" value="75580cd9d3c0da700744910873a8df95ed0c4949o1726810447">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01933-1-10756-1-10756-still-ecv-10-meeloopstapelaar-11942">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/11942/image_256/%5BBXL-01933-1-10756-1%5D%2010756%20-%20%20Still%20ECV%2010%20meeloopstapelaar?unique=3555dee" itemprop="image" class="img img-fluid" alt="[BXL/01933/1/10756/1] 10756 -  Still ECV 10 meeloopstapelaar" loading="lazy"></span>
                 </a>
@@ -27,17 +27,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">19</span>
+            <span class="hours span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">21</span>
+            <span class="minutes span_time_digit">19</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">30</span>
+            <span class="seconds span_time_digit">57</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,15 +63,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/9825">
-                    18 Biedingen</a>
+                    21 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">58</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">820,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">850,00</span>
                   </b>
                 </div>
            <p></p>
@@ -91,7 +91,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10891">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01815-2-10692-1-lot-1242-nissan-qashqai-129-959-km-bouwjaar-2014-euro-5b-10891"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="669a9313fa39258aa5a5a1cc136590f56dce6d91o1726767155">
+                <input type="hidden" name="csrf_token" value="75580cd9d3c0da700744910873a8df95ed0c4949o1726810447">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01815-2-10692-1-lot-1242-nissan-qashqai-129-959-km-bouwjaar-2014-euro-5b-10891">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10891/image_256/%5BBXL-01815-2-10692-1%5D%20Lot%201242%20-%20Nissan%20Qashqai%20-%20129.959%20Km%20-%20Bouwjaar%202014%20-%20Euro%205b?unique=be70bb9" itemprop="image" class="img img-fluid" alt="[BXL/01815/2/10692/1] Lot 1242 - Nissan Qashqai - 129.959 Km - Bouwjaar 2014 - Euro 5b" loading="lazy"></span>
                 </a>
@@ -104,17 +104,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -140,7 +140,7 @@
                     8 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -165,7 +165,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10267">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-10640-1-lot-1157-bmw-420d-174-507-km-bouwjaar-2015-euro-6b-10267"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="669a9313fa39258aa5a5a1cc136590f56dce6d91o1726767155">
+                <input type="hidden" name="csrf_token" value="75580cd9d3c0da700744910873a8df95ed0c4949o1726810447">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-10640-1-lot-1157-bmw-420d-174-507-km-bouwjaar-2015-euro-6b-10267">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10267/image_256/%5BBXL-00002-3-10640-1%5D%20Lot%201157%20-%20BMW%20420d%20-%20174.507%20Km%20-%20Bouwjaar%202015%20-%20Euro%206b?unique=e744e18" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/10640/1] Lot 1157 - BMW 420d - 174.507 Km - Bouwjaar 2015 - Euro 6b" loading="lazy"></span>
                 </a>
@@ -178,17 +178,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">57</span>
+            <span class="minutes span_time_digit">55</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -214,7 +214,7 @@
                     5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
