@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-09-25T17:32:20.698Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[statue of an apple]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Big_Apple_(Waitomo)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Big_Apple_(Waitomo)"/>
+        <updated>2023-09-25T17:31:51.671Z</updated>
+        <content type="html"><![CDATA[... that there is a 7.5-metre-tall (25&nbsp;ft) <b><a href="/wiki/The_Big_Apple_(Waitomo)" title="The Big Apple (Waitomo)">statue of an apple</a></b> <i>(pictured)</i> in Waitomo, New Zealand?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julian Hill]]></title>
+        <id>https://en.wikipedia.org/wiki/Julian_Hill_(American_football)</id>
+        <link href="https://en.wikipedia.org/wiki/Julian_Hill_(American_football)"/>
+        <updated>2023-09-25T17:31:51.672Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Julian_Hill_(American_football)" title="Julian Hill (American football)">Julian Hill</a></b> was the first player from <a href="/wiki/Campbell_University" title="Campbell University">Campbell University</a> to make an NFL roster, but <b><a href="/wiki/Brevin_Allen" title="Brevin Allen">Brevin Allen</a></b> was the first to play in a game?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a video game]]></title>
+        <id>https://en.wikipedia.org/wiki/Lake_(video_game)</id>
+        <link href="https://en.wikipedia.org/wiki/Lake_(video_game)"/>
+        <updated>2023-09-25T17:31:51.675Z</updated>
+        <content type="html"><![CDATA[... that a freelance game developer successfully pitched <b><a href="/wiki/Lake_(video_game)" title="Lake (video game)">a video game</a></b> with a picture of a car driving around a lake?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valerie Cowie]]></title>
+        <id>https://en.wikipedia.org/wiki/Valerie_Cowie</id>
+        <link href="https://en.wikipedia.org/wiki/Valerie_Cowie"/>
+        <updated>2023-09-25T17:31:51.677Z</updated>
+        <content type="html"><![CDATA[... that when <b><a href="/wiki/Valerie_Cowie" title="Valerie Cowie">Valerie Cowie</a></b> was appointed a <a href="/wiki/Senior_lecturer" title="Senior lecturer">senior lecturer</a>, one of her referees wrote that his "only reservation is that the post&nbsp;... does not adequately do justice to her high academic status"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Museum of Norwich at the Bridewell]]></title>
+        <id>https://en.wikipedia.org/wiki/Museum_of_Norwich_at_the_Bridewell</id>
+        <link href="https://en.wikipedia.org/wiki/Museum_of_Norwich_at_the_Bridewell"/>
+        <updated>2023-09-25T17:31:51.680Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Museum_of_Norwich_at_the_Bridewell" title="Museum of Norwich at the Bridewell">Museum of Norwich at the Bridewell</a></b> operated as a residence, a <a href="/wiki/House_of_correction" title="House of correction">house of correction</a>, a factory, and finally a museum?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charlotte Haining]]></title>
+        <id>https://en.wikipedia.org/wiki/Charlotte_Haining</id>
+        <link href="https://en.wikipedia.org/wiki/Charlotte_Haining"/>
+        <updated>2023-09-25T17:31:51.681Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Charlotte_Haining" title="Charlotte Haining">Charlotte Haining</a></b> was an International Jury Member for the selection of <a href="/wiki/Finland_in_the_Eurovision_Song_Contest_2020" title="Finland in the Eurovision Song Contest 2020">Finland's 2020 Eurovision Song Contest entry</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a Maine TV station]]></title>
+        <id>https://en.wikipedia.org/wiki/WCSH</id>
+        <link href="https://en.wikipedia.org/wiki/WCSH"/>
+        <updated>2023-09-25T17:31:51.688Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/WCSH" title="WCSH">a Maine TV station</a></b> was so protective of its evening newscast that it preempted nearly 40 percent of all <a href="/wiki/NBC_Sports" title="NBC Sports">NBC Sports</a> programming in 1994?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hạc San]]></title>
+        <id>https://en.wikipedia.org/wiki/H%E1%BA%A1c_San</id>
+        <link href="https://en.wikipedia.org/wiki/H%E1%BA%A1c_San"/>
+        <updated>2023-09-25T17:31:51.689Z</updated>
+        <content type="html"><![CDATA[... that <i>Hồn&nbsp;– trăng&nbsp;– máu</i>, <b><a href="/wiki/H%E1%BA%A1c_San" title="Hạc San">Hạc San</a></b><span class="nowrap">'s</span> <a href="/wiki/Concept_album" title="Concept album">concept album</a>, consists solely of the 29-minute title track?]]></content>
+    </entry>
+</feed>
