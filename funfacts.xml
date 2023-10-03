@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-10-03T17:32:15.020Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Apollo Theater]]></title>
+        <id>https://en.wikipedia.org/wiki/Apollo_Theater</id>
+        <link href="https://en.wikipedia.org/wiki/Apollo_Theater"/>
+        <updated>2023-10-03T17:31:43.530Z</updated>
+        <content type="html"><![CDATA[... that at New York City's <b><a href="/wiki/Apollo_Theater" title="Apollo Theater">Apollo Theater</a></b> <i>(pictured)</i>, amateurs could be swept off the stage?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cataract surgery]]></title>
+        <id>https://en.wikipedia.org/wiki/Cataract_surgery</id>
+        <link href="https://en.wikipedia.org/wiki/Cataract_surgery"/>
+        <updated>2023-10-03T17:31:43.531Z</updated>
+        <content type="html"><![CDATA[... that indirect evidence suggests that <b><a href="/wiki/Cataract_surgery" title="Cataract surgery">cataract surgery</a></b> could have been performed as early as in <a href="/wiki/Ancient_Egypt" title="Ancient Egypt">ancient Egypt</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a video game]]></title>
+        <id>https://en.wikipedia.org/wiki/Special_Force_(2003_video_game)</id>
+        <link href="https://en.wikipedia.org/wiki/Special_Force_(2003_video_game)"/>
+        <updated>2023-10-03T17:31:43.535Z</updated>
+        <content type="html"><![CDATA[... that the militant group <a href="/wiki/Hezbollah" title="Hezbollah">Hezbollah</a> released <b><a href="/wiki/Special_Force_(2003_video_game)" title="Special Force (2003 video game)">a video game</a></b> in 2003?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Profira Sadoveanu]]></title>
+        <id>https://en.wikipedia.org/wiki/Profira_Sadoveanu</id>
+        <link href="https://en.wikipedia.org/wiki/Profira_Sadoveanu"/>
+        <updated>2023-10-03T17:31:43.536Z</updated>
+        <content type="html"><![CDATA[... that writer <b><a href="/wiki/Profira_Sadoveanu" title="Profira Sadoveanu">Profira Sadoveanu</a></b> and her novelist father <a href="/wiki/Mihail_Sadoveanu" title="Mihail Sadoveanu">Mihail</a> once had to take turns defending their home against attacks by the <a href="/wiki/Iron_Guard" title="Iron Guard">Iron Guard</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Bank Center]]></title>
+        <id>https://en.wikipedia.org/wiki/U.S._Bank_Center_(Seattle)</id>
+        <link href="https://en.wikipedia.org/wiki/U.S._Bank_Center_(Seattle)"/>
+        <updated>2023-10-03T17:31:43.538Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/U.S._Bank_Center_(Seattle)" title="U.S. Bank Center (Seattle)">U.S. Bank Center</a></b> in <a href="/wiki/Seattle" title="Seattle">Seattle</a> once had a <a href="/wiki/Montessori_education" title="Montessori education">Montessori school</a> on the 23rd floor?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benjamin Moloise's execution]]></title>
+        <id>https://en.wikipedia.org/wiki/Execution_of_Benjamin_Moloise</id>
+        <link href="https://en.wikipedia.org/wiki/Execution_of_Benjamin_Moloise"/>
+        <updated>2023-10-03T17:31:43.539Z</updated>
+        <content type="html"><![CDATA[... that after <b><a href="/wiki/Execution_of_Benjamin_Moloise" title="Execution of Benjamin Moloise">Benjamin Moloise's execution</a></b>, the extremist group <a href="/wiki/Action_Directe" title="Action Directe">Direct Action</a> bombed two Paris companies linked to South Africa in protest?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Brown]]></title>
+        <id>https://en.wikipedia.org/wiki/John_Brown_(song)</id>
+        <link href="https://en.wikipedia.org/wiki/John_Brown_(song)"/>
+        <updated>2023-10-03T17:31:43.541Z</updated>
+        <content type="html"><![CDATA[... that "<b><a href="/wiki/John_Brown_(song)" title="John Brown (song)">John Brown</a></b>" was recorded by <a href="/wiki/Bob_Dylan" title="Bob Dylan">Bob Dylan</a> under the pseudonym "Blind Boy Grunt"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Ojo]]></title>
+        <id>https://en.wikipedia.org/wiki/El_Ojo</id>
+        <link href="https://en.wikipedia.org/wiki/El_Ojo"/>
+        <updated>2023-10-03T17:31:43.542Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/El_Ojo" title="El Ojo">El Ojo</a></b> is a circular rotating <a href="/wiki/Floating_island" title="Floating island">floating island</a>?]]></content>
+    </entry>
+</feed>
