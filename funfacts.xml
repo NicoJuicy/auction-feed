@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-10-07T17:33:13.322Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[swordtail molly]]></title>
+        <id>https://en.wikipedia.org/wiki/Poecilia_kykesis</id>
+        <link href="https://en.wikipedia.org/wiki/Poecilia_kykesis"/>
+        <updated>2023-10-07T17:32:30.540Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Poecilia_kykesis" title="Poecilia kykesis">swordtail molly</a></b> <i>(examples pictured)</i> and the <b><a href="/wiki/Poecilia_petenensis" title="Poecilia petenensis">Petén molly</a></b> have been named and renamed so often, one even ending up with the other's name at one point, that the swordtail molly's current <a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">scientific name</a> means 'confusion'?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[philosophy]]></title>
+        <id>https://en.wikipedia.org/wiki/Philosophy</id>
+        <link href="https://en.wikipedia.org/wiki/Philosophy"/>
+        <updated>2023-10-07T17:32:30.543Z</updated>
+        <content type="html"><![CDATA[... that physics, chemistry, and biology were all part of <b><a href="/wiki/Philosophy" title="Philosophy">philosophy</a></b> before they became separate disciplines?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Percy Delf Smith]]></title>
+        <id>https://en.wikipedia.org/wiki/Percy_Delf_Smith</id>
+        <link href="https://en.wikipedia.org/wiki/Percy_Delf_Smith"/>
+        <updated>2023-10-07T17:32:30.546Z</updated>
+        <content type="html"><![CDATA[... that artist <b><a href="/wiki/Percy_Delf_Smith" title="Percy Delf Smith">Percy Delf Smith</a></b><span class="nowrap">'s</span> work included <a href="/wiki/Lettering" title="Lettering">lettering</a> using <a href="/wiki/Roman_square_capitals" title="Roman square capitals">Roman capitals</a> and depictions of the <a href="/wiki/World_War_I" title="World War I">First World War</a> inspired by his experiences in the trenches?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2006 San Miguel shooting]]></title>
+        <id>https://en.wikipedia.org/wiki/2006_San_Miguel_shooting</id>
+        <link href="https://en.wikipedia.org/wiki/2006_San_Miguel_shooting"/>
+        <updated>2023-10-07T17:32:30.549Z</updated>
+        <content type="html"><![CDATA[... that the perpetrator of the <b><a href="/wiki/2006_San_Miguel_shooting" title="2006 San Miguel shooting">2006 San Miguel shooting</a></b> greeted some former co-workers and shot at others?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mondelez v AMWU]]></title>
+        <id>https://en.wikipedia.org/wiki/Mondelez_v_AMWU</id>
+        <link href="https://en.wikipedia.org/wiki/Mondelez_v_AMWU"/>
+        <updated>2023-10-07T17:32:30.552Z</updated>
+        <content type="html"><![CDATA[... that a dispute over paid sick leave at <a href="/wiki/Cadbury%27s_Chocolate_Factory,_Tasmania" title="Cadbury's Chocolate Factory, Tasmania">a chocolate factory</a> ended up before the <a href="/wiki/High_Court_of_Australia" title="High Court of Australia">High Court of Australia</a> in <i><b><a href="/wiki/Mondelez_v_AMWU" title="Mondelez v AMWU">Mondelez v AMWU</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Avenue Armory]]></title>
+        <id>https://en.wikipedia.org/wiki/Park_Avenue_Armory</id>
+        <link href="https://en.wikipedia.org/wiki/Park_Avenue_Armory"/>
+        <updated>2023-10-07T17:32:30.557Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Park_Avenue_Armory" title="Park Avenue Armory">Park Avenue Armory</a></b> was leased out as an art center because the New York state government could not pay for repairs?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[her 2023 season]]></title>
+        <id>https://en.wikipedia.org/wiki/2023_Aryna_Sabalenka_tennis_season</id>
+        <link href="https://en.wikipedia.org/wiki/2023_Aryna_Sabalenka_tennis_season"/>
+        <updated>2023-10-07T17:32:30.559Z</updated>
+        <content type="html"><![CDATA[... that during <b><a href="/wiki/2023_Aryna_Sabalenka_tennis_season" title="2023 Aryna Sabalenka tennis season">her 2023 season</a></b>, <a href="/wiki/Aryna_Sabalenka" title="Aryna Sabalenka">Aryna Sabalenka</a> became the first woman since <a href="/wiki/Serena_Williams" title="Serena Williams">Serena Williams</a> in 2016 to reach the semifinals at all four <a href="/wiki/Grand_Slam_(tennis)" title="Grand Slam (tennis)">majors</a> in a season?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Death Valley Girls]]></title>
+        <id>https://en.wikipedia.org/wiki/Death_Valley_Girls</id>
+        <link href="https://en.wikipedia.org/wiki/Death_Valley_Girls"/>
+        <updated>2023-10-07T17:32:30.566Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Death_Valley_Girls" title="Death Valley Girls">Death Valley Girls</a></b> have been described as "doom-boogie psych-pop"?]]></content>
+    </entry>
+</feed>
