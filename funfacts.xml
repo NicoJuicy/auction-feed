@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-10-21T17:31:55.373Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[premiers of Victoria]]></title>
+        <id>https://en.wikipedia.org/wiki/Premier_of_Victoria</id>
+        <link href="https://en.wikipedia.org/wiki/Premier_of_Victoria"/>
+        <updated>2023-10-21T17:31:22.407Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Premier_of_Victoria" title="Premier of Victoria">premiers of Victoria</a></b> get a bronze statue <i>(example pictured)</i> if they hold office for more than 3,000 days?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia Marden]]></title>
+        <id>https://en.wikipedia.org/wiki/Julia_Marden</id>
+        <link href="https://en.wikipedia.org/wiki/Julia_Marden"/>
+        <updated>2023-10-21T17:31:22.409Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Julia_Marden" title="Julia Marden">Julia Marden</a></b> was the first known person to create a Wampanoag twined turkey-feather mantle since European contact 400 years earlier?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[plants]]></title>
+        <id>https://en.wikipedia.org/wiki/Plant</id>
+        <link href="https://en.wikipedia.org/wiki/Plant"/>
+        <updated>2023-10-21T17:31:22.411Z</updated>
+        <content type="html"><![CDATA[... that Aristotle classified living things based on whether they had a "sensitive soul" or, like <b><a href="/wiki/Plant" title="Plant">plants</a></b>, only a "vegetative soul"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liu Weining]]></title>
+        <id>https://en.wikipedia.org/wiki/Liu_Weining</id>
+        <link href="https://en.wikipedia.org/wiki/Liu_Weining"/>
+        <updated>2023-10-21T17:31:22.413Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Liu_Weining" title="Liu Weining">Liu Weining</a></b>, grandson of <a href="/wiki/Liu_Shaoqi" title="Liu Shaoqi">the second president of the People's Republic of China</a>, became involved with Russian military secrecy due to his job and was denied the ability to travel to China?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[permafrost]]></title>
+        <id>https://en.wikipedia.org/wiki/Permafrost</id>
+        <link href="https://en.wikipedia.org/wiki/Permafrost"/>
+        <updated>2023-10-21T17:31:22.415Z</updated>
+        <content type="html"><![CDATA[... that there are at least 13,000 sites containing toxic materials that are frozen in <b><a href="/wiki/Permafrost" title="Permafrost">permafrost</a></b>, many of which are expected to start thawing and releasing their pollutants in the near future?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs and Flowers of the Wasatch]]></title>
+        <id>https://en.wikipedia.org/wiki/Songs_and_Flowers_of_the_Wasatch</id>
+        <link href="https://en.wikipedia.org/wiki/Songs_and_Flowers_of_the_Wasatch"/>
+        <updated>2023-10-21T17:31:22.416Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Songs_and_Flowers_of_the_Wasatch" title="Songs and Flowers of the Wasatch">Songs and Flowers of the Wasatch</a></b></i> represented a shift in Mormon history toward a "socially-accepted American cultural and religious heritage", according to historian <a href="/wiki/Jennifer_Reeder_(historian)" title="Jennifer Reeder (historian)">Jennifer Reeder</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Righteous Revenge]]></title>
+        <id>https://en.wikipedia.org/wiki/Righteous_Revenge</id>
+        <link href="https://en.wikipedia.org/wiki/Righteous_Revenge"/>
+        <updated>2023-10-21T17:31:22.418Z</updated>
+        <content type="html"><![CDATA[... that it is debated whether the 1919 kino-drama <i><b><a href="/wiki/Righteous_Revenge" title="Righteous Revenge">Righteous Revenge</a></b></i> can be considered the first Korean film?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinderella]]></title>
+        <id>https://en.wikipedia.org/wiki/Sinderella</id>
+        <link href="https://en.wikipedia.org/wiki/Sinderella"/>
+        <updated>2023-10-21T17:31:22.420Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Jim_Davidson" title="Jim Davidson">Jim Davidson</a>'s <i><b><a href="/wiki/Sinderella" title="Sinderella">Sinderella</a></b></i> featured a flatulent Fairy Godmother?]]></content>
+    </entry>
+</feed>
