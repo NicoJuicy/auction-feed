@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2023-10-21T17:31:55.368Z</updated>
+    <updated>2023-10-22T05:32:33.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13346">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-274-rt-668-loopband-13346"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-274-rt-668-loopband-13346">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13346/image_256/%5BGEM-00001-4-10306-274%5D%20RT%20668%20-%20loopband?unique=afe6fd5" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/274] RT 668 - loopband" loading="lazy"></span>
                 </a>
@@ -27,17 +27,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">22</span>
+            <span class="minutes span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     7 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10925">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-01438-4-00004-620-lot-halters-lot-sh1-10925"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-01438-4-00004-620-lot-halters-lot-sh1-10925">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10925/image_256/%5BGEM-01438-4-00004-620%5D%20Lot%20halters%20-%20Lot%20SH1?unique=fff3132" itemprop="image" class="img img-fluid" alt="[GEM/01438/4/00004/620] Lot halters - Lot SH1" loading="lazy"></span>
                 </a>
@@ -101,17 +101,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">02</span>
+            <span class="seconds span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -162,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13651">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-201-lot-1222b-fotografie-camera-s-fotoapparatuur-13651"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-201-lot-1222b-fotografie-camera-s-fotoapparatuur-13651">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13651/image_256/%5BBXL-00001-4-10187-201%5D%20Lot%201222B%20-%20Fotografie%20%28camera%27s%20%26%20fotoapparatuur%29?unique=d25f5d3" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/201] Lot 1222B - Fotografie (camera's &amp; fotoapparatuur)" loading="lazy"></span>
                 </a>
@@ -175,17 +175,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">58</span>
+            <span class="minutes span_time_digit">57</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">40</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -214,7 +214,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -239,7 +239,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13503">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-347-lot-140-bmw-m-love-the-book-engelstalig-13503"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-347-lot-140-bmw-m-love-the-book-engelstalig-13503">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13503/image_256/%5BBOR-01438-4-10000-347%5D%20Lot%20140%20-%20BMW%20M%20Love%20-%20The%20Book%20-%20Engelstalig?unique=be1656c" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/347] Lot 140 - BMW M Love - The Book - Engelstalig" loading="lazy"></span>
                 </a>
@@ -247,22 +247,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-24 18:02:55" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">31</span>
+            <span class="minutes span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">12</span>
+            <span class="seconds span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -293,7 +293,7 @@ The..
                     10 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -318,7 +318,7 @@ The..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13505">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-348-lot-154-stromae-1-album-en-5-singles-13505"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-348-lot-154-stromae-1-album-en-5-singles-13505">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13505/image_256/%5BBOR-01438-4-10000-348%5D%20Lot%20154%20-%20Stromae%20-%201%20album%20en%205%20singles?unique=e92d089" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/348] Lot 154 - Stromae - 1 album en 5 singles" loading="lazy"></span>
                 </a>
@@ -326,22 +326,22 @@ The..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-24 18:25:15" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">53</span>
+            <span class="minutes span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">32</span>
+            <span class="seconds span_time_digit">55</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -371,7 +371,7 @@ Inhoud: 1 alb..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">56</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -396,7 +396,7 @@ Inhoud: 1 alb..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10727">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-270-lot-179av-roland-elektrisch-drumstel-set-onvolledig-10727"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-270-lot-179av-roland-elektrisch-drumstel-set-onvolledig-10727">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10727/image_256/%5BBOR-01438-4-10000-270%5D%20Lot%20179av%20-%20Roland%20-%20Elektrisch%20drumstel%20-%20set%20onvolledig?unique=64bfad1" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/270] Lot 179av - Roland - Elektrisch drumstel - set onvolledig" loading="lazy"></span>
                 </a>
@@ -404,12 +404,12 @@ Inhoud: 1 alb..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-24 19:05:23" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -419,7 +419,7 @@ Inhoud: 1 alb..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -449,7 +449,7 @@ Artikel: Elektris..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -474,7 +474,7 @@ Artikel: Elektris..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13060">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-342-lot-129-gesigneerde-t-shirt-van-den-bergh-dimitri-13060"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d165d700019d6e1cde78e8e09aee1bb2fc28b83fo1729445502">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-342-lot-129-gesigneerde-t-shirt-van-den-bergh-dimitri-13060">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13060/image_256/%5BBOR-01438-4-10000-342%5D%20Lot%20129%20-%20Gesigneerde%20t-shirt%20Van%20den%20Bergh%20Dimitri?unique=7ccd9c7" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/342] Lot 129 - Gesigneerde t-shirt Van den Bergh Dimitri" loading="lazy"></span>
                 </a>
@@ -482,22 +482,22 @@ Artikel: Elektris..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-24 19:15:11" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">43</span>
+            <span class="minutes span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">28</span>
+            <span class="seconds span_time_digit">51</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -526,7 +526,7 @@ Artikel: Elektris..
                     5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -551,7 +551,7 @@ Artikel: Elektris..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-10720">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-268-lot-144av-guild-newark-gitaar-x-175-te-herstellen-10720"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-268-lot-144av-guild-newark-gitaar-x-175-te-herstellen-10720">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/10720/image_256/%5BBOR-01438-4-10000-268%5D%20Lot%20144av%20-%20Guild%20Newark%20-%20Gitaar%20-%20X-175%20-%20te%20herstellen?unique=fe965cd" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/268] Lot 144av - Guild Newark - Gitaar - X-175 - te herstellen" loading="lazy"></span>
                 </a>
@@ -559,22 +559,22 @@ Artikel: Elektris..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-24 19:35:12" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">03</span>
+            <span class="minutes span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">28</span>
+            <span class="seconds span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -604,7 +604,7 @@ Serie: Newark St. ..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">02</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -629,7 +629,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13368">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-284-rt-687-longboard-imperium-13368"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-284-rt-687-longboard-imperium-13368">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13368/image_256/%5BGEM-00001-4-10306-284%5D%20RT%20687%20-%20longboard%20Imperium?unique=c96679d" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/284] RT 687 - longboard Imperium" loading="lazy"></span>
                 </a>
@@ -642,7 +642,7 @@ Serie: Newark St. ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -652,7 +652,7 @@ Serie: Newark St. ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">45</span>
+            <span class="seconds span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -678,7 +678,7 @@ Serie: Newark St. ..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">46</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -703,7 +703,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13450">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10343-486-lot-camping-13450"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10343-486-lot-camping-13450">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13450/image_256/%5BGEM-00001-4-10343-486%5D%20Lot%20Camping?unique=4f4966a" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10343/486] Lot Camping" loading="lazy"></span>
                 </a>
@@ -716,17 +716,17 @@ Serie: Newark St. ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">28</span>
+            <span class="minutes span_time_digit">27</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">16</span>
+            <span class="seconds span_time_digit">40</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -752,7 +752,7 @@ Serie: Newark St. ..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">17</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -777,7 +777,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13381">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-290-rt-693-orange-gym-loopband-13381"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-290-rt-693-orange-gym-loopband-13381">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13381/image_256/%5BGEM-00001-4-10306-290%5D%20RT%20693%20-%20Orange%20Gym%20loopband?unique=3d89b86" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/290] RT 693 - Orange Gym loopband" loading="lazy"></span>
                 </a>
@@ -790,17 +790,17 @@ Serie: Newark St. ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">17</span>
+            <span class="minutes span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -826,7 +826,7 @@ Serie: Newark St. ..
                     5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -851,7 +851,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-12826">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-01438-4-00002-294-spierbank-cb419-12826"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-01438-4-00002-294-spierbank-cb419-12826">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/12826/image_256/%5BGEM-01438-4-00002-294%5D%20Spierbank%20-%20cb419?unique=88a1156" itemprop="image" class="img img-fluid" alt="[GEM/01438/4/00002/294] Spierbank - cb419" loading="lazy"></span>
                 </a>
@@ -864,17 +864,17 @@ Serie: Newark St. ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">03</span>
+            <span class="minutes span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">16</span>
+            <span class="seconds span_time_digit">40</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -900,7 +900,7 @@ Serie: Newark St. ..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">17</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">02</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -925,7 +925,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-9011">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00003-5-10544-6-lot-837-golf-set-nr-1-9011"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00003-5-10544-6-lot-837-golf-set-nr-1-9011">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/9011/image_256/%5BBXL-00003-5-10544-6%5D%20Lot%20837%20-%20Golf%20set%20nr.1?unique=0801f88" itemprop="image" class="img img-fluid" alt="[BXL/00003/5/10544/6] Lot 837 - Golf set nr.1" loading="lazy"></span>
                 </a>
@@ -933,12 +933,12 @@ Serie: Newark St. ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-29 17:40:40" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">08</span>
+            <span class="days span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -948,7 +948,7 @@ Serie: Newark St. ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">56</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -974,7 +974,7 @@ Serie: Newark St. ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">08</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">08</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -999,7 +999,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-9012">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00003-5-10544-7-lot-838-b-golf-set-nr-2-dunlop-donnay-9012"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00003-5-10544-7-lot-838-b-golf-set-nr-2-dunlop-donnay-9012">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/9012/image_256/%5BBXL-00003-5-10544-7%5D%20Lot%20838%20B%20-%20Golf%20set%20nr.%202%20%28%20Dunlop%20%2B%20Donnay%29?unique=ee6a85b" itemprop="image" class="img img-fluid" alt="[BXL/00003/5/10544/7] Lot 838 B - Golf set nr. 2 ( Dunlop + Donnay)" loading="lazy"></span>
                 </a>
@@ -1007,22 +1007,22 @@ Serie: Newark St. ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-29 17:45:45" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">08</span>
+            <span class="days span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">14</span>
+            <span class="minutes span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">01</span>
+            <span class="seconds span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1048,7 +1048,7 @@ Serie: Newark St. ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">02</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -1073,7 +1073,7 @@ Serie: Newark St. ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13982">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-355-lot-125-stanley-vouwbare-werktafel-fatmax-1-75672-13982"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-355-lot-125-stanley-vouwbare-werktafel-fatmax-1-75672-13982">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13982/image_256/%5BBOR-01438-4-10000-355%5D%20Lot%20125%20-%20Stanley%20-%20Vouwbare%20werktafel%20-%20FatMax%201-75672?unique=0c3f2b3" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/355] Lot 125 - Stanley - Vouwbare werktafel - FatMax 1-75672" loading="lazy"></span>
                 </a>
@@ -1081,22 +1081,22 @@ Serie: Newark St. ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-29 20:15:09" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">08</span>
+            <span class="days span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">43</span>
+            <span class="minutes span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">25</span>
+            <span class="seconds span_time_digit">49</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1126,7 +1126,7 @@ Artikel: Vouwbar..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -1151,7 +1151,7 @@ Artikel: Vouwbar..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13560">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-01438-4-00004-710-decathlon-oxelo-fb100-sliderail-grindrail-voor-skateboard-13560"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-01438-4-00004-710-decathlon-oxelo-fb100-sliderail-grindrail-voor-skateboard-13560">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13560/image_256/%5BGEM-01438-4-00004-710%5D%20Decathlon%20Oxelo%20-%20FB100%20-%20Sliderail%20-%20grindrail%20voor%20skateboard?unique=1caba45" itemprop="image" class="img img-fluid" alt="[GEM/01438/4/00004/710] Decathlon Oxelo - FB100 - Sliderail / grindrail voor skateboard" loading="lazy"></span>
                 </a>
@@ -1159,22 +1159,22 @@ Artikel: Vouwbar..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-10-30 17:38:07" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">09</span>
+            <span class="days span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">06</span>
+            <span class="minutes span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">23</span>
+            <span class="seconds span_time_digit">47</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1200,7 +1200,7 @@ Artikel: Vouwbar..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">09</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -1225,7 +1225,7 @@ Artikel: Vouwbar..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13868">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-379-z-11-b-10-zwemkleding-en-accessoires-13868"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5073f390002cf17574343cb9eebd9b56ebed0243o1729445503">
+                <input type="hidden" name="csrf_token" value="6867d922d9a1a36c615b819223da184682b68fcfo1729488739">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-379-z-11-b-10-zwemkleding-en-accessoires-13868">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13868/image_256/%5BGEM-00001-4-10306-379%5D%20Z%2011%20B-10%20-%20zwemkleding%20en%20accessoires?unique=e0c344c" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/379] Z 11 B-10 - zwemkleding en accessoires" loading="lazy"></span>
                 </a>
@@ -1238,7 +1238,7 @@ Artikel: Vouwbar..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">19</span>
+            <span class="hours span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1248,7 +1248,7 @@ Artikel: Vouwbar..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1274,7 +1274,7 @@ Artikel: Vouwbar..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">15</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">15</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
