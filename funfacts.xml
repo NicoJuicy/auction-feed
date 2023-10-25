@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-10-25T17:32:33.360Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lingang DRT]]></title>
+        <id>https://en.wikipedia.org/wiki/Lingang_DRT</id>
+        <link href="https://en.wikipedia.org/wiki/Lingang_DRT"/>
+        <updated>2023-10-25T17:32:02.954Z</updated>
+        <content type="html"><![CDATA[... that according to one traveller, the rapid transit system <b><a href="/wiki/Lingang_DRT" title="Lingang DRT">Lingang DRT</a></b> <i>(pictured)</i> took an hour to travel what a car could do in 20 minutes and a bus in 40?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shukriyya Akhundzada]]></title>
+        <id>https://en.wikipedia.org/wiki/Shukriyya_Akhundzada</id>
+        <link href="https://en.wikipedia.org/wiki/Shukriyya_Akhundzada"/>
+        <updated>2023-10-25T17:32:02.956Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Shukriyya_Akhundzada" title="Shukriyya Akhundzada">Shukriyya Akhundzada</a></b> learned of her husband's death 15 years after it occurred?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orange Guy]]></title>
+        <id>https://en.wikipedia.org/wiki/Orange_Guy</id>
+        <link href="https://en.wikipedia.org/wiki/Orange_Guy"/>
+        <updated>2023-10-25T17:32:02.959Z</updated>
+        <content type="html"><![CDATA[... that New Zealand's election mascot <b><a href="/wiki/Orange_Guy" title="Orange Guy">Orange Guy</a></b> has a pet dog named Pup?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appalachian Spring]]></title>
+        <id>https://en.wikipedia.org/wiki/Appalachian_Spring</id>
+        <link href="https://en.wikipedia.org/wiki/Appalachian_Spring"/>
+        <updated>2023-10-25T17:32:02.961Z</updated>
+        <content type="html"><![CDATA[... that the early drafts of <i><b><a href="/wiki/Appalachian_Spring" title="Appalachian Spring">Appalachian Spring</a></b></i> contained a Native American girl to act as an invisible theatrical device, but it was cut in the final production?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steem]]></title>
+        <id>https://en.wikipedia.org/wiki/Steem_(peanut_butter)</id>
+        <link href="https://en.wikipedia.org/wiki/Steem_(peanut_butter)"/>
+        <updated>2023-10-25T17:32:02.963Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Steem_(peanut_butter)" title="Steem (peanut butter)">Steem</a></b> peanut butter contained as much caffeine per serving as two cups of coffee?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a copyright infringement case over a coffee-table history of the Grateful Dead]]></title>
+        <id>https://en.wikipedia.org/wiki/Bill_Graham_Archives_v._Dorling_Kindersley,_Ltd.</id>
+        <link href="https://en.wikipedia.org/wiki/Bill_Graham_Archives_v._Dorling_Kindersley,_Ltd."/>
+        <updated>2023-10-25T17:32:02.967Z</updated>
+        <content type="html"><![CDATA[... that in <b><a href="/wiki/Bill_Graham_Archives_v._Dorling_Kindersley,_Ltd." title="Bill Graham Archives v. Dorling Kindersley, Ltd.">a copyright infringement case over a coffee-table history of the Grateful Dead</a></b>, the <a href="/wiki/United_States_Court_of_Appeals_for_the_Second_Circuit" title="United States Court of Appeals for the Second Circuit">Second Circuit</a> held that a reuser can still claim <a href="/wiki/Fair_use" title="Fair use">fair use</a> despite negotiating with the rights holder?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[an Alabama radio station]]></title>
+        <id>https://en.wikipedia.org/wiki/WDIG_(AM)</id>
+        <link href="https://en.wikipedia.org/wiki/WDIG_(AM)"/>
+        <updated>2023-10-25T17:32:02.969Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/WDIG_(AM)" title="WDIG (AM)">an Alabama radio station</a></b> was described by its program director as a "no-format mess"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[this year's Louisiana wildfire season]]></title>
+        <id>https://en.wikipedia.org/wiki/2023_Louisiana_wildfires</id>
+        <link href="https://en.wikipedia.org/wiki/2023_Louisiana_wildfires"/>
+        <updated>2023-10-25T17:32:02.971Z</updated>
+        <content type="html"><![CDATA[... that officials said <b><a href="/wiki/2023_Louisiana_wildfires" title="2023 Louisiana wildfires">this year's Louisiana wildfire season</a></b> includes the largest wildfire in the state's history?]]></content>
+    </entry>
+</feed>
