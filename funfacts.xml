@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-10-30T17:33:07.325Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[John Company]]></title>
+        <id>https://en.wikipedia.org/wiki/John_Company_(board_game)</id>
+        <link href="https://en.wikipedia.org/wiki/John_Company_(board_game)"/>
+        <updated>2023-10-30T17:32:31.561Z</updated>
+        <content type="html"><![CDATA[... that the box cover of the board game <i><b><a href="/wiki/John_Company_(board_game)" title="John Company (board game)">John Company</a></b></i> shows <a href="/wiki/Georgiana_Cavendish,_Duchess_of_Devonshire" title="Georgiana Cavendish, Duchess of Devonshire">Georgiana, Duchess of Devonshire</a>, and <a href="/wiki/George_IV" title="George IV">George, Prince of Wales</a>, gambling at <a href="/wiki/Hazard_(game)" title="Hazard (game)">hazard</a> <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premana Premadi]]></title>
+        <id>https://en.wikipedia.org/wiki/Premana_Premadi</id>
+        <link href="https://en.wikipedia.org/wiki/Premana_Premadi"/>
+        <updated>2023-10-30T17:32:31.564Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Premana_Premadi" title="Premana Premadi">Premana Premadi</a></b> is the first Indonesian female astronomer to have an <a href="/wiki/Asteroid" title="Asteroid">asteroid</a> named in her honor?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Highs]]></title>
+        <id>https://en.wikipedia.org/wiki/No_Highs</id>
+        <link href="https://en.wikipedia.org/wiki/No_Highs"/>
+        <updated>2023-10-30T17:32:31.566Z</updated>
+        <content type="html"><![CDATA[... that the album <i><b><a href="/wiki/No_Highs" title="No Highs">No Highs</a></b></i> is a response to the "corporate" <a href="/wiki/Ambient_music" title="Ambient music">ambient music</a> of streaming services?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myriel Davies]]></title>
+        <id>https://en.wikipedia.org/wiki/Myriel_Davies</id>
+        <link href="https://en.wikipedia.org/wiki/Myriel_Davies"/>
+        <updated>2023-10-30T17:32:31.568Z</updated>
+        <content type="html"><![CDATA[... that telephone operator <b><a href="/wiki/Myriel_Davies" title="Myriel Davies">Myriel Davies</a></b> began her long career as a peace activist during the <a href="/wiki/Suez_Crisis" title="Suez Crisis">Suez Crisis</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native Island]]></title>
+        <id>https://en.wikipedia.org/wiki/Native_Island</id>
+        <link href="https://en.wikipedia.org/wiki/Native_Island"/>
+        <updated>2023-10-30T17:32:31.571Z</updated>
+        <content type="html"><![CDATA[... that New Zealand's <b><a href="/wiki/Native_Island" title="Native Island">Native Island</a></b> hosted a colony of Samoyeds and huskies used in both the <i>Southern Cross</i> and <i>Nimrod</i> expeditions to the South Pole?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a deadly shooting]]></title>
+        <id>https://en.wikipedia.org/wiki/Killing_of_Zijie_Yan</id>
+        <link href="https://en.wikipedia.org/wiki/Killing_of_Zijie_Yan"/>
+        <updated>2023-10-30T17:32:31.573Z</updated>
+        <content type="html"><![CDATA[... that the suspect in <b><a href="/wiki/Killing_of_Zijie_Yan" title="Killing of Zijie Yan">a deadly shooting</a></b> at the <a href="/wiki/University_of_North_Carolina_at_Chapel_Hill" title="University of North Carolina at Chapel Hill">University of North Carolina</a> was a graduate student of the victim?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rustling of Leaves: Inside the Philippine Revolution]]></title>
+        <id>https://en.wikipedia.org/wiki/A_Rustling_of_Leaves:_Inside_the_Philippine_Revolution</id>
+        <link href="https://en.wikipedia.org/wiki/A_Rustling_of_Leaves:_Inside_the_Philippine_Revolution"/>
+        <updated>2023-10-30T17:32:31.579Z</updated>
+        <content type="html"><![CDATA[... that the sound for the film <i><b><a href="/wiki/A_Rustling_of_Leaves:_Inside_the_Philippine_Revolution" title="A Rustling of Leaves: Inside the Philippine Revolution">A Rustling of Leaves: Inside the Philippine Revolution</a></b></i> was recorded using a <a href="/wiki/Walkman" title="Walkman">Walkman</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milverine]]></title>
+        <id>https://en.wikipedia.org/wiki/Milverine</id>
+        <link href="https://en.wikipedia.org/wiki/Milverine"/>
+        <updated>2023-10-30T17:32:31.580Z</updated>
+        <content type="html"><![CDATA[... that a man from Milwaukee who goes on walks shirtless is known as the "<b><a href="/wiki/Milverine" title="Milverine">Milverine</a></b>"?]]></content>
+    </entry>
+</feed>
