@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-11-10T17:32:08.088Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Masked Goddess]]></title>
+        <id>https://en.wikipedia.org/wiki/Masked_Goddess</id>
+        <link href="https://en.wikipedia.org/wiki/Masked_Goddess"/>
+        <updated>2023-11-10T17:31:39.717Z</updated>
+        <content type="html"><![CDATA[... that the holes in the <b><a href="/wiki/Masked_Goddess" title="Masked Goddess">Masked Goddess</a></b> <i>(pictured)</i> helped prevent it from exploding during creation?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a Wyoming TV station]]></title>
+        <id>https://en.wikipedia.org/wiki/KGWC-TV</id>
+        <link href="https://en.wikipedia.org/wiki/KGWC-TV"/>
+        <updated>2023-11-10T17:31:39.718Z</updated>
+        <content type="html"><![CDATA[... that a retired man with no previous broadcasting experience was offered a job by <b><a href="/wiki/KGWC-TV" title="KGWC-TV">a Wyoming TV station</a></b> after winning an "Anchorman for a Day" contest?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quia maior]]></title>
+        <id>https://en.wikipedia.org/wiki/Quia_maior</id>
+        <link href="https://en.wikipedia.org/wiki/Quia_maior"/>
+        <updated>2023-11-10T17:31:39.719Z</updated>
+        <content type="html"><![CDATA[... that according to <a href="/wiki/Pope_Innocent_III" title="Pope Innocent III">Pope Innocent&nbsp;III</a>'s 1213 letter <i><b><a href="/wiki/Quia_maior" title="Quia maior">Quia maior</a></b></i>, the <a href="/wiki/Number_of_the_beast" title="Number of the beast">number of the beast</a> refers to the number of years since <a href="/wiki/Hijrah" title="Hijrah">Muhammad's migration</a> from Mecca to Medina?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trapeze]]></title>
+        <id>https://en.wikipedia.org/wiki/Trapeze_(spreadsheet_program)</id>
+        <link href="https://en.wikipedia.org/wiki/Trapeze_(spreadsheet_program)"/>
+        <updated>2023-11-10T17:31:39.721Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Trapeze_(spreadsheet_program)" title="Trapeze (spreadsheet program)">Trapeze</a></b> spreadsheet introduced the idea of blocks that <i>InfoWorld</i> called "revolutionary"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vanilla tlatepusco]]></title>
+        <id>https://en.wikipedia.org/wiki/Vanilla_odorata</id>
+        <link href="https://en.wikipedia.org/wiki/Vanilla_odorata"/>
+        <updated>2023-11-10T17:31:39.723Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Euglossini" title="Euglossini">euglossine bees</a> distribute the seeds of <b><a href="/wiki/Vanilla_odorata" title="Vanilla odorata">vanilla tlatepusco</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hamish Campbell]]></title>
+        <id>https://en.wikipedia.org/wiki/Hamish_Campbell</id>
+        <link href="https://en.wikipedia.org/wiki/Hamish_Campbell"/>
+        <updated>2023-11-10T17:31:39.724Z</updated>
+        <content type="html"><![CDATA[... that New Zealand politician <b><a href="/wiki/Hamish_Campbell" title="Hamish Campbell">Hamish Campbell</a></b> is a cancer researcher and runs a flower-delivery business?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fort Stonewall]]></title>
+        <id>https://en.wikipedia.org/wiki/Fort_Stonewall</id>
+        <link href="https://en.wikipedia.org/wiki/Fort_Stonewall"/>
+        <updated>2023-11-10T17:31:39.726Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Fort_Stonewall" title="Fort Stonewall">Fort Stonewall</a></b> was considered a model of river defense?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omi in a Hellcat]]></title>
+        <id>https://en.wikipedia.org/wiki/Arrest_of_Omi_in_a_Hellcat</id>
+        <link href="https://en.wikipedia.org/wiki/Arrest_of_Omi_in_a_Hellcat"/>
+        <updated>2023-11-10T17:31:39.727Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Arrest_of_Omi_in_a_Hellcat" title="Arrest of Omi in a Hellcat">Omi in a Hellcat</a></b> owned three <a href="/wiki/Chrysler_Hemi_engine#6.2_Hellcat" title="Chrysler Hemi engine">Dodge Hellcats</a>?]]></content>
+    </entry>
+</feed>
