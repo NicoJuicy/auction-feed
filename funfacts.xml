@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-11-21T17:33:36.094Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Wai]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Wai</id>
+        <link href="https://en.wikipedia.org/wiki/The_Wai"/>
+        <updated>2023-11-21T17:33:12.077Z</updated>
+        <content type="html"><![CDATA[... that the newly opened shopping mall <b><a href="/wiki/The_Wai" title="The Wai">The Wai</a></b> has Hong Kong's largest indoor bicycle parking lot <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Djanius Djamin]]></title>
+        <id>https://en.wikipedia.org/wiki/Djanius_Djamin</id>
+        <link href="https://en.wikipedia.org/wiki/Djanius_Djamin"/>
+        <updated>2023-11-21T17:33:12.079Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Djanius_Djamin" title="Djanius Djamin">Djanius Djamin</a></b>, the speaker of <b><a href="/wiki/Medan_City_Regional_House_of_Representatives" title="Medan City Regional House of Representatives">Medan's city council</a></b> from 1969 to 1971, was the first woman to chair a legislature in <a href="/wiki/Sumatra" title="Sumatra">Sumatra</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Island's PBS station]]></title>
+        <id>https://en.wikipedia.org/wiki/WLIW_(TV)</id>
+        <link href="https://en.wikipedia.org/wiki/WLIW_(TV)"/>
+        <updated>2023-11-21T17:33:12.080Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/WLIW_(TV)" title="WLIW (TV)">Long Island's PBS station</a></b> specialized in making shows for other stations to air during their <a href="/wiki/Pledge_drive" title="Pledge drive">pledge drives</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code of Lipit-Ishtar]]></title>
+        <id>https://en.wikipedia.org/wiki/Code_of_Lipit-Ishtar</id>
+        <link href="https://en.wikipedia.org/wiki/Code_of_Lipit-Ishtar"/>
+        <updated>2023-11-21T17:33:12.081Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Code_of_Lipit-Ishtar" title="Code of Lipit-Ishtar">Code of Lipit-Ishtar</a></b> is older than the famous <a href="/wiki/Code_of_Hammurabi" title="Code of Hammurabi">Code of Hammurabi</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ralph "Catfish" Smith]]></title>
+        <id>https://en.wikipedia.org/wiki/Ralph_Smith_(American_football)</id>
+        <link href="https://en.wikipedia.org/wiki/Ralph_Smith_(American_football)"/>
+        <updated>2023-11-21T17:33:12.083Z</updated>
+        <content type="html"><![CDATA[... that American football player <b><a href="/wiki/Ralph_Smith_(American_football)" title="Ralph Smith (American football)">Ralph "Catfish" Smith</a></b> was a <a href="/wiki/Two-way_player" title="Two-way player">two-way player</a> in college and in the <a href="/wiki/National_Football_League" title="National Football League">National Football League</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donald A. Morgan]]></title>
+        <id>https://en.wikipedia.org/wiki/Donald_A._Morgan</id>
+        <link href="https://en.wikipedia.org/wiki/Donald_A._Morgan"/>
+        <updated>2023-11-21T17:33:12.084Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Donald_A._Morgan" title="Donald A. Morgan">Donald A. Morgan</a></b> is the first director of photography to be inducted into the <a href="/wiki/Television_Hall_of_Fame" title="Television Hall of Fame">Television Hall of Fame</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hay War Memorial High School]]></title>
+        <id>https://en.wikipedia.org/wiki/Hay_War_Memorial_High_School</id>
+        <link href="https://en.wikipedia.org/wiki/Hay_War_Memorial_High_School"/>
+        <updated>2023-11-21T17:33:12.086Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/John_Baird,_1st_Viscount_Stonehaven" title="John Baird, 1st Viscount Stonehaven">Lord Stonehaven</a>, <a href="/wiki/Governor-General_of_Australia" title="Governor-General of Australia">Governor-General of Australia</a>, called <b><a href="/wiki/Hay_War_Memorial_High_School" title="Hay War Memorial High School">Hay War Memorial High School</a></b> the "finest war memorial in the <a href="/wiki/British_Empire" title="British Empire">British Empire</a>"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[organisms could harvest kinetic energy]]></title>
+        <id>https://en.wikipedia.org/wiki/Kinetotroph</id>
+        <link href="https://en.wikipedia.org/wiki/Kinetotroph"/>
+        <updated>2023-11-21T17:33:12.089Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Kinetotroph" title="Kinetotroph">organisms could harvest kinetic energy</a></b> to survive?]]></content>
+    </entry>
+</feed>
