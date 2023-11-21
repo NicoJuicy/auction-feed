@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2023-11-20T17:32:05.938Z</updated>
+    <updated>2023-11-21T05:32:06.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14775">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-378-lot-121-winmau-professional-dart-set-14775"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="1ab577e080a4e62ebcdac8fc28b3889e86ed423co1732080715">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-378-lot-121-winmau-professional-dart-set-14775">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14775/image_256/%5BBOR-01438-4-10000-378%5D%20Lot%20121%20-%20Winmau%20-%20Professional%20Dart%20Set?unique=16893d1" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/378] Lot 121 - Winmau - Professional Dart Set" loading="lazy"></span>
                 </a>
@@ -22,12 +22,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-21 19:49:45" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">50</span>
+            <span class="seconds span_time_digit">49</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -67,7 +67,7 @@ Artikel: Dart spe..
                     13 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -92,7 +92,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14790">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00325-7-10216-3-lot-123-domyos-trampoline-met-2-veiligheidsnetten-mt240-14790"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="1ab577e080a4e62ebcdac8fc28b3889e86ed423co1732080715">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00325-7-10216-3-lot-123-domyos-trampoline-met-2-veiligheidsnetten-mt240-14790">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14790/image_256/%5BBOR-00325-7-10216-3%5D%20Lot%20123%20-%20Domyos%20-%20Trampoline%20met%202%20veiligheidsnetten%20-%20MT240?unique=e08c9bb" itemprop="image" class="img img-fluid" alt="[BOR/00325/7/10216/3] Lot 123 - Domyos - Trampoline met 2 veiligheidsnetten - MT240" loading="lazy"></span>
                 </a>
@@ -100,12 +100,12 @@ Artikel: Dart spe..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-21 20:05:11" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -115,7 +115,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">16</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -146,7 +146,7 @@ Artikel: Dart spe..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">17</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -171,7 +171,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14638">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-369-lot-125-command-conquer-remastered-collection-voor-pc-14638"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="1ab577e080a4e62ebcdac8fc28b3889e86ed423co1732080715">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-369-lot-125-command-conquer-remastered-collection-voor-pc-14638">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14638/image_256/%5BBOR-01438-4-10000-369%5D%20Lot%20125%20-%20Command%20%26%20Conquer%20-%20Remastered%20Collection%20voor%20PC?unique=4cd5d83" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/369] Lot 125 - Command &amp; Conquer - Remastered Collection voor PC" loading="lazy"></span>
                 </a>
@@ -179,12 +179,12 @@ Artikel: Dart spe..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-21 20:24:26" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -194,7 +194,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">31</span>
+            <span class="seconds span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -223,7 +223,7 @@ Artikel: Dart spe..
                     7 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -248,7 +248,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14799">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-379-lot-108-divers-speelgoed-2-palletten-14799"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="1ab577e080a4e62ebcdac8fc28b3889e86ed423co1732080715">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-379-lot-108-divers-speelgoed-2-palletten-14799">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14799/image_256/%5BBOR-01438-4-10000-379%5D%20Lot%20108%20-%20Divers%20speelgoed%20-%202%20palletten?unique=f23a043" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/379] Lot 108 - Divers speelgoed - 2 palletten" loading="lazy"></span>
                 </a>
@@ -256,12 +256,12 @@ Artikel: Dart spe..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-21 20:25:37" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -271,7 +271,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">42</span>
+            <span class="seconds span_time_digit">41</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -300,7 +300,7 @@ Artikel: Dart spe..
                     5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -325,7 +325,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14985">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-01438-4-00004-764-lot-klimmateriaal-14985"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-01438-4-00004-764-lot-klimmateriaal-14985">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14985/image_256/%5BGEM-01438-4-00004-764%5D%20Lot%20:%20klimmateriaal?unique=41d0958" itemprop="image" class="img img-fluid" alt="[GEM/01438/4/00004/764] Lot : klimmateriaal" loading="lazy"></span>
                 </a>
@@ -338,7 +338,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -348,7 +348,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">10</span>
+            <span class="seconds span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -374,7 +374,7 @@ Artikel: Dart spe..
                     7 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -399,7 +399,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15042">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-254-lot-1332c-pico-foldable-mini-goal-set-set-of-2-goals-15042"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-254-lot-1332c-pico-foldable-mini-goal-set-set-of-2-goals-15042">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15042/image_256/%5BBXL-00001-4-10187-254%5D%20Lot%201332C%20-%20Pico%20Foldable%20Mini%20Goal%20Set%20%28set%20of%202%20goals%29?unique=178c54b" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/254] Lot 1332C - Pico Foldable Mini Goal Set (set of 2 goals)" loading="lazy"></span>
                 </a>
@@ -412,7 +412,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -422,7 +422,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">10</span>
+            <span class="seconds span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -448,7 +448,7 @@ Artikel: Dart spe..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -473,7 +473,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14427">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-216-lot-1261b-ski-rossignol-swix-14427"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-216-lot-1261b-ski-rossignol-swix-14427">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14427/image_256/%5BBXL-00001-4-10187-216%5D%20Lot%201261B%20-%20Ski%20%28Rossignol%20%26%20Swix%29?unique=dcb44c4" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/216] Lot 1261B - Ski (Rossignol &amp; Swix)" loading="lazy"></span>
                 </a>
@@ -486,7 +486,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -496,7 +496,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">25</span>
+            <span class="seconds span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -522,7 +522,7 @@ Artikel: Dart spe..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -547,7 +547,7 @@ Artikel: Dart spe..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14918">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-387-lot-110-kenwood-keukenrobot-chef-xl-kvl4110s-14918"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-387-lot-110-kenwood-keukenrobot-chef-xl-kvl4110s-14918">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14918/image_256/%5BBOR-01438-4-10000-387%5D%20Lot%20110%20-%20Kenwood%20-%20Keukenrobot%20-%20Chef%20XL%20KVL4110S?unique=6ec2c83" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/387] Lot 110 - Kenwood - Keukenrobot - Chef XL KVL4110S" loading="lazy"></span>
                 </a>
@@ -555,12 +555,12 @@ Artikel: Dart spe..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-23 19:45:01" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -570,7 +570,7 @@ Artikel: Dart spe..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -600,7 +600,7 @@ Type: Chef XL KV..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -625,7 +625,7 @@ Type: Chef XL KV..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14223">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10409-38-lot-1236g-duikmateriaal-14223"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10409-38-lot-1236g-duikmateriaal-14223">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14223/image_256/%5BBXL-01659-7-10409-38%5D%20Lot%201236G%20-%20Duikmateriaal?unique=21060af" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10409/38] Lot 1236G - Duikmateriaal" loading="lazy"></span>
                 </a>
@@ -638,7 +638,7 @@ Type: Chef XL KV..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -648,7 +648,7 @@ Type: Chef XL KV..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -674,7 +674,7 @@ Type: Chef XL KV..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -699,7 +699,7 @@ Type: Chef XL KV..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-4921">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10028-195-nilox-elektrische-fiets-rt228-4921"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10028-195-nilox-elektrische-fiets-rt228-4921">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/4921/image_256/%5BGEM-00001-4-10028-195%5D%20Nilox%20-%20Elektrische%20fiets%20-%20rt228?unique=6beb000" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10028/195] Nilox - Elektrische fiets - rt228" loading="lazy"></span>
                 </a>
@@ -712,7 +712,7 @@ Type: Chef XL KV..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -722,7 +722,7 @@ Type: Chef XL KV..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -748,7 +748,7 @@ Type: Chef XL KV..
                     5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -773,7 +773,7 @@ Type: Chef XL KV..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14828">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-210-lot-1278-c-neo-geo-vintage-spelconsole-14828"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-210-lot-1278-c-neo-geo-vintage-spelconsole-14828">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14828/image_256/%5BBXL-01438-4-10000-210%5D%20Lot%201278%20C%20-%20Neo%20Geo%20-%20Vintage%20spelconsole?unique=33f8747" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/210] Lot 1278 C - Neo Geo - Vintage spelconsole" loading="lazy"></span>
                 </a>
@@ -781,12 +781,12 @@ Type: Chef XL KV..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-24 18:30:39" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -796,7 +796,7 @@ Type: Chef XL KV..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">44</span>
+            <span class="seconds span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -825,7 +825,7 @@ Type: Chef XL KV..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -850,7 +850,7 @@ Type: Chef XL KV..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14899">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-386-lot-156-samsung-professionele-monitor-ls24r650-14899"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8ce65069fd1c20fdb3f9f53468b9edc7c5a5998eo1732037514">
+                <input type="hidden" name="csrf_token" value="67cd4e6a18821f905824707dfb39d1472b5a1326o1732080716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-386-lot-156-samsung-professionele-monitor-ls24r650-14899">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14899/image_256/%5BBOR-01438-4-10000-386%5D%20Lot%20156%20-%20Samsung%20-%20Professionele%20monitor%20-%20LS24R650?unique=5724087" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/386] Lot 156 - Samsung - Professionele monitor - LS24R650" loading="lazy"></span>
                 </a>
@@ -858,12 +858,12 @@ Type: Chef XL KV..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-11-26 18:50:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -873,7 +873,7 @@ Type: Chef XL KV..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -903,7 +903,7 @@ Artikel: Monitor..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
