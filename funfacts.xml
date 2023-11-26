@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-11-26T17:31:53.268Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mona Williams]]></title>
+        <id>https://en.wikipedia.org/wiki/Mona_Williams_(writer,_born_1943)</id>
+        <link href="https://en.wikipedia.org/wiki/Mona_Williams_(writer,_born_1943)"/>
+        <updated>2023-11-26T17:31:23.543Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Mona_Williams_(writer,_born_1943)" title="Mona Williams (writer, born 1943)">Mona Williams</a></b> <i>(pictured)</i> said her degree from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> was called a "wanky Yankee" degree when she arrived in New Zealand?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man and Wolf]]></title>
+        <id>https://en.wikipedia.org/wiki/Man_and_Wolf</id>
+        <link href="https://en.wikipedia.org/wiki/Man_and_Wolf"/>
+        <updated>2023-11-26T17:31:23.546Z</updated>
+        <content type="html"><![CDATA[... that the 1992 comic book storyline "<b><a href="/wiki/Man_and_Wolf" title="Man and Wolf">Man and Wolf</a></b>", in which <a href="/wiki/Captain_America" title="Captain America">Captain America</a> is transformed into a werewolf, has been described as "one of the most bizarre moments of the core <a href="/wiki/Marvel_Universe" title="Marvel Universe">Marvel Universe</a>"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abram Kofman]]></title>
+        <id>https://en.wikipedia.org/wiki/Abram_Kofman</id>
+        <link href="https://en.wikipedia.org/wiki/Abram_Kofman"/>
+        <updated>2023-11-26T17:31:23.547Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Abram_Kofman" title="Abram Kofman">Abram Kofman</a></b> was the first Ancient Greek–Esperanto translator, publishing translated sections of the <i><a href="/wiki/Iliad" title="Iliad">Iliad</a></i> in 1895?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oral history project]]></title>
+        <id>https://en.wikipedia.org/wiki/Belfast_Project</id>
+        <link href="https://en.wikipedia.org/wiki/Belfast_Project"/>
+        <updated>2023-11-26T17:31:23.551Z</updated>
+        <content type="html"><![CDATA[... that interviews collected for a Boston College <b><a href="/wiki/Belfast_Project" title="Belfast Project">oral history project</a></b> were used in two murder trials?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitiarjuk Nappaaluk]]></title>
+        <id>https://en.wikipedia.org/wiki/Mitiarjuk_Nappaaluk</id>
+        <link href="https://en.wikipedia.org/wiki/Mitiarjuk_Nappaaluk"/>
+        <updated>2023-11-26T17:31:23.553Z</updated>
+        <content type="html"><![CDATA[... that after learning to write with <a href="/wiki/Inuktitut_syllabics" title="Inuktitut syllabics">Inuktitut syllabics</a> to help Catholic missionaries learn her language, <b><a href="/wiki/Mitiarjuk_Nappaaluk" title="Mitiarjuk Nappaaluk">Mitiarjuk Nappaaluk</a></b> wrote <a href="/wiki/Sanaaq" title="Sanaaq">one of the first Inuktitut-language novels</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nashville Public Television]]></title>
+        <id>https://en.wikipedia.org/wiki/WNPT</id>
+        <link href="https://en.wikipedia.org/wiki/WNPT"/>
+        <updated>2023-11-26T17:31:23.554Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/John_Seigenthaler" title="John Seigenthaler">John Seigenthaler</a> hosted a literary interview program which ran for 42 years on <b><a href="/wiki/WNPT" title="WNPT">Nashville Public Television</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sara Daavettila]]></title>
+        <id>https://en.wikipedia.org/wiki/Sara_Daavettila</id>
+        <link href="https://en.wikipedia.org/wiki/Sara_Daavettila"/>
+        <updated>2023-11-26T17:31:23.556Z</updated>
+        <content type="html"><![CDATA[... that in high school, tennis player <b><a href="/wiki/Sara_Daavettila" title="Sara Daavettila">Sara Daavettila</a></b> went an entire season without losing a <a href="/wiki/Tennis_scoring_system#Game_score" title="Tennis scoring system">game</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachelbel's Canon is notorious for being widespread in pop music]]></title>
+        <id>https://en.wikipedia.org/wiki/List_of_variations_on_Pachelbel%27s_Canon</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_variations_on_Pachelbel%27s_Canon"/>
+        <updated>2023-11-26T17:31:23.557Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/List_of_variations_on_Pachelbel%27s_Canon" title="List of variations on Pachelbel's Canon">Pachelbel's Canon is notorious for being widespread in pop music</a></b>, but it actually isn't?]]></content>
+    </entry>
+</feed>
