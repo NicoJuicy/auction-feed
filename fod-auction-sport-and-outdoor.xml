@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
+    <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
+    <updated>2023-11-29T17:32:30.651Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lot 146 - Samsung - Galaxy TabA8 - Tablet - 128GB - Grijs]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-10249-4-lot-146-samsung-galaxy-taba8-tablet-128gb-grijs-15179</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-10249-4-lot-146-samsung-galaxy-taba8-tablet-128gb-grijs-15179"/>
+        <updated>2023-11-29T17:32:19.857Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15179">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10249-4-lot-146-samsung-galaxy-taba8-tablet-128gb-grijs-15179"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="cd88ef8699b25d6b51faef50a499159935c6f091o1732815139">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10249-4-lot-146-samsung-galaxy-taba8-tablet-128gb-grijs-15179">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15179/image_256/%5BBOR-00001-4-10249-4%5D%20Lot%20146%20-%20Samsung%20-%20Galaxy%20TabA8%20-%20Tablet%20-%20128GB%20-%20Grijs?unique=2e6036b" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10249/4] Lot 146 - Samsung - Galaxy TabA8 - Tablet - 128GB - Grijs" loading="lazy"></span>
+                </a>
+          <div class="product_item auction_running">
+            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-12-11 19:36:45" data-wk_auction_state="running">
+              <div class="row auction_timer">
+          <div class="col-3 text-center">
+            <span class="days span_time_digit">12</span>
+            <br>
+                        <span class="span_time_unit">Dagen</span>
+          </div>
+          <div class="col-3 text-center">
+            <span class="hours span_time_digit">02</span>
+            <br>
+                        <span class="span_time_unit">Uren</span>
+          </div>
+          <div class="col-3 text-center">
+            <span class="minutes span_time_digit">04</span>
+            <br>
+                        <span class="span_time_unit">Minuten</span>
+          </div>
+          <div class="col-3 text-center">
+            <span class="seconds span_time_digit">25</span>
+            <br>
+                        <span class="span_time_unit">Seconden</span>
+          </div>
+        </div>
+            </div>
+          </div>
+        <div class="product_item-warehouse">
+          <p>Finshop
+            <span class="font-weight-bold d-block">Bornem</span>
+          </p>
+        </div>
+      </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none" itemprop="name" href="/nl_BE/shop/bor-00001-4-10249-4-lot-146-samsung-galaxy-taba8-tablet-128gb-grijs-15179" content="Lot 146 - Samsung - Galaxy TabA8 - Tablet - 128GB - Grijs">Lot 146 - Samsung - Galaxy TabA8 - Tablet - 128GB - Grijs</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+             <div itemprop="description">
+                Merk: Samsung
+Type: Galaxy Tab..
+             </div>
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/13096">
+                    35 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">12</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">04</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">150,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+</feed>
