@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2023-12-15T17:32:51.031Z</updated>
+    <updated>2023-12-16T05:32:51.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15685">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-01438-4-00004-827-virtue-md-905-motorcrosshelm-s-55-56-cm-15685"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="6ab45446bcec0a98157e27a1f8460fbd08182c62o1734240740">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-01438-4-00004-827-virtue-md-905-motorcrosshelm-s-55-56-cm-15685">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15685/image_256/%5BGEM-01438-4-00004-827%5D%20Virtue%20-%20MD-905%20-%20Motorcrosshelm%20-%20S%2055-56%20cm?unique=2b58fb6" itemprop="image" class="img img-fluid" alt="[GEM/01438/4/00004/827] Virtue - MD-905 - Motorcrosshelm - S 55-56 cm" loading="lazy"></span>
                 </a>
@@ -27,7 +27,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">20</span>
+            <span class="seconds span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15120">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00381-1-10927-1-body-coach-trilplaat-15120"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00381-1-10927-1-body-coach-trilplaat-15120">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15120/image_256/%5BBXL-00381-1-10927-1%5D%20Body%20coach%20-%20Trilplaat?unique=ed630b4" itemprop="image" class="img img-fluid" alt="[BXL/00381/1/10927/1] Body coach - Trilplaat" loading="lazy"></span>
                 </a>
@@ -101,7 +101,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -111,7 +111,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">12</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -141,7 +141,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -166,7 +166,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16010">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00489-1-11013-1-lot-1-leg-extension-technogym-16010"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00489-1-11013-1-lot-1-leg-extension-technogym-16010">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16010/image_256/%5BBXL-00489-1-11013-1%5D%20Lot%201%20-%20Leg%20extension%20Technogym?unique=75b410a" itemprop="image" class="img img-fluid" alt="[BXL/00489/1/11013/1] Lot 1 - Leg extension Technogym" loading="lazy"></span>
                 </a>
@@ -174,12 +174,12 @@ Kenmerk..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-12-19 17:39:54" data-wk_auction_state="running" data-wk_target_date="2023-12-19 17:39:54">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -189,7 +189,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -218,7 +218,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -243,7 +243,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16012">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00489-1-11013-2-lot-2-leg-extension-technogym-16012"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00489-1-11013-2-lot-2-leg-extension-technogym-16012">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16012/image_256/%5BBXL-00489-1-11013-2%5D%20Lot%202%20-%20Leg%20extension%20Technogym?unique=073c73d" itemprop="image" class="img img-fluid" alt="[BXL/00489/1/11013/2] Lot 2 - Leg extension Technogym" loading="lazy"></span>
                 </a>
@@ -251,12 +251,12 @@ Kenmerk..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-12-19 17:40:52" data-wk_auction_state="running" data-wk_target_date="2023-12-19 17:40:52">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -266,7 +266,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">22</span>
+            <span class="seconds span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -295,7 +295,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">08</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">08</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -320,7 +320,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16013">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00489-1-11013-3-lot-3-leg-extension-technogym-16013"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00489-1-11013-3-lot-3-leg-extension-technogym-16013">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16013/image_256/%5BBXL-00489-1-11013-3%5D%20Lot%203%20-%20Leg%20extension%20Technogym?unique=30a9fa8" itemprop="image" class="img img-fluid" alt="[BXL/00489/1/11013/3] Lot 3 - Leg extension Technogym" loading="lazy"></span>
                 </a>
@@ -328,12 +328,12 @@ Kenmerk..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-12-19 17:42:07" data-wk_auction_state="running" data-wk_target_date="2023-12-19 17:42:07">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -343,7 +343,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
+            <span class="seconds span_time_digit">45</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -372,7 +372,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">46</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -397,7 +397,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16016">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00489-1-11013-4-lot-4-easy-power-station-technogym-16016"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00489-1-11013-4-lot-4-easy-power-station-technogym-16016">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16016/image_256/%5BBXL-00489-1-11013-4%5D%20Lot%204%20-%20Easy%20Power%20Station%20Technogym?unique=b6d17f2" itemprop="image" class="img img-fluid" alt="[BXL/00489/1/11013/4] Lot 4 - Easy Power Station Technogym" loading="lazy"></span>
                 </a>
@@ -405,12 +405,12 @@ Kenmerk..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-12-19 17:42:45" data-wk_auction_state="running" data-wk_target_date="2023-12-19 17:42:45">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -420,7 +420,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">15</span>
+            <span class="seconds span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -449,7 +449,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -474,7 +474,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16017">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00489-1-11013-5-lot-5-easy-power-station-technogym-16017"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00489-1-11013-5-lot-5-easy-power-station-technogym-16017">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16017/image_256/%5BBXL-00489-1-11013-5%5D%20Lot%205%20-%20Easy%20Power%20Station%20Technogym?unique=1212293" itemprop="image" class="img img-fluid" alt="[BXL/00489/1/11013/5] Lot 5 - Easy Power Station Technogym" loading="lazy"></span>
                 </a>
@@ -482,22 +482,22 @@ Kenmerk..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2023-12-19 17:44:25" data-wk_auction_state="running" data-wk_target_date="2023-12-19 17:44:25">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">11</span>
+            <span class="minutes span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">55</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -526,7 +526,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">56</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -551,7 +551,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16107">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-666-z-19-12-sport-16107"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-666-z-19-12-sport-16107">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16107/image_256/%5BGEM-00001-4-10306-666%5D%20Z%2019-12%20-%20sport?unique=ab7639e" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/666] Z 19-12 - sport" loading="lazy"></span>
                 </a>
@@ -564,7 +564,7 @@ Kenmerk..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -574,7 +574,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
+            <span class="seconds span_time_digit">34</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -597,15 +597,15 @@ Kenmerk..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/13951">
-                    2 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">25,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">26,00</span>
                   </b>
                 </div>
            <p></p>
@@ -625,7 +625,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16109">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-667-z-20-12-sport-16109"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-667-z-20-12-sport-16109">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16109/image_256/%5BGEM-00001-4-10306-667%5D%20Z%2020-12%20-%20sport?unique=80b9639" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/667] Z 20-12 - sport" loading="lazy"></span>
                 </a>
@@ -638,7 +638,7 @@ Kenmerk..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -648,7 +648,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">02</span>
+            <span class="seconds span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -671,15 +671,15 @@ Kenmerk..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/13952">
-                    1 Biedingen</a>
+                    2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">20,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">21,00</span>
                   </b>
                 </div>
            <p></p>
@@ -699,7 +699,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16111">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10306-669-z-22-12-sportaccessoires-16111"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10306-669-z-22-12-sportaccessoires-16111">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16111/image_256/%5BGEM-00001-4-10306-669%5D%20Z%2022-12%20-%20sportaccessoires?unique=4796ef1" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10306/669] Z 22-12 - sportaccessoires" loading="lazy"></span>
                 </a>
@@ -712,7 +712,7 @@ Kenmerk..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -722,7 +722,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">10</span>
+            <span class="seconds span_time_digit">18</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -745,10 +745,10 @@ Kenmerk..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/13955">
-                    0 Biedingen</a>
+                    1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -773,7 +773,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14223">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10409-38-lot-1236g-duikmateriaal-14223"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10409-38-lot-1236g-duikmateriaal-14223">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14223/image_256/%5BBXL-01659-7-10409-38%5D%20Lot%201236G%20-%20Duikmateriaal?unique=a7ae39c" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10409/38] Lot 1236G - Duikmateriaal" loading="lazy"></span>
                 </a>
@@ -786,7 +786,7 @@ Kenmerk..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -796,7 +796,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">30</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -822,7 +822,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -847,7 +847,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14427">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-216-lot-1261b-ski-rossignol-swix-14427"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-216-lot-1261b-ski-rossignol-swix-14427">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14427/image_256/%5BBXL-00001-4-10187-216%5D%20Lot%201261B%20-%20Ski%20%28Rossignol%20%26%20Swix%29?unique=e20330a" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/216] Lot 1261B - Ski (Rossignol &amp; Swix)" loading="lazy"></span>
                 </a>
@@ -860,7 +860,7 @@ Kenmerk..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -870,7 +870,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">30</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -896,7 +896,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -921,7 +921,7 @@ Kenmerk..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15042">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-254-lot-1332c-pico-foldable-mini-goal-set-set-of-2-goals-15042"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="50612e79afcdfae086a883ac4931d633ffccf4abo1734197549">
+                <input type="hidden" name="csrf_token" value="edbdc4712c961a2222e1de08ef9292af626a6e5ao1734240741">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-254-lot-1332c-pico-foldable-mini-goal-set-set-of-2-goals-15042">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15042/image_256/%5BBXL-00001-4-10187-254%5D%20Lot%201332C%20-%20Pico%20Foldable%20Mini%20Goal%20Set%20%28set%20of%202%20goals%29?unique=a7ae39c" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/254] Lot 1332C - Pico Foldable Mini Goal Set (set of 2 goals)" loading="lazy"></span>
                 </a>
@@ -934,7 +934,7 @@ Kenmerk..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -944,7 +944,7 @@ Kenmerk..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">29</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -970,7 +970,7 @@ Kenmerk..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">18</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
