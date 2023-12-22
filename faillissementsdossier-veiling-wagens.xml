@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/</id>
     <title>FaillissementsDossier - Wagens</title>
-    <updated>2023-12-21T17:32:41.221Z</updated>
+    <updated>2023-12-22T05:32:25.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.faillissementsdossier.be/favicon.gif</icon>
     <entry>
@@ -32,7 +32,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2023-12-29T18:00:00.000Z">8 dagen 0 uur 27 minuten en 19 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2023-12-29T18:00:00.000Z">7 dagen 12 uur 27 minuten en 35 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.]]></title>
         <id>https://www.faillissementsdossier.be/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx"/>
-        <updated>2023-12-21T17:32:40.633Z</updated>
+        <updated>2023-12-21T17:32:40.632Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx">Veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.</a></h2></div>]]></content>
     </entry>
