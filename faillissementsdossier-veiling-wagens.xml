@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/</id>
+    <title>FaillissementsDossier - Wagens</title>
+    <updated>2023-12-25T06:14:58.923Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.faillissementsdossier.be/favicon.gif</icon>
+    <entry>
+        <title type="html"><![CDATA[Veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx"/>
+        <updated>2023-12-25T06:14:58.288Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-3">
+                                        <a href="/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx" id="cpContent_rpVeilingen_hypAfbeelding_0">
+                                            <img src="/images/auction-hammer.jpg" id="cpContent_rpVeilingen_imgContentImage_0" alt="Online veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz." class="img-responsive">
+                                                
+                                        </a>
+                                    </div>
+                                    <div id="cpContent_rpVeilingen_divCtr_0" class="col-xs-9 cc" onclick="document.location.href='/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx';return false;">
+                                        <div class="row bm">
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx">Veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.</a></h2></div>
+                                        </div>
+                                        <div class="bm"><p>Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.</p></div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3">Locatie:</div>
+                                            <div class="col-xs-7">Meerbeke&nbsp;</div>
+                                        </div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3">Veilinghuis:</div>
+                                            <div class="col-xs-7">Vlaamse Veilingmaatschappij&nbsp;</div>
+                                        </div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2023-12-29T18:00:00.000Z">4 dagen 11 uur 45 minuten en 1 seconden</span></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_0" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_0" class="calendarsimple" href="/nl/veilingkalender/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx">Voeg toe aan mijn agenda</a></div>
+                                        </div>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx"/>
+        <updated>2023-12-25T06:14:58.290Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/119673/diverse-personenautos-lichte-vrachtwagens-oldtimer-cabrio-suv-hatchback-enz.aspx">Veiling Diverse personenauto's, lichte vrachtwagens, oldtimer cabrio, suv, hatchback enz.</a></h2></div>]]></content>
+    </entry>
+</feed>
