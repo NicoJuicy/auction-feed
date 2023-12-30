@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2023-12-29T17:32:01.723Z</updated>
+    <updated>2023-12-30T05:31:58.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15284">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-274-lot-1353d-motus-scooty-10-2022-elektrische-step-15284"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-274-lot-1353d-motus-scooty-10-2022-elektrische-step-15284">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15284/image_256/%5BBXL-00001-4-10187-274%5D%20Lot%201353D%20-%20Motus%20Scooty%2010%22%202022%20-%20Elektrische%20step%20?unique=cda925e" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/274] Lot 1353D - Motus Scooty 10&quot; 2022 - Elektrische step " loading="lazy"></span>
                 </a>
@@ -27,7 +27,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16605">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-307-lot-1399d-thule-velospace-xt-3-black-16605"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-307-lot-1399d-thule-velospace-xt-3-black-16605">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16605/image_256/%5BBXL-00001-4-10187-307%5D%20Lot%201399D%20-%20Thule%20VeloSpace%20XT%203%20Black?unique=4f34fa8" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/307] Lot 1399D - Thule VeloSpace XT 3 Black" loading="lazy"></span>
                 </a>
@@ -101,7 +101,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -111,7 +111,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -162,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15078">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10187-263-lot-1341d-bicycle-gear-dierenfietskar-15078"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10187-263-lot-1341d-bicycle-gear-dierenfietskar-15078">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15078/image_256/%5BBXL-00001-4-10187-263%5D%20Lot%201341D%20-%20Bicycle%20Gear%20Dierenfietskar%20?unique=4dcbd46" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10187/263] Lot 1341D - Bicycle Gear Dierenfietskar " loading="lazy"></span>
                 </a>
@@ -175,7 +175,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -185,7 +185,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -211,7 +211,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -236,7 +236,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15442">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00460-1-10980-1-lot-1593-opel-zafira-jaar-2016-euro-6b-79-320-km-15442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00460-1-10980-1-lot-1593-opel-zafira-jaar-2016-euro-6b-79-320-km-15442">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15442/image_256/%5BBXL-00460-1-10980-1%5D%20Lot%201593%20-%20Opel%20Zafira%20-%20Jaar%202016%20-%20EURO%206b%20-%2079.320%20Km?unique=6ef69d4" itemprop="image" class="img img-fluid" alt="[BXL/00460/1/10980/1] Lot 1593 - Opel Zafira - Jaar 2016 - EURO 6b - 79.320 Km" loading="lazy"></span>
                 </a>
@@ -249,7 +249,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -259,7 +259,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -285,7 +285,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -310,7 +310,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16422">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01824-2-11046-1-lot-1825-nissan-micra-jaar-2019-euro6dt-39-488-km-16422"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01824-2-11046-1-lot-1825-nissan-micra-jaar-2019-euro6dt-39-488-km-16422">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16422/image_256/%5BBXL-01824-2-11046-1%5D%20Lot%201825%20-%20Nissan%20Micra%20-%20Jaar%202019%20-%20EURO6dt%20-%2039.488%20Km?unique=38dbb67" itemprop="image" class="img img-fluid" alt="[BXL/01824/2/11046/1] Lot 1825 - Nissan Micra - Jaar 2019 - EURO6dt - 39.488 Km" loading="lazy"></span>
                 </a>
@@ -323,7 +323,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -333,7 +333,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -359,7 +359,7 @@
                     14 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -384,7 +384,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16031">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11017-1-lot-1829-fiat-freemont-jaar-2014-euro-5b-150-680-km-16031"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11017-1-lot-1829-fiat-freemont-jaar-2014-euro-5b-150-680-km-16031">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16031/image_256/%5BBXL-00002-3-11017-1%5D%20Lot%201829%20-%20Fiat%20Freemont%20-%20Jaar%202014%20-%20EURO%205b%20-%20150.680%20Km?unique=38dbb67" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11017/1] Lot 1829 - Fiat Freemont - Jaar 2014 - EURO 5b - 150.680 Km" loading="lazy"></span>
                 </a>
@@ -397,7 +397,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -407,7 +407,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -433,7 +433,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -458,7 +458,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16046">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11020-1-lot-1831-opel-corsa-annee-2019-euro-6-20-114-km-16046"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11020-1-lot-1831-opel-corsa-annee-2019-euro-6-20-114-km-16046">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16046/image_256/%5BBXL-00002-3-11020-1%5D%20Lot%201831%20-%20Opel%20Corsa%20-%20Ann%C3%A9e%202019%20-%20EURO%206%20-%2020.114%20Km?unique=38dbb67" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11020/1] Lot 1831 - Opel Corsa - Année 2019 - EURO 6 - 20.114 Km" loading="lazy"></span>
                 </a>
@@ -471,7 +471,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -481,7 +481,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -507,7 +507,7 @@
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -532,7 +532,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16421">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00466-1-11045-1-lot-1877-peugeot-expert-jaar-2016-euro-5b-74-972-km-16421"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00466-1-11045-1-lot-1877-peugeot-expert-jaar-2016-euro-5b-74-972-km-16421">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16421/image_256/%5BBXL-00466-1-11045-1%5D%20Lot%201877%20-%20Peugeot%20Expert%20-%20Jaar%202016%20-%20EURO%205b%20-%2074.972%20Km?unique=38dbb67" itemprop="image" class="img img-fluid" alt="[BXL/00466/1/11045/1] Lot 1877 - Peugeot Expert - Jaar 2016 - EURO 5b - 74.972 Km" loading="lazy"></span>
                 </a>
@@ -545,7 +545,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -555,7 +555,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -581,7 +581,7 @@
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -606,7 +606,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16428">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01795-2-11048-1-lot-1878-renault-captur-annee-2020-euro-6e-20-942-km-16428"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01795-2-11048-1-lot-1878-renault-captur-annee-2020-euro-6e-20-942-km-16428">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16428/image_256/%5BBXL-01795-2-11048-1%5D%20Lot%201878%20-%20Renault%20Captur%20-%20Ann%C3%A9e%202020%20-%20EURO%206e%20-%2020.942%20Km?unique=1f608fe" itemprop="image" class="img img-fluid" alt="[BXL/01795/2/11048/1] Lot 1878 - Renault Captur - Année 2020 - EURO 6e - 20.942 Km" loading="lazy"></span>
                 </a>
@@ -619,7 +619,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -629,7 +629,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -655,7 +655,7 @@
                     6 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -680,7 +680,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16424">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-11047-1-lot-1888-volvo-v60-jaar-2011-euro-5-200-580-km-16424"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-11047-1-lot-1888-volvo-v60-jaar-2011-euro-5-200-580-km-16424">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16424/image_256/%5BBXL-00441-1-11047-1%5D%20Lot%201888%20-%20Volvo%20V60%20-%20jaar%202011%20-%20EURO%205%20-%20200.580%20Km?unique=38dbb67" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/11047/1] Lot 1888 - Volvo V60 - jaar 2011 - EURO 5 - 200.580 Km" loading="lazy"></span>
                 </a>
@@ -693,7 +693,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -703,7 +703,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -729,7 +729,7 @@
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -754,7 +754,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14801">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-201-kavel-1249-supersuperbikes-nl-cooper-16-girl-meisjesfiets-14801"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-201-kavel-1249-supersuperbikes-nl-cooper-16-girl-meisjesfiets-14801">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14801/image_256/%5BBXL-01438-4-10000-201%5D%20Kavel%201249%20-%20Supersuperbikes.nl%20Cooper%20-%2016%20girl%20%20Meisjesfiets?unique=c95999b" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/201] Kavel 1249 - Supersuperbikes.nl Cooper - 16 girl  Meisjesfiets" loading="lazy"></span>
                 </a>
@@ -762,12 +762,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-01-04 17:48:28" data-wk_auction_state="running" data-wk_target_date="2024-01-04 17:48:28">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -777,7 +777,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">32</span>
+            <span class="seconds span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -806,7 +806,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -831,7 +831,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-14802">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-202-lot-1250-spirit-sweetie-turquoise-1607-blauwe-kinderfiets-14802"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-202-lot-1250-spirit-sweetie-turquoise-1607-blauwe-kinderfiets-14802">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/14802/image_256/%5BBXL-01438-4-10000-202%5D%20Lot%201250%20-%20Spirit%20sweetie%20turquoise%201607%20-%20blauwe%20kinderfiets?unique=a07ab32" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/202] Lot 1250 - Spirit sweetie turquoise 1607 - blauwe kinderfiets" loading="lazy"></span>
                 </a>
@@ -839,12 +839,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-01-04 17:49:02" data-wk_auction_state="running" data-wk_target_date="2024-01-04 17:49:02">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -854,7 +854,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -883,7 +883,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -908,7 +908,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15440">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00568-1-10976-1-lot-1594-ford-focus-jaar-2011-euro-5-141-380-km-15440"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00568-1-10976-1-lot-1594-ford-focus-jaar-2011-euro-5-141-380-km-15440">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15440/image_256/%5BBXL-00568-1-10976-1%5D%20Lot%201594%20-%20Ford%20Focus%20-%20Jaar%202011%20-%20EURO%205%20-%20141.380%20Km?unique=27e3663" itemprop="image" class="img img-fluid" alt="[BXL/00568/1/10976/1] Lot 1594 - Ford Focus - Jaar 2011 - EURO 5 - 141.380 Km" loading="lazy"></span>
                 </a>
@@ -921,7 +921,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -931,7 +931,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -957,7 +957,7 @@
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
@@ -982,7 +982,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15441">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00460-1-10977-1-lot-1592-peugeot-5008-jaar-2016-euro-6b-99-968-km-15441"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1463e7fad5b3b0a864b66f380fd3fdfbfe2f1649o1735407115">
+                <input type="hidden" name="csrf_token" value="c238ccbc6ad35e300fc4e2ca3011e1ef37f01c88o1735450312">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00460-1-10977-1-lot-1592-peugeot-5008-jaar-2016-euro-6b-99-968-km-15441">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15441/image_256/%5BBXL-00460-1-10977-1%5D%20Lot%201592%20-%20Peugeot%205008%20-%20Jaar%202016%20-%20EURO%206b%20-%2099.968%20Km?unique=27e3663" itemprop="image" class="img img-fluid" alt="[BXL/00460/1/10977/1] Lot 1592 - Peugeot 5008 - Jaar 2016 - EURO 6b - 99.968 Km" loading="lazy"></span>
                 </a>
@@ -995,7 +995,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1005,7 +1005,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">04</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1031,7 +1031,7 @@
                     31 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0;">
