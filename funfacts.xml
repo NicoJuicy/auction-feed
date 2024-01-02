@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2024-01-02T17:32:06.799Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Geordie Greep]]></title>
+        <id>https://en.wikipedia.org/wiki/Geordie_Greep</id>
+        <link href="https://en.wikipedia.org/wiki/Geordie_Greep"/>
+        <updated>2024-01-02T17:31:38.962Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Geordie_Greep" title="Geordie Greep">Geordie Greep</a></b> <i>(pictured)</i> has an accent that has been described as "geographically unclassifiable"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[130 West 30th Street]]></title>
+        <id>https://en.wikipedia.org/wiki/130_West_30th_Street</id>
+        <link href="https://en.wikipedia.org/wiki/130_West_30th_Street"/>
+        <updated>2024-01-02T17:31:38.963Z</updated>
+        <content type="html"><![CDATA[... that the owner of <b><a href="/wiki/130_West_30th_Street" title="130 West 30th Street">130&nbsp;West 30th Street</a></b> would have renamed the structure the "Beaver Pelt Building" if it could not be named after its architect?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[murder of Jiang Ge]]></title>
+        <id>https://en.wikipedia.org/wiki/Murder_of_Jiang_Ge</id>
+        <link href="https://en.wikipedia.org/wiki/Murder_of_Jiang_Ge"/>
+        <updated>2024-01-02T17:31:38.964Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Murder_of_Jiang_Ge" title="Murder of Jiang Ge">murder of Jiang Ge</a></b> led to public debate in China over the actions of Jiang's roommate during her murder?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[George Willis Pack]]></title>
+        <id>https://en.wikipedia.org/wiki/George_Willis_Pack</id>
+        <link href="https://en.wikipedia.org/wiki/George_Willis_Pack"/>
+        <updated>2024-01-02T17:31:38.966Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/George_Willis_Pack" title="George Willis Pack">George Willis Pack</a></b>, a Northerner and <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Lincoln</a> supporter, financed <a href="/wiki/Vance_Monument" title="Vance Monument">a monument</a> to Confederate governor <a href="/wiki/Zebulon_Vance" title="Zebulon Vance">Zebulon Vance</a> in <a href="/wiki/Asheville,_North_Carolina" title="Asheville, North Carolina">Asheville, North Carolina</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rape of Lucretia]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Rape_of_Lucretia_(Ficherelli)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Rape_of_Lucretia_(Ficherelli)"/>
+        <updated>2024-01-02T17:31:38.967Z</updated>
+        <content type="html"><![CDATA[... that the painter of <i><b><a href="/wiki/The_Rape_of_Lucretia_(Ficherelli)" title="The Rape of Lucretia (Ficherelli)">The Rape of Lucretia</a></b></i> updated the ancient legend by setting the scene in the bedroom of a contemporary Italian home?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triste]]></title>
+        <id>https://en.wikipedia.org/wiki/Triste_(film)</id>
+        <link href="https://en.wikipedia.org/wiki/Triste_(film)"/>
+        <updated>2024-01-02T17:31:38.969Z</updated>
+        <content type="html"><![CDATA[... that the projector at the <a href="/wiki/Film_at_Lincoln_Center" title="Film at Lincoln Center">Walter Reade Theater</a> had to be modified to screen <a href="/wiki/Nathaniel_Dorsky" title="Nathaniel Dorsky">Nathaniel Dorsky</a>'s short film <i><b><a href="/wiki/Triste_(film)" title="Triste (film)">Triste</a></b></i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dacrytherium]]></title>
+        <id>https://en.wikipedia.org/wiki/Dacrytherium</id>
+        <link href="https://en.wikipedia.org/wiki/Dacrytherium"/>
+        <updated>2024-01-02T17:31:38.970Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Dacrytherium" title="Dacrytherium">Dacrytherium</a></b></i>, literally meaning 'tear beast', was named after its "<a href="/wiki/Fossa_for_lacrimal_sac" title="Fossa for lacrimal sac">tear-pit</a>"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajiv Lochan Temple]]></title>
+        <id>https://en.wikipedia.org/wiki/Rajiv_Lochan_Temple</id>
+        <link href="https://en.wikipedia.org/wiki/Rajiv_Lochan_Temple"/>
+        <updated>2024-01-02T17:31:38.972Z</updated>
+        <content type="html"><![CDATA[... that the construction of the <b><a href="/wiki/Rajiv_Lochan_Temple" title="Rajiv Lochan Temple">Rajiv Lochan Temple</a></b> has been variously attributed to two mythical kings and a god?]]></content>
+    </entry>
+</feed>
