@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2024-02-04T17:31:53.105Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kalmia Club]]></title>
+        <id>https://en.wikipedia.org/wiki/Kalmia_Club</id>
+        <link href="https://en.wikipedia.org/wiki/Kalmia_Club"/>
+        <updated>2024-02-04T17:31:23.688Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Kalmia_Club" title="Kalmia Club">Kalmia Club</a></b> <i>(clubhouse pictured)</i> is named after the <a href="/wiki/Kalmia_latifolia" title="Kalmia latifolia">mountain laurel</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martina Fernández]]></title>
+        <id>https://en.wikipedia.org/wiki/Martina_Fern%C3%A1ndez_(footballer)</id>
+        <link href="https://en.wikipedia.org/wiki/Martina_Fern%C3%A1ndez_(footballer)"/>
+        <updated>2024-02-04T17:31:23.689Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Martina_Fern%C3%A1ndez_(footballer)" title="Martina Fernández (footballer)">Martina Fernández</a></b> plays football for <a href="/wiki/FC_Barcelona_Femen%C3%AD" title="FC Barcelona Femení">Barcelona</a> and studies part-time at a biomedical laboratory?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dumping sewage]]></title>
+        <id>https://en.wikipedia.org/wiki/Sewage_discharge_in_the_United_Kingdom</id>
+        <link href="https://en.wikipedia.org/wiki/Sewage_discharge_in_the_United_Kingdom"/>
+        <updated>2024-02-04T17:31:23.690Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Southern_Water" title="Southern Water">Southern Water</a> was fined £90&nbsp;million for deliberately <b><a href="/wiki/Sewage_discharge_in_the_United_Kingdom" title="Sewage discharge in the United Kingdom">dumping sewage</a></b> into the sea?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Princess Zelda]]></title>
+        <id>https://en.wikipedia.org/wiki/Princess_Zelda</id>
+        <link href="https://en.wikipedia.org/wiki/Princess_Zelda"/>
+        <updated>2024-02-04T17:31:23.692Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Princess_Zelda" title="Princess Zelda">Princess Zelda</a></b><span class="nowrap">'s</span> name was inspired by American novelist and socialite <a href="/wiki/Zelda_Fitzgerald" title="Zelda Fitzgerald">Zelda Fitzgerald</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shang-Chi and the Legend of the Ten Rings]]></title>
+        <id>https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings</id>
+        <link href="https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"/>
+        <updated>2024-02-04T17:31:23.703Z</updated>
+        <content type="html"><![CDATA[... that a bus-chase sequence in <i><b><a href="/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings" title="Shang-Chi and the Legend of the Ten Rings">Shang-Chi and the Legend of the Ten Rings</a></b></i> took more than a year to plan and was revised more than twenty times?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al Sweet]]></title>
+        <id>https://en.wikipedia.org/wiki/Al_Sweet</id>
+        <link href="https://en.wikipedia.org/wiki/Al_Sweet"/>
+        <updated>2024-02-04T17:31:23.704Z</updated>
+        <content type="html"><![CDATA[... that cornetist <b><a href="/wiki/Al_Sweet" title="Al Sweet">Al Sweet</a></b> dressed his band, the White Hussars, in flashy white-and-gold military uniforms based on <a href="/wiki/Hussar" title="Hussar">hussars</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the 400th episode]]></title>
+        <id>https://en.wikipedia.org/wiki/Episode_400_(Neighbours)</id>
+        <link href="https://en.wikipedia.org/wiki/Episode_400_(Neighbours)"/>
+        <updated>2024-02-04T17:31:23.705Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Episode_400_(Neighbours)" title="Episode 400 (Neighbours)">the 400th episode</a></b> of <i><a href="/wiki/Neighbours" title="Neighbours">Neighbours</a></i> features the serial's first ever Christmas story?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ioniță Tunsu]]></title>
+        <id>https://en.wikipedia.org/wiki/Ioni%C8%9B%C4%83_Tunsu</id>
+        <link href="https://en.wikipedia.org/wiki/Ioni%C8%9B%C4%83_Tunsu"/>
+        <updated>2024-02-04T17:31:23.707Z</updated>
+        <content type="html"><![CDATA[... that a street in <a href="/wiki/Bucharest" title="Bucharest">Bucharest</a> was once named after <b><a href="/wiki/Ioni%C8%9B%C4%83_Tunsu" title="Ioniță Tunsu">Ioniță Tunsu</a></b>, an outlaw who used to visit his girlfriend there?]]></content>
+    </entry>
+</feed>
