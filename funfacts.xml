@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2024-02-08T17:32:16.010Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tove Jansson]]></title>
+        <id>https://en.wikipedia.org/wiki/Tove_Jansson</id>
+        <link href="https://en.wikipedia.org/wiki/Tove_Jansson"/>
+        <updated>2024-02-08T17:31:47.624Z</updated>
+        <content type="html"><![CDATA[... that artist <b><a href="/wiki/Tove_Jansson" title="Tove Jansson">Tove Jansson</a></b> <i>(pictured)</i> based the children's book character <a href="/wiki/Snufkin" title="Snufkin">Snufkin</a> on <a href="/wiki/Atos_Wirtanen" title="Atos Wirtanen">a political philosopher</a> whom she had dated?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St James the Less, Pockthorpe]]></title>
+        <id>https://en.wikipedia.org/wiki/St_James_the_Less,_Pockthorpe</id>
+        <link href="https://en.wikipedia.org/wiki/St_James_the_Less,_Pockthorpe"/>
+        <updated>2024-02-08T17:31:47.626Z</updated>
+        <content type="html"><![CDATA[... that the church of <b><a href="/wiki/St_James_the_Less,_Pockthorpe" title="St James the Less, Pockthorpe">St&nbsp;James the Less, Pockthorpe</a></b>, now the home of the <a href="/wiki/Norwich_Puppet_Theatre" title="Norwich Puppet Theatre">Norwich Puppet Theatre</a>, once contained a <a href="/wiki/Rood_screen" title="Rood screen">rood screen</a> with portraits of saints painted in 1479?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sagyo Thu-Myat]]></title>
+        <id>https://en.wikipedia.org/wiki/Sagyo_Thu-Myat</id>
+        <link href="https://en.wikipedia.org/wiki/Sagyo_Thu-Myat"/>
+        <updated>2024-02-08T17:31:47.628Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Buddhism_in_Myanmar" title="Buddhism in Myanmar">Burmese Buddhist</a> monk <b><a href="/wiki/Sagyo_Thu-Myat" title="Sagyo Thu-Myat">Sagyo Thu-Myat</a></b> successfully lobbied for the recalibration of the <a href="/wiki/Burmese_calendar" title="Burmese calendar">Burmese calendar</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hicklin Lake]]></title>
+        <id>https://en.wikipedia.org/wiki/Hicklin_Lake</id>
+        <link href="https://en.wikipedia.org/wiki/Hicklin_Lake"/>
+        <updated>2024-02-08T17:31:47.644Z</updated>
+        <content type="html"><![CDATA[... that artificial islands were deployed in <b><a href="/wiki/Hicklin_Lake" title="Hicklin Lake">Hicklin Lake</a></b> in an unsuccessful attempt to stop <a href="/wiki/Eutrophication" title="Eutrophication">eutrophication</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lee Sung Jin]]></title>
+        <id>https://en.wikipedia.org/wiki/Lee_Sung_Jin</id>
+        <link href="https://en.wikipedia.org/wiki/Lee_Sung_Jin"/>
+        <updated>2024-02-08T17:31:47.646Z</updated>
+        <content type="html"><![CDATA[... that a <span class="nowrap">COVID-19</span> bout forced <i><a href="/wiki/Beef_(TV_series)" title="Beef (TV series)">Beef</a></i> creator <b><a href="/wiki/Lee_Sung_Jin" title="Lee Sung Jin">Lee Sung Jin</a></b> to direct the show's season finale remotely?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wooden Warrior]]></title>
+        <id>https://en.wikipedia.org/wiki/Wooden_Warrior</id>
+        <link href="https://en.wikipedia.org/wiki/Wooden_Warrior"/>
+        <updated>2024-02-08T17:31:47.650Z</updated>
+        <content type="html"><![CDATA[... that elementary school students named the <b><a href="/wiki/Wooden_Warrior" title="Wooden Warrior">Wooden Warrior</a></b> roller coaster?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dean Crawford]]></title>
+        <id>https://en.wikipedia.org/wiki/Dean_Crawford</id>
+        <link href="https://en.wikipedia.org/wiki/Dean_Crawford"/>
+        <updated>2024-02-08T17:31:47.651Z</updated>
+        <content type="html"><![CDATA[... that Olympic gold medalist <b><a href="/wiki/Dean_Crawford" title="Dean Crawford">Dean Crawford</a></b> was introduced to rowing when he found a <a href="/wiki/Racing_shell" title="Racing shell">rowing shell</a> outside the students' union building at the <a href="/wiki/University_of_Victoria" title="University of Victoria">University of Victoria</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Zealand threepence]]></title>
+        <id>https://en.wikipedia.org/wiki/Threepence_(New_Zealand_coin)</id>
+        <link href="https://en.wikipedia.org/wiki/Threepence_(New_Zealand_coin)"/>
+        <updated>2024-02-08T17:31:47.653Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Patu" title="Patu">patu</a> clubs on the <b><a href="/wiki/Threepence_(New_Zealand_coin)" title="Threepence (New Zealand coin)">New Zealand threepence</a></b> were compared to bottles of ginger beer?]]></content>
+    </entry>
+</feed>
