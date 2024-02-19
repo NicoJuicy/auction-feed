@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-02-18T17:32:45.094Z</updated>
+    <updated>2024-02-19T05:32:04.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16802" title="Lot 242 - Snowboardset - 148 cm">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00325-7-10454-2-lot-242-snowboardset-148-cm-16802"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00325-7-10454-2-lot-242-snowboardset-148-cm-16802">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16802/image_256/%5BBOR-00325-7-10454-2%5D%20Lot%20242%20-%20Snowboardset%20-%20148%20cm?unique=6fd81a0" itemprop="image" class="img img-fluid" alt="[BOR/00325/7/10454/2] Lot 242 - Snowboardset - 148 cm" loading="lazy"></span>
                 </a>
@@ -22,12 +22,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-19 18:20:23" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">01</span>
+            <span class="seconds span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -67,7 +67,7 @@ Lengte: ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">02</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -92,7 +92,7 @@ Lengte: ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18201" title="Lot 122 - Breekhamer - PAH 1300 B2">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10773-4-lot-122-breekhamer-pah-1300-b2-18201"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10773-4-lot-122-breekhamer-pah-1300-b2-18201">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18201/image_256/%5BBOR-00001-4-10773-4%5D%20Lot%20122%20-%20Breekhamer%20-%20PAH%201300%20B2?unique=da3d06d" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10773/4] Lot 122 - Breekhamer - PAH 1300 B2" loading="lazy"></span>
                 </a>
@@ -100,22 +100,22 @@ Lengte: ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-20 20:23:09" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">02</span>
+            <span class="days span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">50</span>
+            <span class="minutes span_time_digit">51</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">47</span>
+            <span class="seconds span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -142,15 +142,15 @@ Model: PAH..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/15563">
-                    2 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">36,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">37,00</span>
                   </b>
                 </div>
            <p></p>
@@ -170,7 +170,7 @@ Model: PAH..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-12825" title="Spierbank - cb418">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-01438-4-00002-293-spierbank-cb418-12825"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-01438-4-00002-293-spierbank-cb418-12825">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/12825/image_256/%5BGEM-01438-4-00002-293%5D%20Spierbank%20-%20cb418?unique=3de5304" itemprop="image" class="img img-fluid" alt="[GEM/01438/4/00002/293] Spierbank - cb418" loading="lazy"></span>
                 </a>
@@ -178,22 +178,22 @@ Model: PAH..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-21 18:40:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">07</span>
+            <span class="minutes span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -216,10 +216,10 @@ Model: PAH..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/15909">
-                    0 Biedingen</a>
+                    1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">08</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -244,7 +244,7 @@ Model: PAH..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18304" title="Lot 323 - Ducati - Motorhelm - Corse - RX-7V">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01938-3-10868-4-lot-323-ducati-motorhelm-corse-rx-7v-18304"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01938-3-10868-4-lot-323-ducati-motorhelm-corse-rx-7v-18304">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18304/image_256/%5BBOR-01938-3-10868-4%5D%20Lot%20323%20-%20Ducati%20-%20Motorhelm%20-%20Corse%20-%20RX-7V?unique=3e82350" itemprop="image" class="img img-fluid" alt="[BOR/01938/3/10868/4] Lot 323 - Ducati - Motorhelm - Corse - RX-7V" loading="lazy"></span>
                 </a>
@@ -252,22 +252,22 @@ Model: PAH..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-22 18:45:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">12</span>
+            <span class="minutes span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -297,7 +297,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -322,7 +322,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18307" title="Lot 324 - Ducati - Motorhelm - Drudi Performance - met oortje en micro">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01938-3-10868-5-lot-324-ducati-motorhelm-drudi-performance-met-oortje-en-micro-18307"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01938-3-10868-5-lot-324-ducati-motorhelm-drudi-performance-met-oortje-en-micro-18307">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18307/image_256/%5BBOR-01938-3-10868-5%5D%20Lot%20324%20-%20Ducati%20-%20Motorhelm%20-%20Drudi%20Performance%20-%20met%20oortje%20en%20micro?unique=3e82350" itemprop="image" class="img img-fluid" alt="[BOR/01938/3/10868/5] Lot 324 - Ducati - Motorhelm - Drudi Performance - met oortje en micro" loading="lazy"></span>
                 </a>
@@ -330,22 +330,22 @@ Type : Corse R..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-22 19:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -375,7 +375,7 @@ Type: Drudi Perf..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -400,7 +400,7 @@ Type: Drudi Perf..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18333" title="Lot 348 - Floyd Mayweather - ingekaderde en gesigneerde bokshandschoen - met certificaat">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01938-3-10868-12-lot-348-floyd-mayweather-ingekaderde-en-gesigneerde-bokshandschoen-met-certificaat-18333"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01938-3-10868-12-lot-348-floyd-mayweather-ingekaderde-en-gesigneerde-bokshandschoen-met-certificaat-18333">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18333/image_256/%5BBOR-01938-3-10868-12%5D%20Lot%20348%20-%20Floyd%20Mayweather%20-%20ingekaderde%20en%20gesigneerde%20bokshandschoen%20-%20met%20certificaat?unique=3e82350" itemprop="image" class="img img-fluid" alt="[BOR/01938/3/10868/12] Lot 348 - Floyd Mayweather - ingekaderde en gesigneerde bokshandschoen - met certificaat" loading="lazy"></span>
                 </a>
@@ -408,22 +408,22 @@ Type: Drudi Perf..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-22 20:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -452,7 +452,7 @@ Type: Drudi Perf..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -477,7 +477,7 @@ Type: Drudi Perf..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18488" title="Sony - Camera - A65">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-10343-748-sony-camera-a65-18488"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-10343-748-sony-camera-a65-18488">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18488/image_256/%5BGEM-00001-4-10343-748%5D%20Sony%20-%20Camera%20-%20A65?unique=b170bdb" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/10343/748] Sony - Camera - A65" loading="lazy"></span>
                 </a>
@@ -490,17 +490,17 @@ Type: Drudi Perf..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">42</span>
+            <span class="minutes span_time_digit">43</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -526,7 +526,7 @@ Type: Drudi Perf..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -551,7 +551,7 @@ Type: Drudi Perf..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16049" title="Airofit - Ademhalingsapparatuur  - Pro- 2.0">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/airofit-ademhalingsapparatuur-pro-2-0-16049"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/airofit-ademhalingsapparatuur-pro-2-0-16049">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16049/image_256/Airofit%20-%20Ademhalingsapparatuur%20%20-%20Pro-%202.0?unique=b170bdb" itemprop="image" class="img img-fluid" alt="Airofit - Ademhalingsapparatuur  - Pro- 2.0" loading="lazy"></span>
                 </a>
@@ -559,22 +559,22 @@ Type: Drudi Perf..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-02-25 19:35:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">07</span>
+            <span class="days span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
+            <span class="hours span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">02</span>
+            <span class="minutes span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">38</span>
+            <span class="seconds span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -600,7 +600,7 @@ Type: Drudi Perf..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">02</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -625,7 +625,7 @@ Type: Drudi Perf..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18332" title="Lot 347 - Max Verstappen - ingekaderde gesigneerde pet - met certificaat">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01938-3-10868-11-lot-347-max-verstappen-ingekaderde-gesigneerde-pet-met-certificaat-18332"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01938-3-10868-11-lot-347-max-verstappen-ingekaderde-gesigneerde-pet-met-certificaat-18332">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18332/image_256/%5BBOR-01938-3-10868-11%5D%20Lot%20347%20-%20Max%20Verstappen%20-%20ingekaderde%20gesigneerde%20pet%20-%20met%20certificaat?unique=3e82350" itemprop="image" class="img img-fluid" alt="[BOR/01938/3/10868/11] Lot 347 - Max Verstappen - ingekaderde gesigneerde pet - met certificaat" loading="lazy"></span>
                 </a>
@@ -638,17 +638,17 @@ Type: Drudi Perf..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">22</span>
+            <span class="minutes span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">54</span>
+            <span class="seconds span_time_digit">19</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -677,7 +677,7 @@ Type: Drudi Perf..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">55</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">20</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -702,7 +702,7 @@ Type: Drudi Perf..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18330" title="Lot 346 - Conor McGregor - Ingekaderde gesigneerde bokshandschoen">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01938-3-10868-10-lot-346-conor-mcgregor-ingekaderde-gesigneerde-bokshandschoen-18330"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7a7ec1788f90f6f54b70bec95fd7198e580757c5o1739813541">
+                <input type="hidden" name="csrf_token" value="c5893a824db8ecd7ddb76dcdba33097cfdc11122o1739856716">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01938-3-10868-10-lot-346-conor-mcgregor-ingekaderde-gesigneerde-bokshandschoen-18330">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18330/image_256/%5BBOR-01938-3-10868-10%5D%20Lot%20346%20-%20Conor%20McGregor%20-%20Ingekaderde%20gesigneerde%20bokshandschoen?unique=3e82350" itemprop="image" class="img img-fluid" alt="[BOR/01938/3/10868/10] Lot 346 - Conor McGregor - Ingekaderde gesigneerde bokshandschoen" loading="lazy"></span>
                 </a>
@@ -715,7 +715,7 @@ Type: Drudi Perf..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -725,7 +725,7 @@ Type: Drudi Perf..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">01</span>
+            <span class="seconds span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -754,7 +754,7 @@ Type: Drudi Perf..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">02</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
