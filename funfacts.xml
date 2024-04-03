@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2024-04-03T17:32:05.353Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[teleseme]]></title>
+        <id>https://en.wikipedia.org/wiki/Teleseme</id>
+        <link href="https://en.wikipedia.org/wiki/Teleseme"/>
+        <updated>2024-04-03T17:31:30.552Z</updated>
+        <content type="html"><![CDATA[... that hotel guests in the 1890s could use a <b><a href="/wiki/Teleseme" title="Teleseme">teleseme</a></b> <i>(example pictured)</i> to order cocktails and call manservants?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ladislav Burlas]]></title>
+        <id>https://en.wikipedia.org/wiki/Ladislav_Burlas</id>
+        <link href="https://en.wikipedia.org/wiki/Ladislav_Burlas"/>
+        <updated>2024-04-03T17:31:30.558Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ladislav_Burlas" title="Ladislav Burlas">Ladislav Burlas</a></b>, a musicologist at the <a href="/wiki/Slovak_Academy_of_Sciences" title="Slovak Academy of Sciences">Slovak Academy of Sciences</a> for almost 40 years, wrote more than 150 works during his career?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lunar Traverse Gravimeter]]></title>
+        <id>https://en.wikipedia.org/wiki/Lunar_Traverse_Gravimeter</id>
+        <link href="https://en.wikipedia.org/wiki/Lunar_Traverse_Gravimeter"/>
+        <updated>2024-04-03T17:31:30.558Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Lunar_Traverse_Gravimeter" title="Lunar Traverse Gravimeter">Lunar Traverse Gravimeter</a></b><span class="nowrap">'s</span> primary <a href="/wiki/Accelerometer" title="Accelerometer">accelerometer</a> was based on those operational on <a href="/wiki/SM-65_Atlas" title="SM-65 Atlas">SM-65 Atlas</a> intercontinental ballistic missiles?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bell Tea]]></title>
+        <id>https://en.wikipedia.org/wiki/BrewGroup</id>
+        <link href="https://en.wikipedia.org/wiki/BrewGroup"/>
+        <updated>2024-04-03T17:31:30.559Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/BrewGroup" title="BrewGroup">Bell Tea</a></b>, founded in 1898, is the oldest tea company in New Zealand?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a team of Canadian All-Stars]]></title>
+        <id>https://en.wikipedia.org/wiki/Canada_All-Stars</id>
+        <link href="https://en.wikipedia.org/wiki/Canada_All-Stars"/>
+        <updated>2024-04-03T17:31:30.559Z</updated>
+        <content type="html"><![CDATA[... that in one year, <b><a href="/wiki/Canada_All-Stars" title="Canada All-Stars">a team of Canadian All-Stars</a></b> twice played against the U.S. <a href="/wiki/College_football" title="College football">college football</a> national champion and came within one point of winning each game?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahmad Nasuhi]]></title>
+        <id>https://en.wikipedia.org/wiki/Ahmad_Nasuhi</id>
+        <link href="https://en.wikipedia.org/wiki/Ahmad_Nasuhi"/>
+        <updated>2024-04-03T17:31:30.561Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ahmad_Nasuhi" title="Ahmad Nasuhi">Ahmad Nasuhi</a></b> ordered a subordinate to attack the <a href="/wiki/Communist_Party_of_Indonesia" title="Communist Party of Indonesia">Indonesian Communist Party</a>'s offices with grenades as "psychological warfare against the central government"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Tran Flat Bridge]]></title>
+        <id>https://en.wikipedia.org/wiki/Van_Tran_Flat_Bridge</id>
+        <link href="https://en.wikipedia.org/wiki/Van_Tran_Flat_Bridge"/>
+        <updated>2024-04-03T17:31:30.563Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Van_Tran_Flat_Bridge" title="Van Tran Flat Bridge">Van Tran Flat Bridge</a></b> was restored in 1984 using original construction techniques from the 1860s?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[George E. Mylonas]]></title>
+        <id>https://en.wikipedia.org/wiki/George_E._Mylonas</id>
+        <link href="https://en.wikipedia.org/wiki/George_E._Mylonas"/>
+        <updated>2024-04-03T17:31:30.564Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/George_E._Mylonas" title="George E. Mylonas">George E. Mylonas</a></b> visited <a href="/wiki/Mycenae" title="Mycenae">Mycenae</a> at night to speak to the legendary king <a href="/wiki/Agamemnon" title="Agamemnon">Agamemnon</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waluigi]]></title>
+        <id>https://en.wikipedia.org/wiki/Waluigi</id>
+        <link href="https://en.wikipedia.org/wiki/Waluigi"/>
+        <updated>2024-04-03T17:31:30.565Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Waluigi" title="Waluigi">Waluigi</a></b> inspired the name of a phenomenon in artificial intelligence known as the <a href="/wiki/Waluigi_effect" title="Waluigi effect">Waluigi effect</a>?]]></content>
+    </entry>
+</feed>
