@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-04-08T17:31:55.687Z</updated>
+    <updated>2024-04-09T05:31:50.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-18304" title="Lot 323 - Ducati - Motorhelm - Corse - RX-7V">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01938-3-10868-4-lot-323-ducati-motorhelm-corse-rx-7v-18304"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01938-3-10868-4-lot-323-ducati-motorhelm-corse-rx-7v-18304">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/18304/image_256/%5BBOR-01938-3-10868-4%5D%20Lot%20323%20-%20Ducati%20-%20Motorhelm%20-%20Corse%20-%20RX-7V?unique=73f2bcf" itemprop="image" class="img img-fluid" alt="[BOR/01938/3/10868/4] Lot 323 - Ducati - Motorhelm - Corse - RX-7V" loading="lazy"></span>
                 </a>
@@ -27,7 +27,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">15</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -67,7 +67,7 @@ Type : Corse R..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -92,7 +92,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-19902" title="Hengel LERC Spirglass - dd002">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00397-7-10866-2-hengel-lerc-spirglass-dd002-19902"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00397-7-10866-2-hengel-lerc-spirglass-dd002-19902">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/19902/image_256/%5BGEM-00397-7-10866-2%5D%20Hengel%20LERC%20Spirglass%20-%20dd002?unique=2142cab" itemprop="image" class="img img-fluid" alt="[GEM/00397/7/10866/2] Hengel LERC Spirglass - dd002" loading="lazy"></span>
                 </a>
@@ -105,7 +105,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -115,7 +115,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -141,7 +141,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -166,7 +166,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21451" title="Lot 24_356A - Kampeeruitrusting">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-33-lot-24-356a-kampeeruitrusting-21451"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-33-lot-24-356a-kampeeruitrusting-21451">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21451/image_256/%5BBXL-00001-4-11313-33%5D%20Lot%2024_356A%20-%20Kampeeruitrusting?unique=76ca137" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/33] Lot 24_356A - Kampeeruitrusting" loading="lazy"></span>
                 </a>
@@ -179,7 +179,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -189,7 +189,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">15</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -218,7 +218,7 @@ Type : Corse R..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -243,7 +243,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21059" title="RT-1226 - REYNOLDS fietswiel + SCHWALBE band">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-59-rt-1226-reynolds-fietswiel-schwalbe-band-21059"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-59-rt-1226-reynolds-fietswiel-schwalbe-band-21059">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21059/image_256/%5BGEM-00001-4-11166-59%5D%20RT-1226%20-%20REYNOLDS%20fietswiel%20%2B%20SCHWALBE%20band?unique=7287d06" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/59] RT-1226 - REYNOLDS fietswiel + SCHWALBE band" loading="lazy"></span>
                 </a>
@@ -256,7 +256,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -266,7 +266,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">09</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -295,7 +295,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -320,7 +320,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21060" title="RT-1225 - Grote opblaasbare tent QUECHUA">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-58-rt-1225-grote-opblaasbare-tent-quechua-21060"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-58-rt-1225-grote-opblaasbare-tent-quechua-21060">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21060/image_256/%5BGEM-00001-4-11166-58%5D%20RT-1225%20-%20Grote%20opblaasbare%20tent%20QUECHUA?unique=5ae92ea" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/58] RT-1225 - Grote opblaasbare tent QUECHUA" loading="lazy"></span>
                 </a>
@@ -333,7 +333,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -343,7 +343,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">33</span>
+            <span class="seconds span_time_digit">39</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -372,7 +372,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -397,7 +397,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21899" title="RT-1335 - URBAN STREET skateboard oprit">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-100-rt-1335-urban-street-skateboard-oprit-21899"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-100-rt-1335-urban-street-skateboard-oprit-21899">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21899/image_256/%5BGEM-00001-4-11166-100%5D%20RT-1335%20-%20URBAN%20STREET%20skateboard%20oprit?unique=7b1213c" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/100] RT-1335 - URBAN STREET skateboard oprit" loading="lazy"></span>
                 </a>
@@ -410,7 +410,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -420,7 +420,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">15</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -449,7 +449,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -474,7 +474,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-20818" title="RT-1189 - Koffer TRAVELITE">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-43-rt-1189-koffer-travelite-20818"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d2087324888dac91f8e798dc28a3a275878cc4afo1744133504">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-43-rt-1189-koffer-travelite-20818">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/20818/image_256/%5BGEM-00001-4-11166-43%5D%20RT-1189%20-%20Koffer%20TRAVELITE?unique=f6dc52c" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/43] RT-1189 - Koffer TRAVELITE" loading="lazy"></span>
                 </a>
@@ -487,17 +487,17 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">58</span>
+            <span class="seconds span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -526,7 +526,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">58</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -551,7 +551,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21963" title="Lot 24_418B - Smart bike trainer">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-71-lot-24-418b-smart-bike-trainer-21963"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-71-lot-24-418b-smart-bike-trainer-21963">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21963/image_256/%5BBXL-00001-4-11313-71%5D%20Lot%2024_418B%20-%20Smart%20bike%20trainer?unique=89cd3ec" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/71] Lot 24_418B - Smart bike trainer" loading="lazy"></span>
                 </a>
@@ -564,7 +564,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -574,7 +574,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -600,7 +600,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -625,7 +625,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21976" title="Kavel 24_419C - Vivere hangmat">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-72-kavel-24-419c-vivere-hangmat-21976"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="4221c9b06bfdbcc8b92ccf854c7097767da197eco1744176698">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-72-kavel-24-419c-vivere-hangmat-21976">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21976/image_256/%5BBXL-00001-4-11313-72%5D%20Kavel%2024_419C%20-%20Vivere%20hangmat?unique=76ca137" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/72] Kavel 24_419C - Vivere hangmat" loading="lazy"></span>
                 </a>
@@ -638,7 +638,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -648,7 +648,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -674,7 +674,7 @@ Type : Corse R..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -699,7 +699,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-20939" title="2 Tabourets pliables - cb644">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-15-2-tabourets-pliables-cb644-20939"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-15-2-tabourets-pliables-cb644-20939">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/20939/image_256/%5BGEM-00297-7-11132-15%5D%202%20Tabourets%20pliables%20-%20cb644?unique=256c0a4" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/15] 2 Tabourets pliables - cb644" loading="lazy"></span>
                 </a>
@@ -712,7 +712,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -722,7 +722,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -748,7 +748,7 @@ Type : Corse R..
                     11 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -773,7 +773,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21494" title="Luchtpompset - cb648">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11154-5-luchtpompset-cb648-21494"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11154-5-luchtpompset-cb648-21494">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21494/image_256/%5BGEM-00001-4-11154-5%5D%20Luchtpompset%20-%20cb648?unique=11544a7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11154/5] Luchtpompset - cb648" loading="lazy"></span>
                 </a>
@@ -786,7 +786,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -796,7 +796,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -825,7 +825,7 @@ Type : Corse R..
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -850,7 +850,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21495" title="Rijuitrusting - ACcb649">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11154-6-rijuitrusting-accb649-21495"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11154-6-rijuitrusting-accb649-21495">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21495/image_256/%5BGEM-00001-4-11154-6%5D%20Rijuitrusting%20-%20ACcb649?unique=05c55d3" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11154/6] Rijuitrusting - ACcb649" loading="lazy"></span>
                 </a>
@@ -863,7 +863,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -873,7 +873,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -896,15 +896,15 @@ Type : Corse R..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/18525">
-                    0 Biedingen</a>
+                    2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">20,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">30,00</span>
                   </b>
                 </div>
            <p></p>
@@ -924,7 +924,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21928" title="Flyblade - Step - EDcb665">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-28-flyblade-step-edcb665-21928"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-28-flyblade-step-edcb665-21928">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21928/image_256/%5BGEM-00297-7-11132-28%5D%20Flyblade%20-%20Step%20-%20EDcb665?unique=882fdda" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/28] Flyblade - Step - EDcb665" loading="lazy"></span>
                 </a>
@@ -937,7 +937,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -947,7 +947,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -976,7 +976,7 @@ Type : Corse R..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1001,7 +1001,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21929" title="Step - EDcb666">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-29-step-edcb666-21929"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-29-step-edcb666-21929">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21929/image_256/%5BGEM-00297-7-11132-29%5D%20Step%20-%20EDcb666?unique=fa5130b" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/29] Step - EDcb666" loading="lazy"></span>
                 </a>
@@ -1014,7 +1014,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1024,7 +1024,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1053,7 +1053,7 @@ Type : Corse R..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1078,7 +1078,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21930" title="Step - EDcb667">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-30-step-edcb667-21930"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-30-step-edcb667-21930">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21930/image_256/%5BGEM-00297-7-11132-30%5D%20Step%20-%20EDcb667?unique=0f30514" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/30] Step - EDcb667" loading="lazy"></span>
                 </a>
@@ -1091,7 +1091,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1101,7 +1101,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1130,7 +1130,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1155,7 +1155,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21937" title="Step - EDcb673">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-36-step-edcb673-21937"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-36-step-edcb673-21937">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21937/image_256/%5BGEM-00297-7-11132-36%5D%20Step%20-%20EDcb673?unique=dabf5e6" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/36] Step - EDcb673" loading="lazy"></span>
                 </a>
@@ -1168,7 +1168,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1178,7 +1178,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1207,7 +1207,7 @@ Type : Corse R..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1232,7 +1232,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21938" title="Step - EDcb674">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-37-step-edcb674-21938"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-37-step-edcb674-21938">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21938/image_256/%5BGEM-00297-7-11132-37%5D%20Step%20-%20EDcb674?unique=27d4042" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/37] Step - EDcb674" loading="lazy"></span>
                 </a>
@@ -1245,7 +1245,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1255,7 +1255,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1284,7 +1284,7 @@ Type : Corse R..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1309,7 +1309,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21939" title="Step - EDcb675">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-7-11132-38-step-edcb675-21939"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-7-11132-38-step-edcb675-21939">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21939/image_256/%5BGEM-00297-7-11132-38%5D%20Step%20-%20EDcb675?unique=3eb4620" itemprop="image" class="img img-fluid" alt="[GEM/00297/7/11132/38] Step - EDcb675" loading="lazy"></span>
                 </a>
@@ -1322,7 +1322,7 @@ Type : Corse R..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1332,7 +1332,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1361,7 +1361,7 @@ Type : Corse R..
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1386,7 +1386,7 @@ Type : Corse R..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-20538" title="Lot 103 - Correspondance de Marcel Proust - 5 volumes">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10775-25-lot-103-correspondance-de-marcel-proust-5-volumes-20538"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10775-25-lot-103-correspondance-de-marcel-proust-5-volumes-20538">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/20538/image_256/%5BBOR-00001-4-10775-25%5D%20Lot%20103%20-%20Correspondance%20de%20Marcel%20Proust%20-%205%20volumes?unique=c790795" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10775/25] Lot 103 - Correspondance de Marcel Proust - 5 volumes" loading="lazy"></span>
                 </a>
@@ -1394,12 +1394,12 @@ Type : Corse R..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-04-16 17:50:06" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">08</span>
+            <span class="days span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1409,7 +1409,7 @@ Type : Corse R..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">20</span>
+            <span class="seconds span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1439,7 +1439,7 @@ Volumes:..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1464,7 +1464,7 @@ Volumes:..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-9183" title="Lot 157av - Apple - MacBook Pro 16-inch - A2141">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-01438-4-10000-232-lot-157av-apple-macbook-pro-16-inch-a2141-9183"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="083b9c254e777c5ce8d2c43e351ccd2f544eefd8o1744133505">
+                <input type="hidden" name="csrf_token" value="a62f5e748f88c9793fc779fc76941f60180775dfo1744176699">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-01438-4-10000-232-lot-157av-apple-macbook-pro-16-inch-a2141-9183">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/9183/image_256/%5BBOR-01438-4-10000-232%5D%20Lot%20157av%20-%20Apple%20-%20MacBook%20Pro%2016-inch%20-%20A2141?unique=c36c1bd" itemprop="image" class="img img-fluid" alt="[BOR/01438/4/10000/232] Lot 157av - Apple - MacBook Pro 16-inch - A2141" loading="lazy"></span>
                 </a>
@@ -1472,12 +1472,12 @@ Volumes:..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-04-16 18:25:51" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">08</span>
+            <span class="days span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1487,7 +1487,7 @@ Volumes:..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1517,7 +1517,7 @@ Type: MacBook Pro ..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
