@@ -2,86 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-04-25T17:31:45.752Z</updated>
+    <updated>2024-04-26T05:31:36.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lot 24_378 - Cube Hide PRG 1 - Mountainbike]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-01659-7-10007-139-lot-24-378-cube-hide-prg-1-mountainbike-22732</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01659-7-10007-139-lot-24-378-cube-hide-prg-1-mountainbike-22732"/>
-        <updated>2024-04-25T17:31:41.171Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22732" title="Lot 24_378 - Cube Hide PRG 1 - Mountainbike">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-139-lot-24-378-cube-hide-prg-1-mountainbike-22732"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="39fac06b7f8058ef491dccedbc5a290cc13c7d25o1745602300">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-139-lot-24-378-cube-hide-prg-1-mountainbike-22732">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22732/image_256/%5BBXL-01659-7-10007-139%5D%20Lot%2024_378%20-%20Cube%20Hide%20PRG%201%20-%20Mountainbike?unique=a3e9dd5" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/139] Lot 24_378 - Cube Hide PRG 1 - Mountainbike" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-04-25 17:38:35" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">06</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">54</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Brussel</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-01659-7-10007-139-lot-24-378-cube-hide-prg-1-mountainbike-22732" content="Lot 24_378 - Cube Hide PRG 1 - Mountainbike">Lot 24_378 - Cube Hide PRG 1 - Mountainbike</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Kavel 24_378 - Cube Hide PRG 1..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/19426">
-                    3 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">55</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">164,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lot 24_354A - Auto-uitrusting]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-11313-31-lot-24-354a-auto-uitrusting-21440</id>
@@ -91,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21440" title="Lot 24_354A - Auto-uitrusting">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-31-lot-24-354a-auto-uitrusting-21440"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="39fac06b7f8058ef491dccedbc5a290cc13c7d25o1745602300">
+                <input type="hidden" name="csrf_token" value="5311ee8a7e2c1543d5e24535da70a0f306ceca2bo1745645492">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-31-lot-24-354a-auto-uitrusting-21440">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21440/image_256/%5BBXL-00001-4-11313-31%5D%20Lot%2024_354A%20-%20Auto-uitrusting?unique=044e71a" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/31] Lot 24_354A - Auto-uitrusting" loading="lazy"></span>
                 </a>
@@ -104,7 +27,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -114,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">19</span>
+            <span class="seconds span_time_digit">27</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -143,7 +66,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">20</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -168,7 +91,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21788" title="Lot 24 _ 387E - Automaterialen">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-51-lot-24-387e-automaterialen-21788"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="39fac06b7f8058ef491dccedbc5a290cc13c7d25o1745602300">
+                <input type="hidden" name="csrf_token" value="5311ee8a7e2c1543d5e24535da70a0f306ceca2bo1745645492">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-51-lot-24-387e-automaterialen-21788">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21788/image_256/%5BBXL-00001-4-11313-51%5D%20Lot%2024%20_%20387E%20-%20Automaterialen?unique=044e71a" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/51] Lot 24 _ 387E - Automaterialen" loading="lazy"></span>
                 </a>
@@ -181,7 +104,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -191,7 +114,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">20</span>
+            <span class="seconds span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -217,7 +140,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">07</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
