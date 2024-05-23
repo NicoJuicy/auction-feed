@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=direct_shop&amp;finshop=3&amp;category_select=6&amp;state=&amp;price=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-05-23T05:32:56.513Z</updated>
+    <updated>2024-05-23T17:32:35.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,9 +14,9 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-19231" title="Sorel - Heren &quot;Glacier&quot; Koudgevulde Laarzen 43">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11059-65-sorel-heren-glacier-koudgevulde-laarzen-43-19231"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11059-65-sorel-heren-glacier-koudgevulde-laarzen-43-19231">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/19231/image_256/%5BBXL-00001-4-11059-65%5D%20Sorel%20-%20Heren%20%22Glacier%22%20Koudgevulde%20Laarzen%2043?unique=8081c48" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11059/65] Sorel - Heren &quot;Glacier&quot; Koudgevulde Laarzen 43" loading="lazy"></span>
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/19231/image_256/%5BBXL-00001-4-11059-65%5D%20Sorel%20-%20Heren%20%22Glacier%22%20Koudgevulde%20Laarzen%2043?unique=10f539f" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11059/65] Sorel - Heren &quot;Glacier&quot; Koudgevulde Laarzen 43" loading="lazy"></span>
                 </a>
         <div class="product_item-warehouse">
           <p>Finshop
@@ -57,7 +57,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-12969" title="Pezl I'D S - Zelfremmende afdaler met antipaniekfunctie diameter 10 - 11,5m">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00003-1-10803-8-pezl-i-d-s-zelfremmende-afdaler-met-antipaniekfunctie-diameter-10-115m-12969"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00003-1-10803-8-pezl-i-d-s-zelfremmende-afdaler-met-antipaniekfunctie-diameter-10-115m-12969">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/12969/image_256/%5BBXL-00003-1-10803-8%5D%20Pezl%20I%27D%20S%20-%20Zelfremmende%20afdaler%20met%20antipaniekfunctie%20diameter%2010%20-%2011%2C5m?unique=60a6b1b" itemprop="image" class="img img-fluid" alt="[BXL/00003/1/10803/8] Pezl I'D S - Zelfremmende afdaler met antipaniekfunctie diameter 10 - 11,5m" loading="lazy"></span>
                 </a>
@@ -100,7 +100,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-12967" title="kong italy - poelie 16mm max">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00003-1-10803-6-kong-italy-poelie-16mm-max-12967"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00003-1-10803-6-kong-italy-poelie-16mm-max-12967">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/12967/image_256/%5BBXL-00003-1-10803-6%5D%20kong%20italy%20-%20poelie%2016mm%20max?unique=20df01e" itemprop="image" class="img img-fluid" alt="[BXL/00003/1/10803/6] kong italy - poelie 16mm max" loading="lazy"></span>
                 </a>
@@ -143,7 +143,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16564" title="antislip schaats Gr=1 - maat : 30-36">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-306-antislip-schaats-gr-1-maat-30-36-16564"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-306-antislip-schaats-gr-1-maat-30-36-16564">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16564/image_256/%5BBXL-01438-4-10000-306%5D%20antislip%20schaats%20Gr%3D1%20-%20maat%20:%2030-36?unique=f7a3427" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/306] antislip schaats Gr=1 - maat : 30-36" loading="lazy"></span>
                 </a>
@@ -186,7 +186,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-13402" title="Thrustmaster Ferrari F1 Wheel Add-on - Replica van het Ferrari 150e Italia stuur - Compatibiliteit PC, PS3, PS4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-187-thrustmaster-ferrari-f1-wheel-add-on-replica-van-het-ferrari-150e-italia-stuur-compatibiliteit-pc-ps3-ps4-13402"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-187-thrustmaster-ferrari-f1-wheel-add-on-replica-van-het-ferrari-150e-italia-stuur-compatibiliteit-pc-ps3-ps4-13402">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/13402/image_256/%5BBXL-01438-4-10000-187%5D%20Thrustmaster%20Ferrari%20F1%20Wheel%20Add-on%20-%20Replica%20van%20het%20Ferrari%20150e%20Italia%20stuur%20-%20Compatibiliteit%20PC%2C%20PS3%2C%20PS4?unique=f321676" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/187] Thrustmaster Ferrari F1 Wheel Add-on - Replica van het Ferrari 150e Italia stuur - Compatibiliteit PC, PS3, PS4" loading="lazy"></span>
                 </a>
@@ -229,7 +229,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-2241" title="Quakysense Willow story 24WP - drijfjack zwart/ witte Maat &quot;S&quot;">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-60-quakysense-willow-story-24wp-drijfjack-zwart-witte-maat-s-2241"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-60-quakysense-willow-story-24wp-drijfjack-zwart-witte-maat-s-2241">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/2241/image_256/%5BBXL-01438-4-10000-60%5D%20Quakysense%20Willow%20story%2024WP%20-%20drijfjack%20zwart-%20witte%20Maat%20%22S%22?unique=12a7bc0" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/60] Quakysense Willow story 24WP - drijfjack zwart/ witte Maat &quot;S&quot;" loading="lazy"></span>
                 </a>
@@ -273,7 +273,7 @@ Model: Willo..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21556" title="BLUESTAR - Koffer Bucarest (ref. BD-12728)">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10982-106-bluestar-koffer-bucarest-ref-bd-12728-21556"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10982-106-bluestar-koffer-bucarest-ref-bd-12728-21556">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21556/image_256/%5BBXL-00001-4-10982-106%5D%20BLUESTAR%20-%20Koffer%20Bucarest%20%28ref.%20BD-12728%29?unique=4765d8b" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10982/106] BLUESTAR - Koffer Bucarest (ref. BD-12728)" loading="lazy"></span>
                 </a>
@@ -313,7 +313,7 @@ Model: Willo..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21559" title="BLUESTAR - Koffer Garibaldi (ref. BD-21161)">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10982-108-bluestar-koffer-garibaldi-ref-bd-21161-21559"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10982-108-bluestar-koffer-garibaldi-ref-bd-21161-21559">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21559/image_256/%5BBXL-00001-4-10982-108%5D%20BLUESTAR%20-%20Koffer%20Garibaldi%20%28ref.%20BD-21161%29?unique=1066de9" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10982/108] BLUESTAR - Koffer Garibaldi (ref. BD-21161)" loading="lazy"></span>
                 </a>
@@ -353,7 +353,7 @@ Model: Willo..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-21554" title="GABOL - Week - Trolley (ref 122319)">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-10982-105-gabol-week-trolley-ref-122319-21554"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="1fbc2c4ab517927cfc0fabd3a786114e4fa744dao1747978358">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-10982-105-gabol-week-trolley-ref-122319-21554">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/21554/image_256/%5BBXL-00001-4-10982-105%5D%20GABOL%20-%20Week%20-%20Trolley%20%28ref%20122319%29?unique=ac62fc3" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/10982/105] GABOL - Week - Trolley (ref 122319)" loading="lazy"></span>
                 </a>
@@ -393,7 +393,7 @@ Model: Willo..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-5384" title="[BXL/01659/7/10009/19] On Running Cloud X M 20.4316 - Multisports schoenen ; Maat: US 14 ; Kleur: Storm / Flash">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10009-19-bxl-01659-7-10009-19-on-running-cloud-x-m-20-4316-multisports-schoenen-maat-us-14-kleur-storm-flash-5384"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d4a1a56268d25db4abff28da42bc6780907d680fo1747978359">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10009-19-bxl-01659-7-10009-19-on-running-cloud-x-m-20-4316-multisports-schoenen-maat-us-14-kleur-storm-flash-5384">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/5384/image_256/%5BBXL-01659-7-10009-19%5D%20%5BBXL-01659-7-10009-19%5D%20On%20Running%20Cloud%20X%20M%2020.4316%20-%20Multisports%20schoenen%20%3B%20Maat:%20US%2014%20%3B%20Kleur:%20Storm%20-%20Flash?unique=c70d721" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10009/19] [BXL/01659/7/10009/19] On Running Cloud X M 20.4316 - Multisports schoenen ; Maat: US 14 ; Kleur: Storm / Flash" loading="lazy"></span>
                 </a>
@@ -436,7 +436,7 @@ Model: Willo..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15506" title="Goliath Piggy Pop - Bordespel">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-00021-296-goliath-piggy-pop-bordespel-15506"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="d4a1a56268d25db4abff28da42bc6780907d680fo1747978359">
+                <input type="hidden" name="csrf_token" value="91c9c9db964286b2d11debc9fde9bfe5b0521139o1748021538">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-00021-296-goliath-piggy-pop-bordespel-15506">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15506/image_256/%5BBXL-01438-4-00021-296%5D%20Goliath%20Piggy%20Pop%20-%20Bordespel?unique=a2eb648" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/00021/296] Goliath Piggy Pop - Bordespel" loading="lazy"></span>
                 </a>
