@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-06-07T17:31:50.343Z</updated>
+    <updated>2024-06-08T05:32:12.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24664" title="Lot 26 - Guess - Reiskoffer - Mildred travel  S8962988">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11057-26-lot-26-guess-reiskoffer-mildred-travel-s8962988-24664"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bb65b37717cfaf12fd0acfca91f0895d73ecf466o1749317495">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11057-26-lot-26-guess-reiskoffer-mildred-travel-s8962988-24664">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24664/image_256/%5BBOR-00001-4-11057-26%5D%20Lot%2026%20-%20Guess%20-%20Reiskoffer%20-%20Mildred%20travel%20%20S8962988?unique=47d87bd" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11057/26] Lot 26 - Guess - Reiskoffer - Mildred travel  S8962988" loading="lazy"></span>
                 </a>
@@ -22,12 +22,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-06-08 18:00:10" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -64,15 +64,15 @@ Reiskoffer met 4 ..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/21101">
-                    3 Biedingen</a>
+                    5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">47,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">49,00</span>
                   </b>
                 </div>
            <p></p>
@@ -92,7 +92,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24843" title="Kylietech - Y87928 - Verrekijker 12 x 42">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11203-209-kylietech-y87928-verrekijker-12-x-42-24843"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bb65b37717cfaf12fd0acfca91f0895d73ecf466o1749317495">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11203-209-kylietech-y87928-verrekijker-12-x-42-24843">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24843/image_256/%5BGEM-00001-4-11203-209%5D%20Kylietech%20-%20Y87928%20-%20Verrekijker%2012%20x%2042?unique=529f954" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11203/209] Kylietech - Y87928 - Verrekijker 12 x 42" loading="lazy"></span>
                 </a>
@@ -105,7 +105,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">19</span>
+            <span class="hours span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -115,7 +115,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">46</span>
+            <span class="seconds span_time_digit">24</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -141,7 +141,7 @@ Reiskoffer met 4 ..
                     8 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -166,7 +166,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24848" title="Z 1 - poolkeu">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11006-446-z-1-poolkeu-24848"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11006-446-z-1-poolkeu-24848">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24848/image_256/%5BGEM-00001-4-11006-446%5D%20Z%201%20-%20poolkeu?unique=20e4eab" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11006/446] Z 1 - poolkeu" loading="lazy"></span>
                 </a>
@@ -179,17 +179,17 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">04</span>
+            <span class="minutes span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">13</span>
+            <span class="seconds span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -215,7 +215,7 @@ Reiskoffer met 4 ..
                     7 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">04</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -240,7 +240,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24853" title="Z 56 - sport">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11006-450-z-56-sport-24853"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11006-450-z-56-sport-24853">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24853/image_256/%5BGEM-00001-4-11006-450%5D%20Z%2056%20-%20sport?unique=20e4eab" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11006/450] Z 56 - sport" loading="lazy"></span>
                 </a>
@@ -253,7 +253,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -263,7 +263,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">43</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -289,7 +289,7 @@ Reiskoffer met 4 ..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -314,7 +314,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24865" title="Z 74 -  racketspelen">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11006-456-z-74-racketspelen-24865"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11006-456-z-74-racketspelen-24865">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24865/image_256/%5BGEM-00001-4-11006-456%5D%20Z%2074%20-%20%20racketspelen?unique=20e4eab" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11006/456] Z 74 -  racketspelen" loading="lazy"></span>
                 </a>
@@ -327,17 +327,17 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">26</span>
+            <span class="minutes span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">53</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -360,15 +360,15 @@ Reiskoffer met 4 ..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/21298">
-                    7 Biedingen</a>
+                    8 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">54</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">28,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">29,00</span>
                   </b>
                 </div>
            <p></p>
@@ -388,7 +388,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24866" title="Z 75 -  spelletje darts">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11006-457-z-75-spelletje-darts-24866"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11006-457-z-75-spelletje-darts-24866">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24866/image_256/%5BGEM-00001-4-11006-457%5D%20Z%2075%20-%20%20spelletje%20darts?unique=20e4eab" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11006/457] Z 75 -  spelletje darts" loading="lazy"></span>
                 </a>
@@ -401,17 +401,17 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">08</span>
+            <span class="seconds span_time_digit">47</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -434,15 +434,15 @@ Reiskoffer met 4 ..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/21299">
-                    27 Biedingen</a>
+                    28 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">46,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">47,00</span>
                   </b>
                 </div>
            <p></p>
@@ -462,7 +462,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24854" title="Z 96 - diverse sporten">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11006-451-z-96-diverse-sporten-24854"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="a377dd0f7277f141d2a21f24996866a53aacfb13o1749360717">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11006-451-z-96-diverse-sporten-24854">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24854/image_256/%5BGEM-00001-4-11006-451%5D%20Z%2096%20-%20diverse%20sporten?unique=20e4eab" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11006/451] Z 96 - diverse sporten" loading="lazy"></span>
                 </a>
@@ -475,7 +475,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -485,7 +485,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">27</span>
+            <span class="seconds span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -508,15 +508,15 @@ Reiskoffer met 4 ..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/21302">
-                    6 Biedingen</a>
+                    13 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">25,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">32,00</span>
                   </b>
                 </div>
            <p></p>
@@ -536,7 +536,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24319" title="Lot 24_573B - Skateboard + Roller">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-208-lot-24-573b-skateboard-roller-24319"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-208-lot-24-573b-skateboard-roller-24319">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24319/image_256/%5BBXL-00001-4-11313-208%5D%20Lot%2024_573B%20-%20Skateboard%20%2B%20Roller?unique=1b24d81" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/208] Lot 24_573B - Skateboard + Roller" loading="lazy"></span>
                 </a>
@@ -549,7 +549,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -559,7 +559,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
+            <span class="seconds span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -585,7 +585,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -610,7 +610,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22627" title="GB-026 Hometrainer fiets BH Hi-Power">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-8-gb-026-hometrainer-fiets-bh-hi-power-22627"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-8-gb-026-hometrainer-fiets-bh-hi-power-22627">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22627/image_256/%5BGEM-00002-3-11234-8%5D%20GB-026%20Hometrainer%20fiets%20BH%20Hi-Power?unique=1f289ed" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/8] GB-026 Hometrainer fiets BH Hi-Power" loading="lazy"></span>
                 </a>
@@ -623,17 +623,17 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">31</span>
+            <span class="minutes span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">01</span>
+            <span class="seconds span_time_digit">39</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -662,7 +662,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">02</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -687,7 +687,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22624" title="GB-024 Hometrainer fiets BH HI-Power">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-6-gb-024-hometrainer-fiets-bh-hi-power-22624"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-6-gb-024-hometrainer-fiets-bh-hi-power-22624">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22624/image_256/%5BGEM-00002-3-11234-6%5D%20GB-024%20Hometrainer%20fiets%20BH%20HI-Power?unique=4839def" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/6] GB-024 Hometrainer fiets BH HI-Power" loading="lazy"></span>
                 </a>
@@ -700,7 +700,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -710,7 +710,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">56</span>
+            <span class="seconds span_time_digit">34</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -739,7 +739,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -764,7 +764,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-23999" title="RT-1462 MaxxMee Blauwe fitness trampoline">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11204-163-rt-1462-maxxmee-blauwe-fitness-trampoline-23999"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11204-163-rt-1462-maxxmee-blauwe-fitness-trampoline-23999">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/23999/image_256/%5BGEM-00001-4-11204-163%5D%20RT-1462%20MaxxMee%20Blauwe%20fitness%20trampoline?unique=8db5ad9" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11204/163] RT-1462 MaxxMee Blauwe fitness trampoline" loading="lazy"></span>
                 </a>
@@ -777,7 +777,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -787,7 +787,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">48</span>
+            <span class="seconds span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -816,7 +816,7 @@ Reiskoffer met 4 ..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">49</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -841,7 +841,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22631" title="GB-029 Crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-11-gb-029-crosstrainer-bh-22631"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-11-gb-029-crosstrainer-bh-22631">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22631/image_256/%5BGEM-00002-3-11234-11%5D%20GB-029%20Crosstrainer%20BH?unique=1a8a12a" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/11] GB-029 Crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -854,7 +854,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -864,7 +864,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">59</span>
+            <span class="seconds span_time_digit">37</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -893,7 +893,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">00</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -918,7 +918,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22629" title="GB-027 Crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-9-gb-027-crosstrainer-bh-22629"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="96f9f3c86f04347776f8d0c56aabb9c7d79b8c11o1749317496">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-9-gb-027-crosstrainer-bh-22629">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22629/image_256/%5BGEM-00002-3-11234-9%5D%20GB-027%20Crosstrainer%20BH?unique=1f289ed" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/9] GB-027 Crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -931,7 +931,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -941,7 +941,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -970,7 +970,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -995,7 +995,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22620" title="GB-021 Loopband PROFORM">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-3-gb-021-loopband-proform-22620"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-3-gb-021-loopband-proform-22620">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22620/image_256/%5BGEM-00002-3-11234-3%5D%20GB-021%20Loopband%20PROFORM?unique=6a36d99" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/3] GB-021 Loopband PROFORM" loading="lazy"></span>
                 </a>
@@ -1008,7 +1008,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1018,7 +1018,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">59</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1047,7 +1047,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">00</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1072,7 +1072,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22630" title="GB-028 Crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-10-gb-028-crosstrainer-bh-22630"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-10-gb-028-crosstrainer-bh-22630">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22630/image_256/%5BGEM-00002-3-11234-10%5D%20GB-028%20Crosstrainer%20BH?unique=61f4850" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/10] GB-028 Crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -1085,7 +1085,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1095,7 +1095,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1124,7 +1124,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1149,7 +1149,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22625" title="GB-025 Elliptische crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-7-gb-025-elliptische-crosstrainer-bh-22625"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-7-gb-025-elliptische-crosstrainer-bh-22625">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22625/image_256/%5BGEM-00002-3-11234-7%5D%20GB-025%20Elliptische%20crosstrainer%20BH?unique=61f4850" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/7] GB-025 Elliptische crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -1162,17 +1162,17 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">33</span>
+            <span class="minutes span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">02</span>
+            <span class="seconds span_time_digit">41</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1201,7 +1201,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">42</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1226,7 +1226,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22056" title="RT-1316 Set van 2 pianopoten">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11204-54-rt-1316-set-van-2-pianopoten-22056"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11204-54-rt-1316-set-van-2-pianopoten-22056">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22056/image_256/%5BGEM-00001-4-11204-54%5D%20RT-1316%20Set%20van%202%20pianopoten?unique=8db5ad9" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11204/54] RT-1316 Set van 2 pianopoten" loading="lazy"></span>
                 </a>
@@ -1239,7 +1239,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1249,7 +1249,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">28</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1278,7 +1278,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1303,7 +1303,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25036" title="RT-1572 - LAFUMA kampeerstoel">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-217-rt-1572-lafuma-kampeerstoel-25036"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-217-rt-1572-lafuma-kampeerstoel-25036">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25036/image_256/%5BGEM-00001-4-11166-217%5D%20RT-1572%20-%20LAFUMA%20kampeerstoel?unique=ad196c7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/217] RT-1572 - LAFUMA kampeerstoel" loading="lazy"></span>
                 </a>
@@ -1316,17 +1316,17 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">59</span>
+            <span class="minutes span_time_digit">58</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">45</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1355,7 +1355,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">46</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1380,7 +1380,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25161" title="Lot 24_635E - Matériel d'équitation">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-281-lot-24-635e-materiel-d-equitation-25161"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-281-lot-24-635e-materiel-d-equitation-25161">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25161/image_256/%5BBXL-00001-4-11313-281%5D%20Lot%2024_635E%20-%20Mat%C3%A9riel%20d%27%C3%A9quitation?unique=e67f94a" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/281] Lot 24_635E - Matériel d'équitation" loading="lazy"></span>
                 </a>
@@ -1393,7 +1393,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1403,7 +1403,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">50</span>
+            <span class="seconds span_time_digit">29</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1426,10 +1426,10 @@ Reiskoffer met 4 ..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/21680">
-                    0 Biedingen</a>
+                    1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1454,7 +1454,7 @@ Reiskoffer met 4 ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-23936" title="Lot 24_534B - Matériel de cyclisme">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-190-lot-24-534b-materiel-de-cyclisme-23936"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="86b3b2a4f6ad80145cc12dce2f2ba67372d867dco1749317497">
+                <input type="hidden" name="csrf_token" value="f9f46f32dd990f62b7f736c31b24c22d70b834ebo1749360718">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-190-lot-24-534b-materiel-de-cyclisme-23936">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/23936/image_256/%5BBXL-00001-4-11313-190%5D%20Lot%2024_534B%20-%20Mat%C3%A9riel%20de%20cyclisme?unique=166fe56" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/190] Lot 24_534B - Matériel de cyclisme" loading="lazy"></span>
                 </a>
@@ -1467,7 +1467,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1477,7 +1477,7 @@ Reiskoffer met 4 ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">43</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1503,7 +1503,7 @@ Reiskoffer met 4 ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
