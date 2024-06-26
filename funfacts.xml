@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2024-06-26T17:31:43.675Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Clark House]]></title>
+        <id>https://en.wikipedia.org/wiki/Clark_House_(New_Zealand)</id>
+        <link href="https://en.wikipedia.org/wiki/Clark_House_(New_Zealand)"/>
+        <updated>2024-06-26T17:31:18.936Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Clark_House_(New_Zealand)" title="Clark House (New Zealand)">Clark House</a></b> <i>(pictured)</i> hosted Cold War meetings?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edna Hibel]]></title>
+        <id>https://en.wikipedia.org/wiki/Edna_Hibel</id>
+        <link href="https://en.wikipedia.org/wiki/Edna_Hibel"/>
+        <updated>2024-06-26T17:31:18.938Z</updated>
+        <content type="html"><![CDATA[... that a 2022 book lamented that American painter <b><a href="/wiki/Edna_Hibel" title="Edna Hibel">Edna Hibel</a></b> did not have a Wikipedia article?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[swamps in Belarus]]></title>
+        <id>https://en.wikipedia.org/wiki/Swamps_of_Belarus</id>
+        <link href="https://en.wikipedia.org/wiki/Swamps_of_Belarus"/>
+        <updated>2024-06-26T17:31:18.939Z</updated>
+        <content type="html"><![CDATA[... that there are more than 9,000 <b><a href="/wiki/Swamps_of_Belarus" title="Swamps of Belarus">swamps in Belarus</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenichirou Matsuda]]></title>
+        <id>https://en.wikipedia.org/wiki/Kenichirou_Matsuda</id>
+        <link href="https://en.wikipedia.org/wiki/Kenichirou_Matsuda"/>
+        <updated>2024-06-26T17:31:18.940Z</updated>
+        <content type="html"><![CDATA[... that before becoming a voice actor, <b><a href="/wiki/Kenichirou_Matsuda" title="Kenichirou Matsuda">Kenichirou Matsuda</a></b> attended law school trying to become a civil servant?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the first Hindu temple in Wisconsin]]></title>
+        <id>https://en.wikipedia.org/wiki/Hindu_Temple_of_Wisconsin</id>
+        <link href="https://en.wikipedia.org/wiki/Hindu_Temple_of_Wisconsin"/>
+        <updated>2024-06-26T17:31:18.942Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Hindu_Temple_of_Wisconsin" title="Hindu Temple of Wisconsin">the first Hindu temple in Wisconsin</a></b> was built "in the middle of nowhere"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alan Choe]]></title>
+        <id>https://en.wikipedia.org/wiki/Alan_Choe</id>
+        <link href="https://en.wikipedia.org/wiki/Alan_Choe"/>
+        <updated>2024-06-26T17:31:18.943Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Alan_Choe" title="Alan Choe">Alan Choe</a></b> was tasked with developing <a href="/wiki/Queenstown,_Singapore" title="Queenstown, Singapore">Queenstown</a>, Singapore's first satellite town, after its British architects left the country in the mid-1950s?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client Hints]]></title>
+        <id>https://en.wikipedia.org/wiki/Client_Hints</id>
+        <link href="https://en.wikipedia.org/wiki/Client_Hints"/>
+        <updated>2024-06-26T17:31:18.945Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Google" title="Google">Google</a>'s <b><a href="/wiki/Client_Hints" title="Client Hints">Client Hints</a></b> proposal was initially classified as "harmful" by <a href="/wiki/Mozilla" title="Mozilla">Mozilla</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dick Walker]]></title>
+        <id>https://en.wikipedia.org/wiki/Dick_Walker_(astronomer)</id>
+        <link href="https://en.wikipedia.org/wiki/Dick_Walker_(astronomer)"/>
+        <updated>2024-06-26T17:31:18.946Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Dick_Walker_(astronomer)" title="Dick Walker (astronomer)">Dick Walker</a></b><span class="nowrap">'s</span> discovery of Saturn's moon <a href="/wiki/Epimetheus_(moon)" title="Epimetheus (moon)">Epimetheus</a> was only realized twelve years later?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dazed and Confused]]></title>
+        <id>https://en.wikipedia.org/wiki/Dazed_and_Confused_(film)</id>
+        <link href="https://en.wikipedia.org/wiki/Dazed_and_Confused_(film)"/>
+        <updated>2024-06-26T17:31:18.947Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Richard_Linklater" title="Richard Linklater">Richard Linklater</a>'s original concept for <i><b><a href="/wiki/Dazed_and_Confused_(film)" title="Dazed and Confused (film)">Dazed and Confused</a></b></i> took place entirely within a car as its characters listened to <a href="/wiki/ZZ_Top" title="ZZ Top">ZZ Top</a>?]]></content>
+    </entry>
+</feed>
