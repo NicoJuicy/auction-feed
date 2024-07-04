@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/</id>
     <title>FaillissementsDossier - Wagens</title>
-    <updated>2024-07-03T17:32:53.360Z</updated>
+    <updated>2024-07-04T05:33:03.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.faillissementsdossier.be/favicon.gif</icon>
     <entry>
@@ -32,7 +32,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2024-07-22T17:00:00.000Z">18 dagen 23 uur 27 minuten en 7 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2024-07-22T17:00:00.000Z">18 dagen 11 uur 26 minuten en 57 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
