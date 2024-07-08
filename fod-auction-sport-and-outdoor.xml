@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-07-07T17:31:44.546Z</updated>
+    <updated>2024-07-08T05:33:37.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22625" title="GB-025 Elliptische crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-7-gb-025-elliptische-crosstrainer-bh-22625"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="2e3d4a3a4a097c16ab583a99a3d8493e0827439do1751952805">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-7-gb-025-elliptische-crosstrainer-bh-22625">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22625/image_256/%5BGEM-00002-3-11234-7%5D%20GB-025%20Elliptische%20crosstrainer%20BH?unique=174dc94" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/7] GB-025 Elliptische crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -27,17 +27,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">33</span>
+            <span class="minutes span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
+            <span class="seconds span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -66,7 +66,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -91,7 +91,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22630" title="GB-028 Crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-10-gb-028-crosstrainer-bh-22630"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="2e3d4a3a4a097c16ab583a99a3d8493e0827439do1751952805">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-10-gb-028-crosstrainer-bh-22630">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22630/image_256/%5BGEM-00002-3-11234-10%5D%20GB-028%20Crosstrainer%20BH?unique=e6ccd3e" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/10] GB-028 Crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -104,17 +104,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">33</span>
+            <span class="minutes span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">56</span>
+            <span class="seconds span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -143,7 +143,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -168,7 +168,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22631" title="GB-029 Crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-11-gb-029-crosstrainer-bh-22631"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="2e3d4a3a4a097c16ab583a99a3d8493e0827439do1751952805">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-11-gb-029-crosstrainer-bh-22631">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22631/image_256/%5BGEM-00002-3-11234-11%5D%20GB-029%20Crosstrainer%20BH?unique=8836494" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/11] GB-029 Crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -181,17 +181,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">35</span>
+            <span class="minutes span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">12</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -220,7 +220,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -245,7 +245,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22624" title="GB-024 Hometrainer fiets BH HI-Power">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-6-gb-024-hometrainer-fiets-bh-hi-power-22624"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="2e3d4a3a4a097c16ab583a99a3d8493e0827439do1751952805">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-6-gb-024-hometrainer-fiets-bh-hi-power-22624">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22624/image_256/%5BGEM-00002-3-11234-6%5D%20GB-024%20Hometrainer%20fiets%20BH%20HI-Power?unique=93adefd" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/6] GB-024 Hometrainer fiets BH HI-Power" loading="lazy"></span>
                 </a>
@@ -258,17 +258,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">37</span>
+            <span class="minutes span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">41</span>
+            <span class="seconds span_time_digit">50</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -297,7 +297,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">42</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -322,7 +322,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26532" title="RT-1616 Set gewichten voor aerobic">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11204-244-rt-1616-set-gewichten-voor-aerobic-26532"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="2e3d4a3a4a097c16ab583a99a3d8493e0827439do1751952805">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11204-244-rt-1616-set-gewichten-voor-aerobic-26532">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26532/image_256/%5BGEM-00001-4-11204-244%5D%20RT-1616%20Set%20gewichten%20voor%20aerobic?unique=1aef714" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11204/244] RT-1616 Set gewichten voor aerobic" loading="lazy"></span>
                 </a>
@@ -335,17 +335,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">51</span>
+            <span class="minutes span_time_digit">49</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">46</span>
+            <span class="seconds span_time_digit">55</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -374,7 +374,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">49</span><span class="span_time_unit">m. </span><span class="span_time_digit">56</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -399,7 +399,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22627" title="GB-026 Hometrainer fiets BH Hi-Power">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-8-gb-026-hometrainer-fiets-bh-hi-power-22627"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="2e3d4a3a4a097c16ab583a99a3d8493e0827439do1751952805">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-8-gb-026-hometrainer-fiets-bh-hi-power-22627">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22627/image_256/%5BGEM-00002-3-11234-8%5D%20GB-026%20Hometrainer%20fiets%20BH%20Hi-Power?unique=3e4aba6" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/8] GB-026 Hometrainer fiets BH Hi-Power" loading="lazy"></span>
                 </a>
@@ -412,17 +412,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">54</span>
+            <span class="minutes span_time_digit">53</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">56</span>
+            <span class="seconds span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -451,7 +451,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -476,7 +476,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22056" title="RT-1316 Set van 2 pianopoten">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11204-54-rt-1316-set-van-2-pianopoten-22056"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11204-54-rt-1316-set-van-2-pianopoten-22056">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22056/image_256/%5BGEM-00001-4-11204-54%5D%20RT-1316%20Set%20van%202%20pianopoten?unique=1aef714" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11204/54] RT-1316 Set van 2 pianopoten" loading="lazy"></span>
                 </a>
@@ -489,17 +489,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">16</span>
+            <span class="minutes span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">27</span>
+            <span class="seconds span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -528,7 +528,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -553,7 +553,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25699" title="Lot 323 - Decent - Trolley - Bellatrix">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10783-40-lot-323-decent-trolley-bellatrix-25699"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="43cb66af93a5f1785afd0e3328756bcadc24ace9o1751909494">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10783-40-lot-323-decent-trolley-bellatrix-25699">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25699/image_256/%5BBOR-00001-4-10783-40%5D%20Lot%20323%20-%20Decent%20-%20Trolley%20-%20Bellatrix?unique=dcd7056" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10783/40] Lot 323 - Decent - Trolley - Bellatrix" loading="lazy"></span>
                 </a>
@@ -566,17 +566,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">58</span>
+            <span class="minutes span_time_digit">56</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">25</span>
+            <span class="seconds span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -607,7 +607,7 @@ A..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -632,7 +632,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25700" title="Lot 351 - Decent - Reiskoffer - D-upright - 55cm">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10783-41-lot-351-decent-reiskoffer-d-upright-55cm-25700"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10783-41-lot-351-decent-reiskoffer-d-upright-55cm-25700">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25700/image_256/%5BBOR-00001-4-10783-41%5D%20Lot%20351%20-%20Decent%20-%20Reiskoffer%20-%20D-upright%20-%2055cm?unique=dcd7056" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10783/41] Lot 351 - Decent - Reiskoffer - D-upright - 55cm" loading="lazy"></span>
                 </a>
@@ -640,22 +640,22 @@ A..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-07-08 17:45:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">13</span>
+            <span class="minutes span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -686,7 +686,7 @@ Type: D-Upright
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -711,7 +711,7 @@ Type: D-Upright
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25705" title="Lot 348 - zwembad accessoires - afdekzeilen, filters, ...">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10783-43-lot-348-zwembad-accessoires-afdekzeilen-filters-25705"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10783-43-lot-348-zwembad-accessoires-afdekzeilen-filters-25705">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25705/image_256/%5BBOR-00001-4-10783-43%5D%20Lot%20348%20-%20zwembad%20accessoires%20-%20afdekzeilen%2C%20filters%2C%20--.?unique=dcd7056" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10783/43] Lot 348 - zwembad accessoires - afdekzeilen, filters, ..." loading="lazy"></span>
                 </a>
@@ -719,22 +719,22 @@ Type: D-Upright
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-07-08 18:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">28</span>
+            <span class="minutes span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -764,7 +764,7 @@ Intex Krys..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -789,7 +789,7 @@ Intex Krys..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25722" title="Lot 352 - opblaaszwembaden en andere zwembad speelgoed/benodigdheden">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10783-44-lot-352-opblaaszwembaden-en-andere-zwembad-speelgoed-benodigdheden-25722"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10783-44-lot-352-opblaaszwembaden-en-andere-zwembad-speelgoed-benodigdheden-25722">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25722/image_256/%5BBOR-00001-4-10783-44%5D%20Lot%20352%20-%20opblaaszwembaden%20en%20andere%20zwembad%20speelgoed-benodigdheden?unique=dcd7056" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10783/44] Lot 352 - opblaaszwembaden en andere zwembad speelgoed/benodigdheden" loading="lazy"></span>
                 </a>
@@ -797,22 +797,22 @@ Intex Krys..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-07-08 18:15:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">43</span>
+            <span class="minutes span_time_digit">41</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -842,7 +842,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -867,7 +867,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26643" title="Compresseur cool box FR40 AC/DC">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-354-compresseur-cool-box-fr40-ac-dc-26643"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-354-compresseur-cool-box-fr40-ac-dc-26643">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26643/image_256/%5BBXL-00001-4-11313-354%5D%20Compresseur%20cool%20box%20FR40%20AC-DC?unique=c220489" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/354] Compresseur cool box FR40 AC/DC" loading="lazy"></span>
                 </a>
@@ -880,17 +880,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">23</span>
+            <span class="minutes span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">43</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -916,7 +916,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -941,7 +941,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26644" title="Compresseur Mobicool MB40">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-355-compresseur-mobicool-mb40-26644"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-355-compresseur-mobicool-mb40-26644">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26644/image_256/%5BBXL-00001-4-11313-355%5D%20Compresseur%20Mobicool%20MB40?unique=ffdab4f" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/355] Compresseur Mobicool MB40" loading="lazy"></span>
                 </a>
@@ -954,17 +954,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">56</span>
+            <span class="minutes span_time_digit">54</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">33</span>
+            <span class="seconds span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -990,7 +990,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1015,7 +1015,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26641" title="Glacière électrique Mobicool MQ40A">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-353-glaciere-electrique-mobicool-mq40a-26641"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-353-glaciere-electrique-mobicool-mq40a-26641">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26641/image_256/%5BBXL-00001-4-11313-353%5D%20Glaci%C3%A8re%20%C3%A9lectrique%20Mobicool%20MQ40A?unique=5af432f" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/353] Glacière électrique Mobicool MQ40A" loading="lazy"></span>
                 </a>
@@ -1028,17 +1028,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">57</span>
+            <span class="minutes span_time_digit">55</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">47</span>
+            <span class="seconds span_time_digit">56</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1064,7 +1064,7 @@ Watermelon 3D Spra..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1089,7 +1089,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26645" title="Mobile compressor dometic CFX3 35">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-356-mobile-compressor-dometic-cfx3-35-26645"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-356-mobile-compressor-dometic-cfx3-35-26645">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26645/image_256/%5BBXL-00001-4-11313-356%5D%20Mobile%20compressor%20dometic%20CFX3%2035?unique=7e18ad5" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/356] Mobile compressor dometic CFX3 35" loading="lazy"></span>
                 </a>
@@ -1102,17 +1102,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">18</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">58</span>
+            <span class="minutes span_time_digit">56</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">43</span>
+            <span class="seconds span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1138,7 +1138,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1163,7 +1163,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24902" title="Lot 24_593E - Poids de musculation + barre réglable">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-268-lot-24-593e-poids-de-musculation-barre-reglable-24902"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-268-lot-24-593e-poids-de-musculation-barre-reglable-24902">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24902/image_256/%5BBXL-00001-4-11313-268%5D%20Lot%2024_593E%20-%20Poids%20de%20musculation%20%2B%20barre%20r%C3%A9glable?unique=5abe12e" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/268] Lot 24_593E - Poids de musculation + barre réglable" loading="lazy"></span>
                 </a>
@@ -1176,17 +1176,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">19</span>
+            <span class="hours span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">01</span>
+            <span class="minutes span_time_digit">59</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">40</span>
+            <span class="seconds span_time_digit">49</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1212,7 +1212,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1237,7 +1237,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25079" title="Bauer - Nexus 100 - Schaatsen - 45,5">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00298-7-11030-269-bauer-nexus-100-schaatsen-455-25079"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00298-7-11030-269-bauer-nexus-100-schaatsen-455-25079">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25079/image_256/%5BGEM-00298-7-11030-269%5D%20Bauer%20-%20Nexus%20100%20-%20Schaatsen%20-%2045%2C5?unique=6899b67" itemprop="image" class="img img-fluid" alt="[GEM/00298/7/11030/269] Bauer - Nexus 100 - Schaatsen - 45,5" loading="lazy"></span>
                 </a>
@@ -1250,17 +1250,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">19</span>
+            <span class="hours span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">56</span>
+            <span class="minutes span_time_digit">54</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">44</span>
+            <span class="seconds span_time_digit">53</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1286,7 +1286,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">54</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1311,7 +1311,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26665" title="RT-1634 BULL'S Kast voor darts + borden">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11204-254-rt-1634-bull-s-kast-voor-darts-borden-26665"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11204-254-rt-1634-bull-s-kast-voor-darts-borden-26665">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26665/image_256/%5BGEM-00001-4-11204-254%5D%20RT-1634%20BULL%27S%20Kast%20voor%20darts%20%2B%20borden?unique=f90f446" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11204/254] RT-1634 BULL'S Kast voor darts + borden" loading="lazy"></span>
                 </a>
@@ -1324,17 +1324,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">29</span>
+            <span class="minutes span_time_digit">27</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">41</span>
+            <span class="seconds span_time_digit">50</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1363,7 +1363,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">42</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1388,7 +1388,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26667" title="RT-1636 Set van 5 mappen CANSON voor A2/A3 (61x81)">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11204-256-rt-1636-set-van-5-mappen-canson-voor-a2-a3-61x81-26667"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11204-256-rt-1636-set-van-5-mappen-canson-voor-a2-a3-61x81-26667">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26667/image_256/%5BGEM-00001-4-11204-256%5D%20RT-1636%20Set%20van%205%20mappen%20CANSON%20voor%20A2-A3%20%2861x81%29?unique=e03a2a4" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11204/256] RT-1636 Set van 5 mappen CANSON voor A2/A3 (61x81)" loading="lazy"></span>
                 </a>
@@ -1401,17 +1401,17 @@ Watermelon 3D Spra..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">53</span>
+            <span class="minutes span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">59</span>
+            <span class="seconds span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1440,7 +1440,7 @@ Watermelon 3D Spra..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">00</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1465,7 +1465,7 @@ Watermelon 3D Spra..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26771" title="Lot 177 - Divers lot speelgoed">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00360-7-11445-10-lot-177-divers-lot-speelgoed-26771"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2c5726a87ab8f925454b337f7f06bb3467456878o1751909495">
+                <input type="hidden" name="csrf_token" value="528d1cee6b0df7a000cfa567b464fc19e90b8b74o1751952806">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00360-7-11445-10-lot-177-divers-lot-speelgoed-26771">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26771/image_256/%5BBOR-00360-7-11445-10%5D%20Lot%20177%20-%20Divers%20lot%20speelgoed?unique=984398c" itemprop="image" class="img img-fluid" alt="[BOR/00360/7/11445/10] Lot 177 - Divers lot speelgoed" loading="lazy"></span>
                 </a>
@@ -1473,22 +1473,22 @@ Watermelon 3D Spra..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-07-16 19:20:11" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">09</span>
+            <span class="days span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">48</span>
+            <span class="minutes span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
+            <span class="seconds span_time_digit">44</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1517,7 +1517,7 @@ Watermelon 3D Spra..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">09</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">08</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
