@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-07-11T17:32:49.857Z</updated>
+    <updated>2024-07-12T05:32:27.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24285" title="Lot 24_884 - Volvo V80">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00075-6-11540-1-lot-24-884-volvo-v80-24285"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bc7818f3c870b3faa3f8d225d3078b4bc06bcc31o1752255162">
+                <input type="hidden" name="csrf_token" value="ff56449913c0afc9522f6f815a962fcba997f84ao1752298341">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00075-6-11540-1-lot-24-884-volvo-v80-24285">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24285/image_256/%5BBXL-00075-6-11540-1%5D%20Lot%2024_884%20-%20Volvo%20V80?unique=a8f2b36" itemprop="image" class="img img-fluid" alt="[BXL/00075/6/11540/1] Lot 24_884 - Volvo V80" loading="lazy"></span>
                 </a>
@@ -27,7 +27,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-24345" title="Lot 24_801 - Peugeot 208 GT - Jaar 2015 - 107.677 Km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01868-7-11552-1-lot-24-801-peugeot-208-gt-jaar-2015-107-677-km-24345"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bc7818f3c870b3faa3f8d225d3078b4bc06bcc31o1752255162">
+                <input type="hidden" name="csrf_token" value="ff56449913c0afc9522f6f815a962fcba997f84ao1752298341">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01868-7-11552-1-lot-24-801-peugeot-208-gt-jaar-2015-107-677-km-24345">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/24345/image_256/%5BBXL-01868-7-11552-1%5D%20Lot%2024_801%20-%20Peugeot%20208%20GT%20-%20Jaar%202015%20-%20107.677%20Km?unique=2497d01" itemprop="image" class="img img-fluid" alt="[BXL/01868/7/11552/1] Lot 24_801 - Peugeot 208 GT - Jaar 2015 - 107.677 Km" loading="lazy"></span>
                 </a>
@@ -101,7 +101,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -111,7 +111,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -162,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26894" title="Lot 24_887 - Volkswagen - Année 2022 - 45.822 Km -  EURO 6ei">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11674-1-lot-24-887-volkswagen-annee-2022-45-822-km-euro-6ei-26894"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bc7818f3c870b3faa3f8d225d3078b4bc06bcc31o1752255162">
+                <input type="hidden" name="csrf_token" value="ff56449913c0afc9522f6f815a962fcba997f84ao1752298341">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11674-1-lot-24-887-volkswagen-annee-2022-45-822-km-euro-6ei-26894">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26894/image_256/%5BBXL-00002-3-11674-1%5D%20Lot%2024_887%20-%20Volkswagen%20-%20Ann%C3%A9e%202022%20-%2045.822%20Km%20-%20%20EURO%206ei?unique=2497d01" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11674/1] Lot 24_887 - Volkswagen - Année 2022 - 45.822 Km -  EURO 6ei" loading="lazy"></span>
                 </a>
@@ -175,7 +175,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -185,7 +185,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -211,7 +211,7 @@
                     9 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -236,7 +236,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26880" title="Lot 24_956 Mercedes GLE 350 4matic - Année 2022 - 47.787 Km - EURO 6if">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11671-1-lot-24-956-mercedes-gle-350-4matic-annee-2022-47-787-km-euro-6if-26880"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bc7818f3c870b3faa3f8d225d3078b4bc06bcc31o1752255162">
+                <input type="hidden" name="csrf_token" value="ff56449913c0afc9522f6f815a962fcba997f84ao1752298341">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11671-1-lot-24-956-mercedes-gle-350-4matic-annee-2022-47-787-km-euro-6if-26880">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26880/image_256/%5BBXL-00002-3-11671-1%5D%20Lot%2024_956%20Mercedes%20GLE%20350%204matic%20-%20Ann%C3%A9e%202022%20-%2047.787%20Km%20-%20EURO%206if?unique=870805d" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11671/1] Lot 24_956 Mercedes GLE 350 4matic - Année 2022 - 47.787 Km - EURO 6if" loading="lazy"></span>
                 </a>
@@ -249,7 +249,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -259,7 +259,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -285,7 +285,7 @@
                     13 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -310,7 +310,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26886" title="Lot 24_983 Volkswagen Tiguan - Année 2020 - 122.278 Km - EURO 6dt">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11672-1-lot-24-983-volkswagen-tiguan-annee-2020-122-278-km-euro-6dt-26886"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="bc7818f3c870b3faa3f8d225d3078b4bc06bcc31o1752255162">
+                <input type="hidden" name="csrf_token" value="ff56449913c0afc9522f6f815a962fcba997f84ao1752298341">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11672-1-lot-24-983-volkswagen-tiguan-annee-2020-122-278-km-euro-6dt-26886">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26886/image_256/%5BBXL-00002-3-11672-1%5D%20Lot%2024_983%20Volkswagen%20Tiguan%20-%20Ann%C3%A9e%202020%20-%20122.278%20Km%20-%20EURO%206dt?unique=2497d01" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11672/1] Lot 24_983 Volkswagen Tiguan - Année 2020 - 122.278 Km - EURO 6dt" loading="lazy"></span>
                 </a>
@@ -323,7 +323,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -333,7 +333,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -359,7 +359,7 @@
                     24 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">17</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -384,7 +384,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-26892" title="Lot 24_985 Volkswagen Polo - Année 2018 - 105.501 Km - EURO 6dt">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11673-1-lot-24-985-volkswagen-polo-annee-2018-105-501-km-euro-6dt-26892"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5e26e4611b26daa2053be77da472b7c07a09f154o1752255163">
+                <input type="hidden" name="csrf_token" value="be9aa707bf5c683a106b3978c5587f2c54a47ed7o1752298342">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11673-1-lot-24-985-volkswagen-polo-annee-2018-105-501-km-euro-6dt-26892">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/26892/image_256/%5BBXL-00002-3-11673-1%5D%20Lot%2024_985%20Volkswagen%20Polo%20-%20Ann%C3%A9e%202018%20-%20105.501%20Km%20-%20EURO%206dt?unique=870805d" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11673/1] Lot 24_985 Volkswagen Polo - Année 2018 - 105.501 Km - EURO 6dt" loading="lazy"></span>
                 </a>
@@ -397,7 +397,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">17</span>
+            <span class="hours span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -407,7 +407,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">16</span>
+            <span class="seconds span_time_digit">37</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -433,7 +433,7 @@
                     28 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">17</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -458,7 +458,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25142" title="Lot 24_581 – Stark II - Vélo de ville électrique pliable">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-155-lot-24-581-stark-ii-velo-de-ville-electrique-pliable-25142"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5e26e4611b26daa2053be77da472b7c07a09f154o1752255163">
+                <input type="hidden" name="csrf_token" value="be9aa707bf5c683a106b3978c5587f2c54a47ed7o1752298342">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-155-lot-24-581-stark-ii-velo-de-ville-electrique-pliable-25142">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25142/image_256/%5BBXL-01659-7-10007-155%5D%20Lot%2024_581%20%E2%80%93%20Stark%20II%20-%20V%C3%A9lo%20de%20ville%20%C3%A9lectrique%20pliable?unique=d701540" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/155] Lot 24_581 – Stark II - Vélo de ville électrique pliable" loading="lazy"></span>
                 </a>
@@ -471,7 +471,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -481,7 +481,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">29</span>
+            <span class="seconds span_time_digit">50</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -507,7 +507,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -532,7 +532,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25146" title="Lot 24_599 – F.LLI Schiano &quot;S&quot;- Vélo de course">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-156-lot-24-599-f-lli-schiano-s-velo-de-course-25146"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5e26e4611b26daa2053be77da472b7c07a09f154o1752255163">
+                <input type="hidden" name="csrf_token" value="be9aa707bf5c683a106b3978c5587f2c54a47ed7o1752298342">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-156-lot-24-599-f-lli-schiano-s-velo-de-course-25146">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25146/image_256/%5BBXL-01659-7-10007-156%5D%20Lot%2024_599%20%E2%80%93%20F.LLI%20Schiano%20%22S%22-%20V%C3%A9lo%20de%20course?unique=1f5dcd7" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/156] Lot 24_599 – F.LLI Schiano &quot;S&quot;- Vélo de course" loading="lazy"></span>
                 </a>
@@ -545,17 +545,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">11</span>
+            <span class="minutes span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">46</span>
+            <span class="seconds span_time_digit">07</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -581,7 +581,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -606,7 +606,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25122" title="Lot 24_549 - Btwin Triban 3 - Vélo  de course">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-154-lot-24-549-btwin-triban-3-velo-de-course-25122"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5e26e4611b26daa2053be77da472b7c07a09f154o1752255163">
+                <input type="hidden" name="csrf_token" value="be9aa707bf5c683a106b3978c5587f2c54a47ed7o1752298342">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-154-lot-24-549-btwin-triban-3-velo-de-course-25122">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25122/image_256/%5BBXL-01659-7-10007-154%5D%20Lot%2024_549%20-%20Btwin%20Triban%203%20-%20V%C3%A9lo%20%20de%20course?unique=b77630e" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/154] Lot 24_549 - Btwin Triban 3 - Vélo  de course" loading="lazy"></span>
                 </a>
@@ -619,7 +619,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -629,7 +629,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">01</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -655,7 +655,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">02</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -680,7 +680,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-25109" title="Lot 24_541 - Bergamont  Paul-e EQ edition - opvouwbare elektrische fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-146-lot-24-541-bergamont-paul-e-eq-edition-opvouwbare-elektrische-fiets-25109"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5e26e4611b26daa2053be77da472b7c07a09f154o1752255163">
+                <input type="hidden" name="csrf_token" value="be9aa707bf5c683a106b3978c5587f2c54a47ed7o1752298342">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-146-lot-24-541-bergamont-paul-e-eq-edition-opvouwbare-elektrische-fiets-25109">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/25109/image_256/%5BBXL-01659-7-10007-146%5D%20Lot%2024_541%20-%20Bergamont%20%20Paul-e%20EQ%20edition%20-%20opvouwbare%20elektrische%20fiets?unique=fa9ea9e" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/146] Lot 24_541 - Bergamont  Paul-e EQ edition - opvouwbare elektrische fiets" loading="lazy"></span>
                 </a>
@@ -693,7 +693,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -703,7 +703,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
+            <span class="seconds span_time_digit">47</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -729,7 +729,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
