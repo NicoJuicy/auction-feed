@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/</id>
     <title>FaillissementsDossier - Wagens</title>
-    <updated>2024-07-13T17:32:02.518Z</updated>
+    <updated>2024-07-14T05:33:59.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.faillissementsdossier.be/favicon.gif</icon>
     <entry>
@@ -32,7 +32,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2024-07-22T17:00:00.000Z">8 dagen 23 uur 27 minuten en 58 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2024-07-22T17:00:00.000Z">8 dagen 11 uur 26 minuten en 1 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Veiling Div. lichte vrachtwagens, personenauto en cabrio]]></title>
         <id>https://www.faillissementsdossier.be/veiling/120377/div-lichte-vrachtwagens-personenauto-en-cabrio.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/120377/div-lichte-vrachtwagens-personenauto-en-cabrio.aspx"/>
-        <updated>2024-07-13T17:32:01.834Z</updated>
+        <updated>2024-07-13T17:32:01.823Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/120377/div-lichte-vrachtwagens-personenauto-en-cabrio.aspx">Veiling Div. lichte vrachtwagens, personenauto en cabrio</a></h2></div>]]></content>
     </entry>
