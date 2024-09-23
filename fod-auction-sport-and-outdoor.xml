@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-09-22T17:33:13.700Z</updated>
+    <updated>2024-09-23T05:34:56.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-28385" title="LOVENS Regenhoes voor fiets - RT-1823">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-391-lovens-regenhoes-voor-fiets-rt-1823-28385"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="06b72f7c523e334cfae638bc1ad0364a3673b9dfo1758562381">
+                <input type="hidden" name="csrf_token" value="d85d686b38f5a81d6e8b9c3d327e7bdd38b16ff3o1758605680">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-391-lovens-regenhoes-voor-fiets-rt-1823-28385">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/28385/image_256/%5BGEM-00001-4-11166-391%5D%20LOVENS%20Regenhoes%20voor%20fiets%20-%20RT-1823?unique=5264c02" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/391] LOVENS Regenhoes voor fiets - RT-1823" loading="lazy"></span>
                 </a>
@@ -27,17 +27,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">31</span>
+            <span class="minutes span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">57</span>
+            <span class="seconds span_time_digit">18</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -66,7 +66,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -91,7 +91,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22595" title="Lot 208 – Hanumat – Bokszak – 150 cm">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-10781-29-lot-208-hanumat-bokszak-150-cm-22595"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="d85d686b38f5a81d6e8b9c3d327e7bdd38b16ff3o1758605680">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-10781-29-lot-208-hanumat-bokszak-150-cm-22595">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22595/image_256/%5BBOR-00001-4-10781-29%5D%20Lot%20208%20%E2%80%93%20Hanumat%20%E2%80%93%20Bokszak%20%E2%80%93%20150%20cm?unique=3c17965" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/10781/29] Lot 208 – Hanumat – Bokszak – 150 cm" loading="lazy"></span>
                 </a>
@@ -99,22 +99,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-09-23 18:44:20" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">11</span>
+            <span class="minutes span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">39</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -144,7 +144,7 @@ Artikel: Bokszak..
                     4 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -169,7 +169,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-27522" title="Lot 24_732C - 5 sac à dos Oakley">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-11443-44-lot-24-732c-5-sac-a-dos-oakley-27522"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="d85d686b38f5a81d6e8b9c3d327e7bdd38b16ff3o1758605680">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-11443-44-lot-24-732c-5-sac-a-dos-oakley-27522">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/27522/image_256/%5BBXL-01659-7-11443-44%5D%20Lot%2024_732C%20-%205%20sac%20%C3%A0%20dos%20Oakley?unique=e919d82" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/11443/44] Lot 24_732C - 5 sac à dos Oakley" loading="lazy"></span>
                 </a>
@@ -182,17 +182,17 @@ Artikel: Bokszak..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">59</span>
+            <span class="minutes span_time_digit">57</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">27</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -218,7 +218,7 @@ Artikel: Bokszak..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -243,7 +243,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22625" title="GB-025 Elliptische crosstrainer BH">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-7-gb-025-elliptische-crosstrainer-bh-22625"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-7-gb-025-elliptische-crosstrainer-bh-22625">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22625/image_256/%5BGEM-00002-3-11234-7%5D%20GB-025%20Elliptische%20crosstrainer%20BH?unique=a0b48b2" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/7] GB-025 Elliptische crosstrainer BH" loading="lazy"></span>
                 </a>
@@ -256,17 +256,17 @@ Artikel: Bokszak..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">50</span>
+            <span class="minutes span_time_digit">48</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">30</span>
+            <span class="seconds span_time_digit">51</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -295,7 +295,7 @@ Artikel: Bokszak..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -320,7 +320,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-29839" title="Vissen op vis - Accessoires - GB126-A73">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-101-vissen-op-vis-accessoires-gb126-a73-29839"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-101-vissen-op-vis-accessoires-gb126-a73-29839">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/29839/image_256/%5BGEM-00001-4-11196-101%5D%20Vissen%20op%20vis%20-%20Accessoires%20-%20GB126-A73?unique=dc11fa9" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/101] Vissen op vis - Accessoires - GB126-A73" loading="lazy"></span>
                 </a>
@@ -333,17 +333,17 @@ Artikel: Bokszak..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">31</span>
+            <span class="seconds span_time_digit">52</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -372,7 +372,7 @@ Artikel: Bokszak..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -397,7 +397,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-29375" title="Accessoires voor water spelen - GB109-A38">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-84-accessoires-voor-water-spelen-gb109-a38-29375"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-84-accessoires-voor-water-spelen-gb109-a38-29375">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/29375/image_256/%5BGEM-00001-4-11196-84%5D%20Accessoires%20voor%20water%20spelen%20-%20GB109-A38?unique=4df5043" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/84] Accessoires voor water spelen - GB109-A38" loading="lazy"></span>
                 </a>
@@ -410,17 +410,17 @@ Artikel: Bokszak..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">34</span>
+            <span class="minutes span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">43</span>
+            <span class="seconds span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -449,7 +449,7 @@ Artikel: Bokszak..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -474,7 +474,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30377" title="EXIT COPPA Voetbaldoel - RT1862 - P26">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-494-exit-coppa-voetbaldoel-rt1862-p26-30377"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-494-exit-coppa-voetbaldoel-rt1862-p26-30377">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30377/image_256/%5BGEM-00001-4-11166-494%5D%20EXIT%20COPPA%20Voetbaldoel%20-%20RT1862%20-%20P26?unique=5264c02" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/494] EXIT COPPA Voetbaldoel - RT1862 - P26" loading="lazy"></span>
                 </a>
@@ -487,17 +487,17 @@ Artikel: Bokszak..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">16</span>
+            <span class="minutes span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
+            <span class="seconds span_time_digit">58</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -526,7 +526,7 @@ Artikel: Bokszak..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">59</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -551,7 +551,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-29337" title="INESIS - Golfset - Set van 7 golfclubs - GB099-Z">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11539-1-inesis-golfset-set-van-7-golfclubs-gb099-z-29337"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11539-1-inesis-golfset-set-van-7-golfclubs-gb099-z-29337">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/29337/image_256/%5BGEM-00002-3-11539-1%5D%20INESIS%20-%20Golfset%20-%20Set%20van%207%20golfclubs%20-%20GB099-Z?unique=97c519e" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11539/1] INESIS - Golfset - Set van 7 golfclubs - GB099-Z" loading="lazy"></span>
                 </a>
@@ -564,17 +564,17 @@ Artikel: Bokszak..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">21</span>
+            <span class="hours span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">38</span>
+            <span class="minutes span_time_digit">36</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">12</span>
+            <span class="seconds span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -603,7 +603,7 @@ Artikel: Bokszak..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -628,7 +628,7 @@ Artikel: Bokszak..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30090" title="Lot 183 - Sony - Platenspeler - PS-LX310BT">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-49-lot-183-sony-platenspeler-ps-lx310bt-30090"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-49-lot-183-sony-platenspeler-ps-lx310bt-30090">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30090/image_256/%5BBOR-00001-4-11059-49%5D%20Lot%20183%20-%20Sony%20-%20Platenspeler%20-%20PS-LX310BT?unique=6bbed9d" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/49] Lot 183 - Sony - Platenspeler - PS-LX310BT" loading="lazy"></span>
                 </a>
@@ -636,22 +636,22 @@ Artikel: Bokszak..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-02 19:00:53" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">10</span>
+            <span class="days span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">50</span>
+            <span class="seconds span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -682,7 +682,7 @@ A..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">09</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">12</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -707,7 +707,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30406" title="Lot 120 - Werkmateriaal">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11057-121-lot-120-werkmateriaal-30406"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="00714f8b80289aedb7cf5da6938e07cfa43b8dceo1758562382">
+                <input type="hidden" name="csrf_token" value="1c0df40f657535d4294c0a9db70f23d5da965086o1758605681">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11057-121-lot-120-werkmateriaal-30406">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30406/image_256/%5BBOR-00001-4-11057-121%5D%20Lot%20120%20-%20Werkmateriaal?unique=3e8e99a" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11057/121] Lot 120 - Werkmateriaal" loading="lazy"></span>
                 </a>
@@ -715,22 +715,22 @@ A..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-03 18:10:26" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">11</span>
+            <span class="days span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">37</span>
+            <span class="minutes span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">23</span>
+            <span class="seconds span_time_digit">44</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -760,7 +760,7 @@ Versc..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">11</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
