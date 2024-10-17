@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-10-16T17:40:14.490Z</updated>
+    <updated>2024-10-17T05:34:52.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30866" title="Lot 24_1133 - Rolls Royce Phantom - Jaar 2004 - 117.903 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11930-1-lot-24-1133-rolls-royce-phantom-jaar-2004-117-903-km-30866"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6ff142159fd1f48c9d01e1bbc258aba235487116o1760636408">
+                <input type="hidden" name="csrf_token" value="fc3346cc8946c2b7abf0493118494fef16897d2co1760679286">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11930-1-lot-24-1133-rolls-royce-phantom-jaar-2004-117-903-km-30866">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30866/image_256/%5BBXL-00002-3-11930-1%5D%20Lot%2024_1133%20-%20Rolls%20Royce%20Phantom%20-%20Jaar%202004%20-%20117.903%20km?unique=443c8bf" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11930/1] Lot 24_1133 - Rolls Royce Phantom - Jaar 2004 - 117.903 km" loading="lazy"></span>
                 </a>
@@ -27,17 +27,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">19</span>
+            <span class="minutes span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">51</span>
+            <span class="seconds span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30879" title="Lot 24_1447 - Ferrari 599 - Jaar 2007 - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11939-1-lot-24-1447-ferrari-599-jaar-2007-euro-4-30879"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6ff142159fd1f48c9d01e1bbc258aba235487116o1760636408">
+                <input type="hidden" name="csrf_token" value="fc3346cc8946c2b7abf0493118494fef16897d2co1760679286">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11939-1-lot-24-1447-ferrari-599-jaar-2007-euro-4-30879">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30879/image_256/%5BBXL-00002-3-11939-1%5D%20Lot%2024_1447%20-%20Ferrari%20599%20-%20Jaar%202007%20-%20EURO%204?unique=1ff3d67" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11939/1] Lot 24_1447 - Ferrari 599 - Jaar 2007 - EURO 4" loading="lazy"></span>
                 </a>
@@ -101,17 +101,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">16</span>
+            <span class="hours span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">29</span>
+            <span class="minutes span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">51</span>
+            <span class="seconds span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
