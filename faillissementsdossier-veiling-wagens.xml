@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/</id>
     <title>FaillissementsDossier - Wagens</title>
-    <updated>2024-10-17T17:34:04.228Z</updated>
+    <updated>2024-10-18T05:34:57.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.faillissementsdossier.be/favicon.gif</icon>
     <entry>
@@ -32,7 +32,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2024-10-18T12:00:00.000Z">18 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2024-10-18T12:00:00.000Z">6 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
@@ -75,7 +75,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_1">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_1" class="tijdsverschil" publicationdate="2024-10-21T09:00:00.000Z">3 dagen 15 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_1" class="tijdsverschil" publicationdate="2024-10-21T09:00:00.000Z">3 dagen 3 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_1" class="col-xs-3">Agenda:</div>
@@ -118,7 +118,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_2">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_2" class="tijdsverschil" publicationdate="2024-10-21T17:00:00.000Z">3 dagen 23 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_2" class="tijdsverschil" publicationdate="2024-10-21T17:00:00.000Z">3 dagen 11 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_2" class="col-xs-3">Agenda:</div>
@@ -161,7 +161,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_3">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_3" class="tijdsverschil" publicationdate="2024-10-22T13:00:00.000Z">4 dagen 19 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_3" class="tijdsverschil" publicationdate="2024-10-22T13:00:00.000Z">4 dagen 7 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_3" class="col-xs-3">Agenda:</div>
@@ -204,7 +204,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_4">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_4" class="tijdsverschil" publicationdate="2024-10-22T16:28:00.000Z">4 dagen 22 uur 53 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_4" class="tijdsverschil" publicationdate="2024-10-22T16:28:00.000Z">4 dagen 10 uur 53 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_4" class="col-xs-3">Agenda:</div>
@@ -247,7 +247,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_5">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_5" class="tijdsverschil" publicationdate="2024-10-22T17:00:00.000Z">4 dagen 23 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_5" class="tijdsverschil" publicationdate="2024-10-22T17:00:00.000Z">4 dagen 11 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_5" class="col-xs-3">Agenda:</div>
@@ -290,7 +290,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_6">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_6" class="tijdsverschil" publicationdate="2024-10-23T09:00:00.000Z">5 dagen 15 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_6" class="tijdsverschil" publicationdate="2024-10-23T09:00:00.000Z">5 dagen 3 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_6" class="col-xs-3">Agenda:</div>
@@ -333,7 +333,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_7">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_7" class="tijdsverschil" publicationdate="2024-10-23T09:00:00.000Z">5 dagen 15 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_7" class="tijdsverschil" publicationdate="2024-10-23T09:00:00.000Z">5 dagen 3 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_7" class="col-xs-3">Agenda:</div>
@@ -376,7 +376,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_8">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_8" class="tijdsverschil" publicationdate="2024-10-23T13:00:00.000Z">5 dagen 19 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_8" class="tijdsverschil" publicationdate="2024-10-23T13:00:00.000Z">5 dagen 7 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_8" class="col-xs-3">Agenda:</div>
@@ -419,7 +419,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_9">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_9" class="tijdsverschil" publicationdate="2024-10-23T14:00:00.000Z">5 dagen 20 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_9" class="tijdsverschil" publicationdate="2024-10-23T14:00:00.000Z">5 dagen 8 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_9" class="col-xs-3">Agenda:</div>
@@ -462,7 +462,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_10">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_10" class="tijdsverschil" publicationdate="2024-10-24T14:00:00.000Z">6 dagen 20 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_10" class="tijdsverschil" publicationdate="2024-10-24T14:00:00.000Z">6 dagen 8 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_10" class="col-xs-3">Agenda:</div>
@@ -485,7 +485,7 @@
         <updated>2024-10-16T17:40:13.736Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
                                         <a href="/veiling/121480/voertuigen-en-machines-wegens-faillissementen.aspx" id="cpContent_rpVeilingen_hypAfbeelding_11">
-                                            <img src="/images/veilinghuizen/10.jpg" id="cpContent_rpVeilingen_imgContentImage_11" alt="Online veiling Voertuigen en machines wegens faillissementen" class="img-responsive">
+                                            <img src="/images/veilinghuizen/5.jpg" id="cpContent_rpVeilingen_imgContentImage_11" alt="Online veiling Voertuigen en machines wegens faillissementen" class="img-responsive">
                                                 
                                         </a>
                                     </div>
@@ -505,7 +505,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_11">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_11" class="tijdsverschil" publicationdate="2024-10-28T10:00:00.000Z">10 dagen 16 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_11" class="tijdsverschil" publicationdate="2024-10-28T10:00:00.000Z">10 dagen 4 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_11" class="col-xs-3">Agenda:</div>
@@ -528,13 +528,13 @@
         <updated>2024-10-16T17:40:13.738Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
                                         <a href="/veiling/121694/voertuigen-wegens-faillissement.aspx" id="cpContent_rpVeilingen_hypAfbeelding_12">
-                                            <img src="/images/veilinghuizen/13.jpg" id="cpContent_rpVeilingen_imgContentImage_12" alt="Online veiling Voertuigen wegens faillissement" class="img-responsive">
+                                            <img src="/images/veilinghuizen/8.jpg" id="cpContent_rpVeilingen_imgContentImage_12" alt="Online veiling Voertuigen wegens faillissement" class="img-responsive">
                                                 
                                         </a>
                                     </div>
                                     <div id="cpContent_rpVeilingen_divCtr_12" class="col-xs-9 cc" onclick="document.location.href='/veiling/121694/voertuigen-wegens-faillissement.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling moet nog starten" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_12" href="/veiling/121694/voertuigen-wegens-faillissement.aspx">Veiling Voertuigen wegens faillissement</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Renault Master</p></div>
@@ -547,8 +547,8 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_12">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_12" class="tijdsverschil" publicationdate="2024-10-28T10:00:00.000Z">10 dagen 16 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_12">Veiling start over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_12" class="tijdsverschil" publicationdate="2024-10-18T11:00:00.000Z">5 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_12" class="col-xs-3">Agenda:</div>
@@ -561,7 +561,7 @@
         <id>https://www.faillissementsdossier.be/veiling/121694/voertuigen-wegens-faillissement.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/121694/voertuigen-wegens-faillissement.aspx"/>
         <updated>2024-10-16T17:40:13.738Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling is gestart" width="24" height="24"></div>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling moet nog starten" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_12" href="/veiling/121694/voertuigen-wegens-faillissement.aspx">Veiling Voertuigen wegens faillissement</a></h2></div>]]></content>
     </entry>
     <entry>
@@ -591,7 +591,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_13">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_13" class="tijdsverschil" publicationdate="2024-10-30T11:00:00.000Z">12 dagen 17 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_13" class="tijdsverschil" publicationdate="2024-10-30T11:00:00.000Z">12 dagen 5 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_13" class="col-xs-3">Agenda:</div>
@@ -603,7 +603,7 @@
         <title type="html"><![CDATA[Veiling Diverse vrachtwagens, trekkers, trailers en voertuigen]]></title>
         <id>https://www.faillissementsdossier.be/veiling/121749/diverse-vrachtwagens-trekkers-trailers-en-voertuigen.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/121749/diverse-vrachtwagens-trekkers-trailers-en-voertuigen.aspx"/>
-        <updated>2024-10-17T17:34:03.545Z</updated>
+        <updated>2024-10-17T17:34:03.542Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_13" alt="Veiling is gestart" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_13" href="/veiling/121749/diverse-vrachtwagens-trekkers-trailers-en-voertuigen.aspx">Veiling Diverse vrachtwagens, trekkers, trailers en voertuigen</a></h2></div>]]></content>
     </entry>
@@ -626,7 +626,7 @@
                                         <div class="bm"><p>Verzamelveiling van verschillende goederen, week 43. Zelf uw machines verkopen via deze veiling, contacteer ons via www.veilenmettroostwijk.be\n</p></div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3">Locatie:</div>
-                                            <div class="col-xs-7">Edingen&nbsp;</div>
+                                            <div class="col-xs-7">Borgloon&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3">Veilinghuis:</div>
@@ -634,7 +634,7 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_14">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_14" class="tijdsverschil" publicationdate="2024-10-30T11:00:00.000Z">12 dagen 17 uur 25 minuten en 57 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_14" class="tijdsverschil" publicationdate="2024-10-30T11:00:00.000Z">12 dagen 5 uur 25 minuten en 4 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_14" class="col-xs-3">Agenda:</div>
@@ -646,7 +646,7 @@
         <title type="html"><![CDATA[Veiling Weekveiling: Auto's, aanhangwagens, motoren en vrachtwagens]]></title>
         <id>https://www.faillissementsdossier.be/veiling/121791/weekveiling-autos-aanhangwagens-motoren-en-vrachtwagens.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/121791/weekveiling-autos-aanhangwagens-motoren-en-vrachtwagens.aspx"/>
-        <updated>2024-10-17T17:34:03.559Z</updated>
+        <updated>2024-10-17T17:34:03.557Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_14" alt="Veiling is gestart" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_14" href="/veiling/121791/weekveiling-autos-aanhangwagens-motoren-en-vrachtwagens.aspx">Veiling Weekveiling: Auto's, aanhangwagens, motoren en vrachtwagens</a></h2></div>]]></content>
     </entry>
