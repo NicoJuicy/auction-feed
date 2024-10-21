@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-10-21T05:34:58.474Z</updated>
+    <updated>2024-10-21T17:34:26.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30866" title="Lot 24_1133 - Rolls Royce Phantom - Jaar 2004 - 117.903 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11930-1-lot-24-1133-rolls-royce-phantom-jaar-2004-117-903-km-30866"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="37da68b484d6e81b5dc3156116a0443c8eb6c7ffo1761068057">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11930-1-lot-24-1133-rolls-royce-phantom-jaar-2004-117-903-km-30866">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30866/image_256/%5BBXL-00002-3-11930-1%5D%20Lot%2024_1133%20-%20Rolls%20Royce%20Phantom%20-%20Jaar%202004%20-%20117.903%20km?unique=443c8bf" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11930/1] Lot 24_1133 - Rolls Royce Phantom - Jaar 2004 - 117.903 km" loading="lazy"></span>
                 </a>
@@ -22,12 +22,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-22 10:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">04</span>
+            <span class="hours span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">08</span>
+            <span class="seconds span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30879" title="Lot 24_1447 - Ferrari 599 - Jaar 2007 - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11939-1-lot-24-1447-ferrari-599-jaar-2007-euro-4-30879"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="37da68b484d6e81b5dc3156116a0443c8eb6c7ffo1761068057">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11939-1-lot-24-1447-ferrari-599-jaar-2007-euro-4-30879">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30879/image_256/%5BBXL-00002-3-11939-1%5D%20Lot%2024_1447%20-%20Ferrari%20599%20-%20Jaar%202007%20-%20EURO%204?unique=1ff3d67" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11939/1] Lot 24_1447 - Ferrari 599 - Jaar 2007 - EURO 4" loading="lazy"></span>
                 </a>
@@ -96,12 +96,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-22 10:10:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">04</span>
+            <span class="hours span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -111,7 +111,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">08</span>
+            <span class="seconds span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -162,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31345" title="Lot 24_858 - Riverside Elops 500e - Elektrische terreinfiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-196-lot-24-858-riverside-elops-500e-elektrische-terreinfiets-31345"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="37da68b484d6e81b5dc3156116a0443c8eb6c7ffo1761068057">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-196-lot-24-858-riverside-elops-500e-elektrische-terreinfiets-31345">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31345/image_256/%5BBXL-01659-7-10007-196%5D%20Lot%2024_858%20-%20Riverside%20Elops%20500e%20-%20Elektrische%20terreinfiets?unique=6e07fb5" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/196] Lot 24_858 - Riverside Elops 500e - Elektrische terreinfiets" loading="lazy"></span>
                 </a>
@@ -170,12 +170,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:08:55" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -185,7 +185,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">03</span>
+            <span class="seconds span_time_digit">37</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -211,7 +211,7 @@
                     7 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">37</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -236,7 +236,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31676" title="Lot 24_863 - Scrapper Railway 1 - Damesfiets vintage stadsfiets ">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-202-lot-24-863-scrapper-railway-1-damesfiets-vintage-stadsfiets-31676"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-202-lot-24-863-scrapper-railway-1-damesfiets-vintage-stadsfiets-31676">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31676/image_256/%5BBXL-01659-7-10007-202%5D%20Lot%2024_863%20-%20Scrapper%20Railway%201%20-%20Damesfiets%20vintage%20stadsfiets%20?unique=dafd454" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/202] Lot 24_863 - Scrapper Railway 1 - Damesfiets vintage stadsfiets " loading="lazy"></span>
                 </a>
@@ -244,22 +244,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:21:36" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">46</span>
+            <span class="minutes span_time_digit">47</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">44</span>
+            <span class="seconds span_time_digit">17</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -282,15 +282,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/27459">
-                    3 Biedingen</a>
+                    5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">51,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">53,00</span>
                   </b>
                 </div>
            <p></p>
@@ -310,7 +310,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31678" title="Lot 24_864 - Thompson F-Snap - Elektrische vouwfiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-203-lot-24-864-thompson-f-snap-elektrische-vouwfiets-31678"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-203-lot-24-864-thompson-f-snap-elektrische-vouwfiets-31678">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31678/image_256/%5BBXL-01659-7-10007-203%5D%20Lot%2024_864%20-%20Thompson%20F-Snap%20-%20Elektrische%20vouwfiets?unique=a1f8db5" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/203] Lot 24_864 - Thompson F-Snap - Elektrische vouwfiets" loading="lazy"></span>
                 </a>
@@ -318,22 +318,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:23:34" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">48</span>
+            <span class="minutes span_time_digit">49</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">42</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -359,7 +359,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">49</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -384,7 +384,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31683" title="Lot 24_865 - Hercules HQ 46 - Elektrische vouwfiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-204-lot-24-865-hercules-hq-46-elektrische-vouwfiets-31683"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-204-lot-24-865-hercules-hq-46-elektrische-vouwfiets-31683">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31683/image_256/%5BBXL-01659-7-10007-204%5D%20Lot%2024_865%20-%20Hercules%20HQ%2046%20-%20Elektrische%20vouwfiets?unique=2bf26be" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/204] Lot 24_865 - Hercules HQ 46 - Elektrische vouwfiets" loading="lazy"></span>
                 </a>
@@ -392,22 +392,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:25:39" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">50</span>
+            <span class="minutes span_time_digit">51</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">47</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -433,7 +433,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -458,7 +458,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31686" title="Lot 24_866 - Btwin Riverside 500 - Mountainbike">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-205-lot-24-866-btwin-riverside-500-mountainbike-31686"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-205-lot-24-866-btwin-riverside-500-mountainbike-31686">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31686/image_256/%5BBXL-01659-7-10007-205%5D%20Lot%2024_866%20-%20Btwin%20Riverside%20500%20-%20Mountainbike?unique=70be11c" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/205] Lot 24_866 - Btwin Riverside 500 - Mountainbike" loading="lazy"></span>
                 </a>
@@ -466,22 +466,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:28:40" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">53</span>
+            <span class="minutes span_time_digit">54</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">48</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -507,7 +507,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">49</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -532,7 +532,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31689" title="Lot 24_867 - Cannondale Surly Topstones - Mountainbike, Grind">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-206-lot-24-867-cannondale-surly-topstones-mountainbike-grind-31689"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="73d8cffb5a71be2215727bbdd78e436b6f69100co1761024891">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-206-lot-24-867-cannondale-surly-topstones-mountainbike-grind-31689">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31689/image_256/%5BBXL-01659-7-10007-206%5D%20Lot%2024_867%20-%20Cannondale%20Surly%20Topstones%20-%20Mountainbike%2C%20Grind?unique=4b2aed2" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/206] Lot 24_867 - Cannondale Surly Topstones - Mountainbike, Grind" loading="lazy"></span>
                 </a>
@@ -540,22 +540,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:30:33" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">55</span>
+            <span class="minutes span_time_digit">56</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">41</span>
+            <span class="seconds span_time_digit">14</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -578,15 +578,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/27463">
-                    2 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">42</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">222,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">224,00</span>
                   </b>
                 </div>
            <p></p>
@@ -606,7 +606,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31690" title="Lot 24_868 -Gouden racefiets ">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-207-lot-24-868-gouden-racefiets-31690"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="e511207d783805e330b493ceac3d2159af069bdao1761024892">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-207-lot-24-868-gouden-racefiets-31690">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31690/image_256/%5BBXL-01659-7-10007-207%5D%20Lot%2024_868%20-Gouden%20racefiets%20?unique=3ab865d" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/207] Lot 24_868 -Gouden racefiets " loading="lazy"></span>
                 </a>
@@ -614,22 +614,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:32:37" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">57</span>
+            <span class="minutes span_time_digit">58</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">44</span>
+            <span class="seconds span_time_digit">18</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -655,7 +655,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -680,7 +680,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31691" title="Lot 24_869 - Rockrider ST 500 - Mountainbike kinderen en tieners">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-208-lot-24-869-rockrider-st-500-mountainbike-kinderen-en-tieners-31691"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="e511207d783805e330b493ceac3d2159af069bdao1761024892">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-208-lot-24-869-rockrider-st-500-mountainbike-kinderen-en-tieners-31691">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31691/image_256/%5BBXL-01659-7-10007-208%5D%20Lot%2024_869%20-%20Rockrider%20ST%20500%20-%20Mountainbike%20kinderen%20en%20tieners?unique=1f0bdaf" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/208] Lot 24_869 - Rockrider ST 500 - Mountainbike kinderen en tieners" loading="lazy"></span>
                 </a>
@@ -688,12 +688,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:34:09" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -703,7 +703,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">16</span>
+            <span class="seconds span_time_digit">50</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -729,7 +729,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">17</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -754,7 +754,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31693" title="Lot 24_870 - Muddyfox Tempo 300 - Mountainbike man">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-209-lot-24-870-muddyfox-tempo-300-mountainbike-man-31693"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="e511207d783805e330b493ceac3d2159af069bdao1761024892">
+                <input type="hidden" name="csrf_token" value="fc374b39a951da37a0a0f543b706b98dc6cb0c0eo1761068058">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-209-lot-24-870-muddyfox-tempo-300-mountainbike-man-31693">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31693/image_256/%5BBXL-01659-7-10007-209%5D%20Lot%2024_870%20-%20Muddyfox%20Tempo%20300%20-%20Mountainbike%20man?unique=4961a5a" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/209] Lot 24_870 - Muddyfox Tempo 300 - Mountainbike man" loading="lazy"></span>
                 </a>
@@ -762,22 +762,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-24 15:35:49" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">00</span>
+            <span class="minutes span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">56</span>
+            <span class="seconds span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -803,7 +803,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
