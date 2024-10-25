@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-10-25T05:35:16.543Z</updated>
+    <updated>2024-10-25T17:33:55.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31916" title="Camping - DD397 - A24">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-672-camping-dd397-a24-31916"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="d51709bd4867f952959e15d95d740506cac96946o1761413624">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-672-camping-dd397-a24-31916">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31916/image_256/%5BGEM-00001-4-11166-672%5D%20Camping%20-%20DD397%20-%20A24?unique=ddc1799" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/672] Camping - DD397 - A24" loading="lazy"></span>
                 </a>
@@ -22,22 +22,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-28 16:22:18" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">47</span>
+            <span class="minutes span_time_digit">48</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">11</span>
+            <span class="seconds span_time_digit">33</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -66,7 +66,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">12</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -91,7 +91,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30457" title="COLEMAN koeler - DD273 - P22">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-513-coleman-koeler-dd273-p22-30457"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="d51709bd4867f952959e15d95d740506cac96946o1761413624">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-513-coleman-koeler-dd273-p22-30457">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30457/image_256/%5BGEM-00001-4-11166-513%5D%20COLEMAN%20koeler%20-%20DD273%20-%20P22?unique=ddc1799" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/513] COLEMAN koeler - DD273 - P22" loading="lazy"></span>
                 </a>
@@ -99,22 +99,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-28 16:31:07" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">56</span>
+            <span class="minutes span_time_digit">57</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">00</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -143,7 +143,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">01</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -168,7 +168,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31957" title="Sport - DD399 - A7">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-674-sport-dd399-a7-31957"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="d51709bd4867f952959e15d95d740506cac96946o1761413624">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-674-sport-dd399-a7-31957">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31957/image_256/%5BGEM-00001-4-11166-674%5D%20Sport%20-%20DD399%20-%20A7?unique=ddc1799" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/674] Sport - DD399 - A7" loading="lazy"></span>
                 </a>
@@ -176,22 +176,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-28 16:32:39" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">57</span>
+            <span class="minutes span_time_digit">58</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">32</span>
+            <span class="seconds span_time_digit">54</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -220,7 +220,7 @@
                     4 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">57</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">54</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -245,7 +245,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31510" title="PEPPA PIG kinderfiets - DD347 - P31">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-616-peppa-pig-kinderfiets-dd347-p31-31510"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-616-peppa-pig-kinderfiets-dd347-p31-31510">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31510/image_256/%5BGEM-00001-4-11166-616%5D%20PEPPA%20PIG%20kinderfiets%20-%20DD347%20-%20P31?unique=ddc1799" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/616] PEPPA PIG kinderfiets - DD347 - P31" loading="lazy"></span>
                 </a>
@@ -253,22 +253,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-29 16:08:44" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">33</span>
+            <span class="minutes span_time_digit">34</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
+            <span class="seconds span_time_digit">58</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -297,7 +297,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">59</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -322,7 +322,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31849" title="24_878B - Baghera - Loopfiets + helm">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31849/image_256/%5BBXL-00001-4-11060-181%5D%2024_878B%20-%20Baghera%20-%20Loopfiets%20%2B%20helm?unique=9b50324" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11060/181] 24_878B - Baghera - Loopfiets + helm" loading="lazy"></span>
                 </a>
@@ -330,22 +330,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-29 16:10:04" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">34</span>
+            <span class="minutes span_time_digit">36</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">57</span>
+            <span class="seconds span_time_digit">18</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -371,7 +371,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">58</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -396,7 +396,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31635" title="Lot 160 - Sony - Platenspeler - PS - LX310BT">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-119-lot-160-sony-platenspeler-ps-lx310bt-31635"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-119-lot-160-sony-platenspeler-ps-lx310bt-31635">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31635/image_256/%5BBOR-00001-4-11059-119%5D%20Lot%20160%20-%20Sony%20-%20Platenspeler%20-%20PS%20-%20LX310BT?unique=dc78ac2" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/119] Lot 160 - Sony - Platenspeler - PS - LX310BT" loading="lazy"></span>
                 </a>
@@ -409,17 +409,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">49</span>
+            <span class="minutes span_time_digit">50</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">09</span>
+            <span class="seconds span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -450,7 +450,7 @@ A..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">49</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -475,7 +475,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30377" title="EXIT COPPA Voetbaldoel - RT1862 - P26">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-494-exit-coppa-voetbaldoel-rt1862-p26-30377"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-494-exit-coppa-voetbaldoel-rt1862-p26-30377">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30377/image_256/%5BGEM-00001-4-11166-494%5D%20EXIT%20COPPA%20Voetbaldoel%20-%20RT1862%20-%20P26?unique=ddc1799" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/494] EXIT COPPA Voetbaldoel - RT1862 - P26" loading="lazy"></span>
                 </a>
@@ -483,22 +483,22 @@ A..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-30 16:16:09" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">05</span>
+            <span class="days span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">41</span>
+            <span class="minutes span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">02</span>
+            <span class="seconds span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -527,7 +527,7 @@ A..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -552,7 +552,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30451" title="CAPERLAN tas voor hengels - DD269 - P20">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-509-caperlan-tas-voor-hengels-dd269-p20-30451"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-509-caperlan-tas-voor-hengels-dd269-p20-30451">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30451/image_256/%5BGEM-00001-4-11166-509%5D%20CAPERLAN%20tas%20voor%20hengels%20-%20DD269%20-%20P20?unique=ddc1799" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/509] CAPERLAN tas voor hengels - DD269 - P20" loading="lazy"></span>
                 </a>
@@ -560,22 +560,22 @@ A..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-30 16:16:37" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">05</span>
+            <span class="days span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">41</span>
+            <span class="minutes span_time_digit">42</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">30</span>
+            <span class="seconds span_time_digit">51</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -604,7 +604,7 @@ A..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -629,7 +629,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32160" title="LOGITECH - Heavy Equipment Bundle - Stuurwiel voor gaming - GB230-RE">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-199-logitech-heavy-equipment-bundle-stuurwiel-voor-gaming-gb230-re-32160"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-199-logitech-heavy-equipment-bundle-stuurwiel-voor-gaming-gb230-re-32160">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32160/image_256/%5BGEM-00001-4-11196-199%5D%20LOGITECH%20-%20Heavy%20Equipment%20Bundle%20-%20Stuurwiel%20voor%20gaming%20-%20GB230-RE?unique=3a81d99" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/199] LOGITECH - Heavy Equipment Bundle - Stuurwiel voor gaming - GB230-RE" loading="lazy"></span>
                 </a>
@@ -637,22 +637,22 @@ A..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-31 17:04:15" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">11</span>
+            <span class="hours span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">29</span>
+            <span class="minutes span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">08</span>
+            <span class="seconds span_time_digit">29</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -681,7 +681,7 @@ A..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -706,7 +706,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32201" title="YAMAHA - Gebruikte fluit in zijn geval - GB242-E15">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-211-yamaha-gebruikte-fluit-in-zijn-geval-gb242-e15-32201"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0db64346ed8b2d34235ed0f2bff51303a7f2f8d0o1761370506">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-211-yamaha-gebruikte-fluit-in-zijn-geval-gb242-e15-32201">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32201/image_256/%5BGEM-00001-4-11196-211%5D%20YAMAHA%20-%20Gebruikte%20fluit%20in%20zijn%20geval%20-%20GB242-E15?unique=282b364" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/211] YAMAHA - Gebruikte fluit in zijn geval - GB242-E15" loading="lazy"></span>
                 </a>
@@ -714,22 +714,22 @@ A..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-10-31 17:20:41" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">11</span>
+            <span class="hours span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">45</span>
+            <span class="minutes span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">55</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -758,7 +758,7 @@ A..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">45</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">56</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -783,7 +783,7 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32159" title="MOZA Racing - R5 Racing Simulator - Stuurwiel Gaming - GB229-RE">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-198-moza-racing-r5-racing-simulator-stuurwiel-gaming-gb229-re-32159"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="910ae8ad4e313bd4e2a6f0431813d80430b8685eo1761370507">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-198-moza-racing-r5-racing-simulator-stuurwiel-gaming-gb229-re-32159">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32159/image_256/%5BGEM-00001-4-11196-198%5D%20MOZA%20Racing%20-%20R5%20Racing%20Simulator%20-%20Stuurwiel%20Gaming%20-%20GB229-RE?unique=4264ede" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/198] MOZA Racing - R5 Racing Simulator - Stuurwiel Gaming - GB229-RE" loading="lazy"></span>
                 </a>
@@ -796,17 +796,17 @@ A..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">12</span>
+            <span class="hours span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">09</span>
+            <span class="minutes span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">46</span>
+            <span class="seconds span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -835,7 +835,7 @@ A..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -860,9 +860,9 @@ A..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32225" title="Lot 18 - Ellipse by LegXercise - Stoelfiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11061-99-lot-18-ellipse-by-legxercise-stoelfiets-32225"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="910ae8ad4e313bd4e2a6f0431813d80430b8685eo1761370507">
+                <input type="hidden" name="csrf_token" value="7e350e0fb61ca98565cb97252b3e0bfd196c6d8bo1761413625">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11061-99-lot-18-ellipse-by-legxercise-stoelfiets-32225">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32225/image_256/%5BBOR-00001-4-11061-99%5D%20Lot%2018%20-%20Ellipse%20by%20LegXercise%20-%20Stoelfiets?unique=df56707" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11061/99] Lot 18 - Ellipse by LegXercise - Stoelfiets" loading="lazy"></span>
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32225/image_256/%5BBOR-00001-4-11061-99%5D%20Lot%2018%20-%20Ellipse%20by%20LegXercise%20-%20Stoelfiets?unique=732eb7b" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11061/99] Lot 18 - Ellipse by LegXercise - Stoelfiets" loading="lazy"></span>
                 </a>
           <div class="product_item auction_running">
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-08 20:15:05" data-wk_auction_state="running">
@@ -873,17 +873,17 @@ A..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">39</span>
+            <span class="minutes span_time_digit">41</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">57</span>
+            <span class="seconds span_time_digit">19</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -913,7 +913,7 @@ Stoelfiets
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">14</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">58</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">14</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">20</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
