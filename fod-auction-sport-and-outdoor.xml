@@ -2,88 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-11-18T17:34:35.416Z</updated>
+    <updated>2024-11-19T05:35:15.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lot 112 - Lego - Star Wars - Fighter Tank + Spider Tank]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11057-69-lot-112-lego-star-wars-fighter-tank-spider-tank-29350</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11057-69-lot-112-lego-star-wars-fighter-tank-spider-tank-29350"/>
-        <updated>2024-11-07T17:32:41.300Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-29350" title="Lot 112 - Lego - Star Wars - Fighter Tank + Spider Tank">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11057-69-lot-112-lego-star-wars-fighter-tank-spider-tank-29350"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2aaf89c6d04b14e0ebda017f383f3e13483ab808o1763487264">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11057-69-lot-112-lego-star-wars-fighter-tank-spider-tank-29350">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/29350/image_256/%5BBOR-00001-4-11057-69%5D%20Lot%20112%20-%20Lego%20-%20Star%20Wars%20-%20Fighter%20Tank%20%2B%20Spider%20Tank?unique=26067c3" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11057/69] Lot 112 - Lego - Star Wars - Fighter Tank + Spider Tank" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-18 20:20:08" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">45</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">43</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Bornem</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11057-69-lot-112-lego-star-wars-fighter-tank-spider-tank-29350" content="Lot 112 - Lego - Star Wars - Fighter Tank + Spider Tank">Lot 112 - Lego - Star Wars - Fighter Tank + Spider Tank</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Merk: Lego
-Thema: Star Wars
-Ar..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/28408">
-                    3 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">45</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">75,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lot 179 - BBQ - Toronto Click]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-133-lot-179-bbq-toronto-click-32654</id>
@@ -93,7 +14,7 @@ Ar..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32654" title="Lot 179 - BBQ - Toronto Click">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-133-lot-179-bbq-toronto-click-32654"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2aaf89c6d04b14e0ebda017f383f3e13483ab808o1763487264">
+                <input type="hidden" name="csrf_token" value="4d1de485b3c44eb0c02035bb6899749eea7c14a2o1763530501">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-133-lot-179-bbq-toronto-click-32654">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32654/image_256/%5BBOR-00001-4-11059-133%5D%20Lot%20179%20-%20BBQ%20-%20Toronto%20Click?unique=158abcb" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/133] Lot 179 - BBQ - Toronto Click" loading="lazy"></span>
                 </a>
@@ -101,22 +22,22 @@ Ar..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-19 19:28:56" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">54</span>
+            <span class="minutes span_time_digit">53</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">31</span>
+            <span class="seconds span_time_digit">54</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -147,7 +68,7 @@ Houtskool
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">55</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -172,7 +93,7 @@ Houtskool
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32915" title="Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7eb14b3bb71cca59e7e217b333ba03cc2472e225o1763487265">
+                <input type="hidden" name="csrf_token" value="4d1de485b3c44eb0c02035bb6899749eea7c14a2o1763530501">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32915/image_256/%5BGEM-00001-4-11203-408%5D%20Rocktrail%20-%20AC-11861%20-%20Grond--Feederhengelset%20300-5%20-%20SHR408?unique=e44fd84" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11203/408] Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408" loading="lazy"></span>
                 </a>
@@ -185,7 +106,7 @@ Houtskool
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -195,7 +116,7 @@ Houtskool
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">58</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -218,15 +139,15 @@ Houtskool
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/28639">
-                    3 Biedingen</a>
+                    4 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">59</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">20,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">21,00</span>
                   </b>
                 </div>
            <p></p>
@@ -246,7 +167,7 @@ Houtskool
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31849" title="24_878B - Baghera - Loopfiets + helm">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7eb14b3bb71cca59e7e217b333ba03cc2472e225o1763487265">
+                <input type="hidden" name="csrf_token" value="a7a03e28f3873bcd44dba9275284c6c34a3f4307o1763530502">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31849/image_256/%5BBXL-00001-4-11060-181%5D%2024_878B%20-%20Baghera%20-%20Loopfiets%20%2B%20helm?unique=3d990de" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11060/181] 24_878B - Baghera - Loopfiets + helm" loading="lazy"></span>
                 </a>
@@ -259,7 +180,7 @@ Houtskool
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -269,7 +190,7 @@ Houtskool
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">48</span>
+            <span class="seconds span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -295,7 +216,7 @@ Houtskool
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">49</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">12</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -320,7 +241,7 @@ Houtskool
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32886" title="Splink - 2024 away jersey Cristiano Ronaldo - Beeldje - SHR399">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11203-399-splink-2024-away-jersey-cristiano-ronaldo-beeldje-shr399-32886"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="7eb14b3bb71cca59e7e217b333ba03cc2472e225o1763487265">
+                <input type="hidden" name="csrf_token" value="a7a03e28f3873bcd44dba9275284c6c34a3f4307o1763530502">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11203-399-splink-2024-away-jersey-cristiano-ronaldo-beeldje-shr399-32886">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32886/image_256/%5BGEM-00001-4-11203-399%5D%20Splink%20-%202024%20away%20jersey%20Cristiano%20Ronaldo%20-%20Beeldje%20-%20SHR399?unique=e44fd84" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11203/399] Splink - 2024 away jersey Cristiano Ronaldo - Beeldje - SHR399" loading="lazy"></span>
                 </a>
@@ -328,22 +249,22 @@ Houtskool
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-21 18:35:35" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">01</span>
+            <span class="minutes span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">09</span>
+            <span class="seconds span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -369,7 +290,7 @@ Houtskool
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
