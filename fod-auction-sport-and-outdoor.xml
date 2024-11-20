@@ -2,83 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-11-20T05:35:02.100Z</updated>
+    <updated>2024-11-20T17:35:10.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915"/>
-        <updated>2024-11-13T17:33:25.970Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32915" title="Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="8c75834fc588f174e8101111e6e3d7ec9a4be54do1763616888">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32915/image_256/%5BGEM-00001-4-11203-408%5D%20Rocktrail%20-%20AC-11861%20-%20Grond--Feederhengelset%20300-5%20-%20SHR408?unique=ff67fbe" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11203/408] Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-20 08:22:24" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">02</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">47</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Gembloux</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00001-4-11203-408-rocktrail-ac-11861-grond-feederhengelset-300-5-shr408-32915" content="Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408">Rocktrail - AC-11861 - Grond-/Feederhengelset 300-5 - SHR408</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/28639">
-                    6 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">23,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[24_878B - Baghera - Loopfiets + helm]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849</id>
@@ -88,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31849" title="24_878B - Baghera - Loopfiets + helm">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="15e094dd6810087c84b41bd9e2f97bb4c6522ba4o1763616889">
+                <input type="hidden" name="csrf_token" value="43355a3c4afe8be0cc162dc26435d154918e4ab2o1763660086">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11060-181-24-878b-baghera-loopfiets-helm-31849">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31849/image_256/%5BBXL-00001-4-11060-181%5D%2024_878B%20-%20Baghera%20-%20Loopfiets%20%2B%20helm?unique=3d990de" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11060/181] 24_878B - Baghera - Loopfiets + helm" loading="lazy"></span>
                 </a>
@@ -96,12 +22,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-21 16:18:14" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -111,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">24</span>
+            <span class="seconds span_time_digit">27</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -134,15 +60,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/28433">
-                    1 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">25</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">59,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">61,00</span>
                   </b>
                 </div>
            <p></p>
@@ -162,9 +88,9 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32886" title="Splink - 2024 away jersey Cristiano Ronaldo - Beeldje - SHR399">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11203-399-splink-2024-away-jersey-cristiano-ronaldo-beeldje-shr399-32886"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="15e094dd6810087c84b41bd9e2f97bb4c6522ba4o1763616889">
+                <input type="hidden" name="csrf_token" value="43355a3c4afe8be0cc162dc26435d154918e4ab2o1763660086">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11203-399-splink-2024-away-jersey-cristiano-ronaldo-beeldje-shr399-32886">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32886/image_256/%5BGEM-00001-4-11203-399%5D%20Splink%20-%202024%20away%20jersey%20Cristiano%20Ronaldo%20-%20Beeldje%20-%20SHR399?unique=ff67fbe" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11203/399] Splink - 2024 away jersey Cristiano Ronaldo - Beeldje - SHR399" loading="lazy"></span>
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32886/image_256/%5BGEM-00001-4-11203-399%5D%20Splink%20-%202024%20away%20jersey%20Cristiano%20Ronaldo%20-%20Beeldje%20-%20SHR399?unique=6dc12b9" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11203/399] Splink - 2024 away jersey Cristiano Ronaldo - Beeldje - SHR399" loading="lazy"></span>
                 </a>
           <div class="product_item auction_running">
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-21 18:35:35" data-wk_auction_state="running">
@@ -175,7 +101,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -185,7 +111,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">45</span>
+            <span class="seconds span_time_digit">48</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -208,15 +134,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/28611">
-                    6 Biedingen</a>
+                    10 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">46</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">49</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">15,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">19,00</span>
                   </b>
                 </div>
            <p></p>
@@ -236,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33067" title="QUECHUA zelfopblazend matras - DD428 - P7">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11166-696-quechua-zelfopblazend-matras-dd428-p7-33067"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="15e094dd6810087c84b41bd9e2f97bb4c6522ba4o1763616889">
+                <input type="hidden" name="csrf_token" value="43355a3c4afe8be0cc162dc26435d154918e4ab2o1763660086">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11166-696-quechua-zelfopblazend-matras-dd428-p7-33067">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33067/image_256/%5BGEM-00001-4-11166-696%5D%20QUECHUA%20zelfopblazend%20matras%20-%20DD428%20-%20P7?unique=5a43ea5" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11166/696] QUECHUA zelfopblazend matras - DD428 - P7" loading="lazy"></span>
                 </a>
@@ -244,12 +170,12 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-11-26 16:28:07" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -259,7 +185,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">20</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -288,7 +214,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">53</span><span class="span_time_unit">m. </span><span class="span_time_digit">20</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
