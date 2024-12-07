@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-12-07T05:34:32.542Z</updated>
+    <updated>2024-12-07T17:33:18.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33553" title="GHD - 4 lichtmetalen velgen + Pirelli-banden voor Audi A6">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-6-ghd-4-lichtmetalen-velgen-pirelli-banden-voor-audi-a6-33553"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="bbe67c86f71dc0f07b05cb3bb1829f12e1fec622o1765128792">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-6-ghd-4-lichtmetalen-velgen-pirelli-banden-voor-audi-a6-33553">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33553/image_256/%5BBXL-00441-1-12087-6%5D%20GHD%20-%204%20lichtmetalen%20velgen%20%2B%20Pirelli-banden%20voor%20Audi%20A6?unique=8155fd4" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/6] GHD - 4 lichtmetalen velgen + Pirelli-banden voor Audi A6" loading="lazy"></span>
                 </a>
@@ -22,22 +22,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:01:30" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">27</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">03</span>
+            <span class="seconds span_time_digit">17</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     9 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33558" title="GHD - 4 stalen velgen + Continental-banden voor Ford S max">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-9-ghd-4-stalen-velgen-continental-banden-voor-ford-s-max-33558"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="bbe67c86f71dc0f07b05cb3bb1829f12e1fec622o1765128792">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-9-ghd-4-stalen-velgen-continental-banden-voor-ford-s-max-33558">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33558/image_256/%5BBXL-00441-1-12087-9%5D%20GHD%20-%204%20stalen%20velgen%20%2B%20Continental-banden%20voor%20Ford%20S%20max?unique=33a64d4" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/9] GHD - 4 stalen velgen + Continental-banden voor Ford S max" loading="lazy"></span>
                 </a>
@@ -96,22 +96,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:03:49" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">29</span>
+            <span class="minutes span_time_digit">30</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">22</span>
+            <span class="seconds span_time_digit">36</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     57 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">37</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -162,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33555" title="GHD - 4 stalen velgen + Michelin banden voor Opel Combo">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-7-ghd-4-stalen-velgen-michelin-banden-voor-opel-combo-33555"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="bbe67c86f71dc0f07b05cb3bb1829f12e1fec622o1765128792">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-7-ghd-4-stalen-velgen-michelin-banden-voor-opel-combo-33555">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33555/image_256/%5BBXL-00441-1-12087-7%5D%20GHD%20-%204%20stalen%20velgen%20%2B%20Michelin%20banden%20voor%20Opel%20Combo?unique=c288642" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/7] GHD - 4 stalen velgen + Michelin banden voor Opel Combo" loading="lazy"></span>
                 </a>
@@ -170,22 +170,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:06:11" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">31</span>
+            <span class="minutes span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">44</span>
+            <span class="seconds span_time_digit">58</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -211,7 +211,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">59</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -236,7 +236,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33556" title="GHD - 4 stalen velgen + Michelin banden voor Toyota Hiace">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-8-ghd-4-stalen-velgen-michelin-banden-voor-toyota-hiace-33556"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="bbe67c86f71dc0f07b05cb3bb1829f12e1fec622o1765128792">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-8-ghd-4-stalen-velgen-michelin-banden-voor-toyota-hiace-33556">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33556/image_256/%5BBXL-00441-1-12087-8%5D%20GHD%20-%204%20stalen%20velgen%20%2B%20Michelin%20banden%20voor%20Toyota%20Hiace?unique=0dc72d9" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/8] GHD - 4 stalen velgen + Michelin banden voor Toyota Hiace" loading="lazy"></span>
                 </a>
@@ -244,22 +244,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:08:29" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">34</span>
+            <span class="minutes span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">02</span>
+            <span class="seconds span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -285,7 +285,7 @@
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -310,7 +310,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33559" title="GHD - 4 Stalen velgen + Pirelli-banden voor Volvo S60">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-10-ghd-4-stalen-velgen-pirelli-banden-voor-volvo-s60-33559"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-10-ghd-4-stalen-velgen-pirelli-banden-voor-volvo-s60-33559">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33559/image_256/%5BBXL-00441-1-12087-10%5D%20GHD%20-%204%20Stalen%20velgen%20%2B%20Pirelli-banden%20voor%20Volvo%20S60?unique=37541ca" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/10] GHD - 4 Stalen velgen + Pirelli-banden voor Volvo S60" loading="lazy"></span>
                 </a>
@@ -318,22 +318,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:11:41" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">37</span>
+            <span class="minutes span_time_digit">38</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">14</span>
+            <span class="seconds span_time_digit">27</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -359,7 +359,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">38</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -384,7 +384,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33550" title="GHD - 4 lichtmetalen velgen + Goodyear-banden voor Ford Mondeo">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-4-ghd-4-lichtmetalen-velgen-goodyear-banden-voor-ford-mondeo-33550"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-4-ghd-4-lichtmetalen-velgen-goodyear-banden-voor-ford-mondeo-33550">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33550/image_256/%5BBXL-00441-1-12087-4%5D%20GHD%20-%204%20lichtmetalen%20velgen%20%2B%20Goodyear-banden%20voor%20Ford%20Mondeo?unique=7d6092c" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/4] GHD - 4 lichtmetalen velgen + Goodyear-banden voor Ford Mondeo" loading="lazy"></span>
                 </a>
@@ -392,22 +392,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:35:18" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">11</span>
+            <span class="hours span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">00</span>
+            <span class="minutes span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">51</span>
+            <span class="seconds span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -436,7 +436,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">02</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -461,7 +461,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33549" title="GHD - 4 lichtmetalen velgen + Michelin-banden voor Audi A4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-3-ghd-4-lichtmetalen-velgen-michelin-banden-voor-audi-a4-33549"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-3-ghd-4-lichtmetalen-velgen-michelin-banden-voor-audi-a4-33549">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33549/image_256/%5BBXL-00441-1-12087-3%5D%20GHD%20-%204%20lichtmetalen%20velgen%20%2B%20Michelin-banden%20voor%20Audi%20A4?unique=6b98d6e" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/3] GHD - 4 lichtmetalen velgen + Michelin-banden voor Audi A4" loading="lazy"></span>
                 </a>
@@ -469,22 +469,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:49:53" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">11</span>
+            <span class="hours span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">15</span>
+            <span class="minutes span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
+            <span class="seconds span_time_digit">39</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -510,7 +510,7 @@
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -535,7 +535,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33552" title=" GHD - 4 lichtmetalen velgen + Michelin-banden voor Skoda Superb">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12087-5-ghd-4-lichtmetalen-velgen-michelin-banden-voor-skoda-superb-33552"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12087-5-ghd-4-lichtmetalen-velgen-michelin-banden-voor-skoda-superb-33552">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33552/image_256/%5BBXL-00441-1-12087-5%5D%20%20GHD%20-%204%20lichtmetalen%20velgen%20%2B%20Michelin-banden%20voor%20Skoda%20Superb?unique=55f3738" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12087/5]  GHD - 4 lichtmetalen velgen + Michelin-banden voor Skoda Superb" loading="lazy"></span>
                 </a>
@@ -543,22 +543,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-11 16:55:04" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">11</span>
+            <span class="hours span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">20</span>
+            <span class="minutes span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
+            <span class="seconds span_time_digit">50</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -584,7 +584,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">20</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -609,7 +609,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30879" title="Lot 24_1447 - Ferrari 599 - Jaar 2007 - 118.717 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11939-1-lot-24-1447-ferrari-599-jaar-2007-118-717-km-euro-4-30879"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="cb60412e3179f06db71eb1596ab6537c2006bd71o1765085666">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11939-1-lot-24-1447-ferrari-599-jaar-2007-118-717-km-euro-4-30879">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30879/image_256/%5BBXL-00002-3-11939-1%5D%20Lot%2024_1447%20-%20Ferrari%20599%20-%20Jaar%202007%20-%20118.717%20km%20-%20EURO%204?unique=b3a8696" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11939/1] Lot 24_1447 - Ferrari 599 - Jaar 2007 - 118.717 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -622,17 +622,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">25</span>
+            <span class="minutes span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">33</span>
+            <span class="seconds span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -658,7 +658,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -683,7 +683,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30866" title="Lot 24_1133 - Rolls Royce Phantom - Jaar 2004 - 117.903 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-11930-1-lot-24-1133-rolls-royce-phantom-jaar-2004-117-903-km-30866"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2a014424b74a3a9fee4d5b2fb1cd9a2ec9bcea4ao1765085667">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-11930-1-lot-24-1133-rolls-royce-phantom-jaar-2004-117-903-km-30866">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30866/image_256/%5BBXL-00002-3-11930-1%5D%20Lot%2024_1133%20-%20Rolls%20Royce%20Phantom%20-%20Jaar%202004%20-%20117.903%20km?unique=b3a8696" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/11930/1] Lot 24_1133 - Rolls Royce Phantom - Jaar 2004 - 117.903 km" loading="lazy"></span>
                 </a>
@@ -696,17 +696,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">55</span>
+            <span class="minutes span_time_digit">56</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">32</span>
+            <span class="seconds span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -732,7 +732,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -757,7 +757,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34142" title="Lot 24_979D - Vélo d'appartement - Cardio fit E35">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-877-lot-24-979d-velo-d-appartement-cardio-fit-e35-34142"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="2a014424b74a3a9fee4d5b2fb1cd9a2ec9bcea4ao1765085667">
+                <input type="hidden" name="csrf_token" value="ec2334d40edba11a7fdb448458c1130a87b4e5afo1765128793">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-877-lot-24-979d-velo-d-appartement-cardio-fit-e35-34142">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34142/image_256/%5BBXL-00001-4-11313-877%5D%20Lot%2024_979D%20-%20V%C3%A9lo%20d%27appartement%20-%20Cardio%20fit%20E35?unique=899fa62" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/877] Lot 24_979D - Vélo d'appartement - Cardio fit E35" loading="lazy"></span>
                 </a>
@@ -765,22 +765,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-13 14:51:31" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
+            <span class="hours span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">17</span>
+            <span class="minutes span_time_digit">18</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">03</span>
+            <span class="seconds span_time_digit">17</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -806,7 +806,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">04</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
