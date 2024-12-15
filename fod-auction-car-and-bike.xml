@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2024-12-15T05:34:29.496Z</updated>
+    <updated>2024-12-15T17:33:22.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33734" title="GHD - Kubotza GR 2100-II - Tracteur Tondeuse  avec bac + éjecteur">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12096-1-ghd-kubotza-gr-2100-ii-tracteur-tondeuse-avec-bac-ejecteur-33734"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ceb085dd2f41d270f5b1bd89e33f763edb837c68o1765776863">
+                <input type="hidden" name="csrf_token" value="6b40cdce2fff573340e167bb8e659d78e891da85o1765819997">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12096-1-ghd-kubotza-gr-2100-ii-tracteur-tondeuse-avec-bac-ejecteur-33734">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33734/image_256/%5BBXL-00486-1-12096-1%5D%20GHD%20-%20Kubotza%20GR%202100-II%20-%20Tracteur%20Tondeuse%20%20avec%20bac%20%2B%20%C3%A9jecteur?unique=f6cbc43" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12096/1] GHD - Kubotza GR 2100-II - Tracteur Tondeuse  avec bac + éjecteur" loading="lazy"></span>
                 </a>
@@ -22,22 +22,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2024-12-20 16:09:52" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">05</span>
+            <span class="days span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">35</span>
+            <span class="minutes span_time_digit">36</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">28</span>
+            <span class="seconds span_time_digit">34</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -60,15 +60,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/30022">
-                    1 Biedingen</a>
+                    2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">2.000,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">2.050,00</span>
                   </b>
                 </div>
            <p></p>
