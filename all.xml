@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-08T17:33:44.983Z</updated>
+    <updated>2025-01-09T05:33:38.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.535Z</updated>
+        <updated>2025-01-09T05:33:08.413Z</updated>
         <content type="html"><![CDATA[<div class="container"><div class="w-layout-grid ir-navigation-grid"><a href="/investors/share-information" class="ir-navigation-item w-inline-block"><div>Share Information</div></a><a href="/investors/reports-presentations" class="ir-navigation-item w-inline-block"><div>Reports &amp;&nbsp;Presentations</div></a><a href="/investors/corporate-governance" class="ir-navigation-item w-inline-block"><div>Corporate Governance</div></a><a href="/investors/ipo" class="ir-navigation-item w-inline-block"><div>IPO&nbsp;Documents</div></a><a href="/investors/financial-calendar" class="ir-navigation-item w-inline-block"><div>Financial Calendar</div></a><a href="#contact-ir" class="ir-navigation-item w-inline-block"><div>Contact IR</div></a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.535Z</updated>
+        <updated>2025-01-09T05:33:08.413Z</updated>
         <content type="html"><![CDATA[<div class="container columns ir-newsletter"><div class="column half"><h2 class="ir-newsletter-heading">Subscribe to AutoStore Regulatory Releases</h2><p class="ir-newsletter-body">Fill the form to receive regulatory releases from AutoStore directly to your e-mail.</p></div><div class="column half space-left"><div id="cision-form-status-wrapper" class="cision-form-status-wrapper"><div id="cision-form-status" class="cision-form-status">Thank you for subscribing!</div></div><div id="cision-form-status-wrapper" class="cision-form-error-wrapper"><div id="cision-form-status" class="cision-form-error">Something went wrong. <br>Please review your submission.</div></div><div class="w-embed w-script"><script type="text/javascript">
 // this block must be defined before api.js is included
 console.log('pre-event listener');
@@ -71,7 +71,7 @@ Webflow.push(function () {
     <input type="text" required="" name="Email" placeholder="Email *" class="hs-input" id="email">
     <input type="text" name="CompanyName" placeholder="Company" class="hs-input" id="companyName">
     <div class="input-group">
-        <div class="g-recaptcha" data-sitekey="6Lc3Q94cAAAAAFwDr4tvqMWSvhfpRzHKsEkPORc7"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-hme8gf0s7aw" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lc3Q94cAAAAAFwDr4tvqMWSvhfpRzHKsEkPORc7&amp;co=aHR0cHM6Ly93d3cuYXV0b3N0b3Jlc3lzdGVtLmNvbTo0NDM.&amp;hl=en&amp;v=zIriijn3uj5Vpknvt_LnfNbF&amp;size=normal&amp;cb=atpwmwo353b7"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div>
+        <div class="g-recaptcha" data-sitekey="6Lc3Q94cAAAAAFwDr4tvqMWSvhfpRzHKsEkPORc7"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-ddae29rhygf8" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lc3Q94cAAAAAFwDr4tvqMWSvhfpRzHKsEkPORc7&amp;co=aHR0cHM6Ly93d3cuYXV0b3N0b3Jlc3lzdGVtLmNvbTo0NDM.&amp;hl=en&amp;v=zIriijn3uj5Vpknvt_LnfNbF&amp;size=normal&amp;cb=9t6ctxjidvxi"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div>
     </div>
 		<button class="button" id="submit-cision-signup">Submit</button>
   </div>
@@ -81,70 +81,70 @@ Webflow.push(function () {
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.536Z</updated>
+        <updated>2025-01-09T05:33:08.414Z</updated>
         <content type="html"><![CDATA[<div class="container"><div class="events-teaser-grid etg-large"><div class="event-teaser half"><div class="event-teaser-image-wrapper"><img srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/6266cfe0d597aa717029b1c0_Promo-banner-CMS-700x510-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/6266cfe0d597aa717029b1c0_Promo-banner-CMS-700x510.jpg 700w" loading="lazy" sizes="100vw" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/6266cfe0d597aa717029b1c0_Promo-banner-CMS-700x510.jpg" alt="" class="event-teaser-image"><div class="event-teaser-overlay"><h3 class="event-teaser-heading large">Capital Markets Day</h3><p class="event-teaser-details white large">May 12, 2022 | 14:30 CEST</p><a href="/investors/capital-markets-day-2022" class="button btn-secondary btn-secondary-white btn-small w-inline-block"><div class="button-inner-wrap"><div class="button-text">Read more</div></div></a></div></div></div><div class="event-teaser half pshide"><div class="event-teaser-image-wrapper"><img srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626a61ca1302438b7372ac88_Promo-banner-Q1-results-700x510-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626a61ca1302438b7372ac88_Promo-banner-Q1-results-700x510.jpg 700w" loading="lazy" sizes="100vw" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626a61ca1302438b7372ac88_Promo-banner-Q1-results-700x510.jpg" alt="" class="event-teaser-image"><div class="event-teaser-overlay"><h3 class="event-teaser-heading large">Quarterly Results Q1 2022</h3><p class="event-teaser-details white large">May 12, 2022 | 08:00 CEST</p><a href="https://www.autostoresystem.com/reports-presentations/q1-results-2022" class="button btn-secondary btn-secondary-white btn-small w-inline-block"><div class="button-inner-wrap"><div class="button-text">Read more</div></div></a></div></div></div><div class="event-teaser half pshide"><div class="event-teaser-image-wrapper"><img srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626ab21aac31595fdcd525b2_Promo-banner-Annual-Report-700x510-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626ab21aac31595fdcd525b2_Promo-banner-Annual-Report-700x510.jpg 700w" loading="lazy" sizes="100vw" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626ab21aac31595fdcd525b2_Promo-banner-Annual-Report-700x510.jpg" alt="" class="event-teaser-image"><div class="event-teaser-overlay"><h3 class="event-teaser-heading large">Annual Report 2021</h3><p class="event-teaser-details white large">April 28, 2022</p><a href="/investors/annual-report-2021" class="button btn-secondary btn-secondary-white btn-small w-inline-block"><div class="button-inner-wrap"><div class="button-text">Read more</div></div></a></div></div></div><div class="event-teaser half"><div class="event-teaser-image-wrapper"><img srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626ab21d63c1262f2667351b_Promo-banner-Annual-General-Meeting-700x510-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626ab21d63c1262f2667351b_Promo-banner-Annual-General-Meeting-700x510.jpg 700w" loading="lazy" sizes="100vw" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/626ab21d63c1262f2667351b_Promo-banner-Annual-General-Meeting-700x510.jpg" alt="" class="event-teaser-image"><div class="event-teaser-overlay"><h3 class="event-teaser-heading large">Annual General Meeting 2022</h3><p class="event-teaser-details white large">May 19, 2022 | 15:00 CEST</p><a href="/investors/annual-general-meeting-2022" class="button btn-secondary btn-secondary-white btn-small w-inline-block"><div class="button-inner-wrap"><div class="button-text">Read more</div></div></a></div></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.536Z</updated>
+        <updated>2025-01-09T05:33:08.417Z</updated>
         <content type="html"><![CDATA[<div class="section-separator"></div><div class="w-layout-grid text-image-grid quarterly-report"><div id="w-node-_4eeba682-64ef-6b71-bcb2-8dbbfd766495-d5083078"><div class="current-report-wrapper"><div class="current-report-content"><div class="current-report-date">May 12, 2022</div><h3 class="current-report-heading">Capital Markets Day 2022</h3><div class="current-report-text tile-one-gap">AutoStore is pleased to invite investors, analysts and media to the AutoStore Capital Markets Day 2022 in London on Thursday May 12, 2022.</div><div class="reports-grid-links"><a href="/investors/capital-markets-day-2022" class="arrow-link reports-grid-link">Learn more</a></div></div><div class="current-report-image-container"><img srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/6266d3b6900de469ba132540_Promo-banner-CMD-700x510-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/6266d3b6900de469ba132540_Promo-banner-CMD-700x510.jpg 700w" loading="lazy" sizes="100vw" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/6266d3b6900de469ba132540_Promo-banner-CMD-700x510.jpg" alt="R5 robot " class="current-report-image"></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.537Z</updated>
+        <updated>2025-01-09T05:33:08.418Z</updated>
         <content type="html"><![CDATA[<div class="empty-div-100px"></div><div class="w-layout-grid text-image-grid quarterly-report"><div id="w-node-ec4677f7-6fe0-2deb-123a-3aaf5927e24d-d5083078" class="current-report-wrapper"><div class="current-report-image-container"><img srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy-p-500.webp 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy-p-800.webp 800w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy-p-1080.webp 1080w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy-p-1600.webp 1600w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy-p-2000.webp 2000w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy.webp 2200w" loading="lazy" sizes="100vw" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/63999bc04cdf4869d6d690fe_careers-autostore-acceleration-program-autofy.webp" alt="" class="current-report-image"></div><div class="current-report-content"><div class="current-report-date">April 25, 2024</div><h3 class="current-report-heading">Annual Report 2023</h3><div class="current-report-subheading">Released today!</div><div class="reports-grid-links"><a href="/investors/annual-report-2023" class="arrow-link reports-grid-link">Visit our Annual Report page here</a></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.538Z</updated>
+        <updated>2025-01-09T05:33:08.420Z</updated>
         <content type="html"><![CDATA[<div class="empty-div-100px"></div><div class="w-layout-grid text-image-grid quarterly-report"><div id="w-node-_2b3d02f4-7ad6-9b2a-4447-f7c420502d97-d5083078"><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="current-report-wrapper w-dyn-item"><div class="current-report-content"><div class="current-report-date">November 7, 2024</div><h3 class="current-report-heading">Q3 Results 2024</h3><div class="current-report-subheading">Quarterly Report</div><div class="current-report-text">AutoStore: Invitation to presentation of the third quarter</div><div class="reports-grid-links"><a href="/reports-presentations/q3-results-2024" class="arrow-link reports-grid-link">Read more</a><a href="https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/04%20Website%20Docs/IR/Q3%202024/AutoStore%20Q3%202024%20Report-.pdf" target="_blank" class="arrow-link reports-grid-link w-condition-invisible">Report</a><a href="https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/04%20Website%20Docs/IR/Q3%202024/AutoStore%20Q3%202024%20Presentation.pdf" target="_blank" class="arrow-link reports-grid-link w-condition-invisible">Presentation</a><a href="https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/04%20Website%20Docs/IR/Q3%202024/CORRECTED%20TRANSCRIPT_%20AutoStore%20Holdings%20Ltd(AUTO-NO)%2c%20Q3%202024%20Earnings%20Call%2c%207-November-2024%202_00%20AM%20ET.pdf" target="_blank" class="arrow-link reports-grid-link w-condition-invisible">Transcript</a><a href="#" class="arrow-link reports-grid-link w-condition-invisible">Earnings Call</a><a href="#" class="arrow-link reports-grid-link w-condition-invisible w-dyn-bind-empty"></a><a href="https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/04%20Website%20Docs/IR/Q3%202024/AutoStore%20Q3%202024%20Press%20Release.pdf" class="arrow-link reports-grid-link w-condition-invisible">Press Release</a></div></div><div class="current-report-image-container"><img src="https://cdn.prod.website-files.com/605a4daf58725b8e3c96518e/626943cd88801f4404bf3306_Black-Wheel_1920x1080.jpg" loading="lazy" alt="" class="current-report-image"></div></div></div></div></div></div><div class="empty-div-100px"></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.539Z</updated>
+        <updated>2025-01-09T05:33:08.433Z</updated>
         <content type="html"><![CDATA[<div class="empty-div-100px"></div><div class="w-layout-grid text-image-grid quarterly-report"><div id="w-node-d6b4797a-b97e-788d-d0f4-407f85b13d3f-d5083078" class="current-report-wrapper"><div class="current-report-image-container"><img sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1439px) 130.078125px, 21vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66743ce0356549b315de47cc_HTP_Benefits-overview-page-p-500.webp 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66743ce0356549b315de47cc_HTP_Benefits-overview-page-p-800.webp 800w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66743ce0356549b315de47cc_HTP_Benefits-overview-page-p-1080.webp 1080w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66743ce0356549b315de47cc_HTP_Benefits-overview-page.webp 1328w" alt="" src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66743ce0356549b315de47cc_HTP_Benefits-overview-page.webp" loading="lazy" class="current-report-image"></div><div class="current-report-content"><div class="current-report-date">Past event</div><h3 class="current-report-heading">Capital Markets Day</h3><div class="current-report-subheading">September 18</div><div class="current-report-text">We held our Capital Markets Day 2024 in Manchester, UK, on Wednesday, September 18, 2024.</div><div class="reports-grid-links"><a href="/investors/capital-markets-day-2024" class="arrow-link reports-grid-link">Read more</a></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.551Z</updated>
+        <updated>2025-01-09T05:33:08.434Z</updated>
         <content type="html"><![CDATA[<div class="section-separator"></div><div class="w-layout-grid text-image-grid reverse"><div id="w-node-_2ef2f907-2f01-1dc6-2dce-865cf61fb2b2-d5083078" class="tig-image pushed-with-extras"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611ad6b2bdbdb09a1184afe0_reasons_why%402x.png" loading="lazy" sizes="(max-width: 479px) 71vw, (max-width: 767px) 82vw, (max-width: 991px) 86vw, 100vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611ad6b2bdbdb09a1184afe0_reasons_why%402x-p-500.png 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611ad6b2bdbdb09a1184afe0_reasons_why%402x-p-800.png 800w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611ad6b2bdbdb09a1184afe0_reasons_why%402x-p-1080.png 1080w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611ad6b2bdbdb09a1184afe0_reasons_why%402x.png 1096w" alt="" class="rounded-image"><div as-investors-ticker="true" class="tig-image-extras"><div as-investors-ticker-stock-symbol="true" class="stock-ticker-name">Autostore, AUTO</div><div class="tig-extras-stock-price"><div as-investors-ticker-latest-price="true" class="tig-extras-stock-price-wrapper">00,00</div><div as-investors-ticker-delta-today="true" class="the-share-details-text">-0,00%</div></div><div class="tig-extras-heading-wrapper"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611b6aae36fc84f865210f30_clock_icon.svg" loading="lazy" width="18" height="18" alt="" class="stock-clock-icon"><div class="stock-ticker-date-time"><div as-investors-ticker-latest-date="true">00.00.0000</div><div> | </div><div as-investors-ticker-latest-time="true">00:00</div></div></div><div class="tig-extras-separator"></div><a href="/investors/share-information" class="arrow-link tig-extras-link">Share information</a></div></div><div id="w-node-_2ef2f907-2f01-1dc6-2dce-865cf61fb2c0-d5083078" class="tig-text"><div class="tig-category">Cube Storage Pioneers</div><h2>Little Robots, Big Business</h2><p class="tig-paragraph">Since its inception in 1996, AutoStore™ has worked to improve warehouse efficiency. Today, the company’s key value proposition is to deliver an easy-to-use software powered cubic automatic storage and retrieval ecosystem. <br><br>The AutoStore solution is modular and flexible, and can automate any warehouse. The system offers a superior customer value proposition across operating metrics, ESG scores, and customer economics.<br>‍</p><a data-w-id="f77640e1-3150-658f-e929-9918a2e5767d" href="#" class="button btn-secondary w-inline-block"><div class="button-inner-wrap"><div class="button-text">View video to learn more</div></div></a></div></div><div class="section-separator"></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.553Z</updated>
+        <updated>2025-01-09T05:33:08.434Z</updated>
         <content type="html"><![CDATA[<div class="w-layout-grid text-image-grid reverse"><div id="w-node-d71953eb-9b0e-6609-b69e-c706885a0d32-d5083078" class="tig-text reverse"><div class="tig-category">Our Legacy</div><h2>The Cube Storage Pioneers <br>Since 1996</h2><p class="tig-paragraph">Wasted space is a thing of the past thanks to the ingenious foresight of engineers from a small Norwegian village. Find out how it all started and what AutoStore has planned for the future of order fulfillment.</p><div class="w-layout-grid tig-icons-grid"><div class="tig-icons-grid-item"><div class="tig-number-with-text-number"><div class="nwt-large">1,550+</div></div><h3 class="igi-heading">Systems</h3></div><div class="tig-icons-grid-item"><div class="tig-number-with-text-number"><div class="nwt-large">56+</div></div><h3 class="igi-heading">Countries</h3></div><div class="tig-icons-grid-item"><div class="tig-number-with-text-number"><div class="nwt-large">25+</div></div><h3 class="igi-heading">Years Experience</h3></div></div><a href="/company" class="button btn-secondary w-inline-block"><div class="button-text">Company</div></a></div><div id="w-node-d71953eb-9b0e-6609-b69e-c706885a0d51-d5083078" class="tig-image narrow"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611cd54b1a39d9df0e56742e_globalplayer%402x.png" loading="lazy" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, (max-width: 1279px) 40vw, (max-width: 1439px) 35vw, 37vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611cd54b1a39d9df0e56742e_globalplayer%402x-p-500.png 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611cd54b1a39d9df0e56742e_globalplayer%402x.png 1328w" alt="" class="rounded-image"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.554Z</updated>
+        <updated>2025-01-09T05:33:08.436Z</updated>
         <content type="html"><![CDATA[<div class="container"><h2>Latest Reports</h2><div class="w-layout-grid ir-article-grid"><div class="article-grid-item"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg 632w" alt="" class="article-grid-image extra-space" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg); transform-style: preserve-3d;"><h3 class="ir-article-grid-date">May 05, 2022</h3><h3 class="ir-article-grid-heading">Q1 2022</h3><h3 class="ir-article-grid-subheading">Quaterly Report</h3><ul role="list" class="ir-article-grid-links w-list-unstyled"><li><a href="#" class="arrow-link">Report</a></li><li><a href="#" class="arrow-link">Presentation</a></li><li><a href="#" class="arrow-link">Webcast</a></li></ul></div><div class="article-grid-item"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg 632w" alt="" class="article-grid-image extra-space" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg); transform-style: preserve-3d;"><h3 class="ir-article-grid-date">April 06, 2022</h3><h3 class="ir-article-grid-heading">2021</h3><h3 class="ir-article-grid-subheading">Annual Report</h3><ul role="list" class="ir-article-grid-links w-list-unstyled"><li><a href="#" class="arrow-link">Report</a></li><li><a href="#" class="arrow-link">Presentation</a></li><li><a href="#" class="arrow-link">Webcast</a></li></ul></div><div class="article-grid-item"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg 632w" alt="" class="article-grid-image extra-space" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg); transform-style: preserve-3d;"><h3 class="ir-article-grid-date">February 05, 2022</h3><h3 class="ir-article-grid-heading">Q4 2021</h3><h3 class="ir-article-grid-subheading">Quaterly Report</h3><ul role="list" class="ir-article-grid-links w-list-unstyled"><li><a href="#" class="arrow-link">Report</a></li><li><a href="#" class="arrow-link">Presentation</a></li><li><a href="#" class="arrow-link">Webcast</a></li></ul></div><div class="article-grid-item"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x-p-500.jpeg 500w, https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea3af60c36d2de51b8386_AU_ROUTER_4K_MASTER_STILLS-00932-1800x1013%402x.jpg 632w" alt="" class="article-grid-image extra-space" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg); transform-style: preserve-3d;"><h3 class="ir-article-grid-date">October 27, 2021</h3><h3 class="ir-article-grid-heading">Q3 2021</h3><h3 class="ir-article-grid-subheading">Quaterly Report</h3><ul role="list" class="ir-article-grid-links w-list-unstyled"><li><a href="#" class="arrow-link">Report</a></li><li><a href="#" class="arrow-link">Presentation</a></li><li><a href="#" class="arrow-link">Webcast</a></li></ul></div></div><div class="buttons-wrapper centered-close"><a href="#" class="button btn-secondary w-inline-block"><div class="button-text">All Reports &amp;&nbsp;Presentations</div></a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.559Z</updated>
+        <updated>2025-01-09T05:33:08.437Z</updated>
         <content type="html"><![CDATA[<div class="container"><h2 id="contact-ir" class="text-center">Investor Relations Contacts</h2><div class="ir-contacts-wrapper"><div class="ir-contact-flex-container"><div class="ir-contact-wrapper"><div class="ir-contact-portrait-wrapper"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66b33df66d283f833822f58f_WEB_About_Hiva_Fla%CC%8Askjer.jpg" loading="lazy" alt="" class="ir-contact-portrait"></div><h3 class="ir-contact-name">Hiva Flåskjer</h3><div class="ir-contact-title">SVP Investor Relations</div><a href="tel:+4795866790" class="ir-contact-link">+47 95 86 67 90</a><a href="mailto:hiva.flaskjer@autostoresystem.com" class="ir-contact-link">hiva.flaskjer@autostoresystem.com</a></div><div class="ir-contact-wrapper"><div class="ir-contact-portrait-wrapper"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/66b450e7c342e70d3860e133_WEB_About_Nili_Eslah.jpg" loading="lazy" alt="" class="ir-contact-portrait"></div><h3 class="ir-contact-name">Nili Eslah</h3><div class="ir-contact-title">Investor Relations Manager</div><a href="tel:+4745662664" class="ir-contact-link">+47 45 66 26 64</a><a href="mailto:nili.eslah@autostoresystem.com" class="ir-contact-link">nili.eslah@autostoresystem.com</a></div></div></div><div class="section-button-wrapper ir-temp-hide"><a href="#" class="button w-inline-block"><div class="button-text">Contact IR</div></a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Autostore - Investors)]]></title>
         <id>https://NicoJuicy.github.io/auction-feed/all.xml</id>
         <link href="https://NicoJuicy.github.io/auction-feed/all.xml"/>
-        <updated>2025-01-08T17:32:52.562Z</updated>
+        <updated>2025-01-09T05:33:08.445Z</updated>
         <content type="html"><![CDATA[<div class="container"><div class="w-layout-grid footer-grid"><div class="footer-column with-social-mobile"><a href="/" class="footer-logo-link w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603ea94c3a5a7951cb9e67cb_autostore_Symbol.svg" loading="lazy" alt="Decorative. Displaying AutoStore company logo symbol consisting of 5 red dots." class="footer-logo"></a><div class="footer-copyright-column right social-mobile"><a href="https://www.facebook.com/autostoresystem/" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603eaea55bbbdb817c80b997_Social%20Icons%20%E2%80%93%2016px%20-%20Facebook.svg" loading="lazy" alt="Facebook logo with a link to AutoStore Facebook page. Illustration."></a><a href="https://www.youtube.com/autostoresystem" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611bcc4515e0af2fd3e54903_youtube%201.svg" loading="lazy" alt="Youtube logo with a link to the AutoStore Youtube page. Illustration."></a><a href="https://twitter.com/AutoStoresystem" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603eaea561699dad77e57105_Social%20Icons%20%E2%80%93%2016px%20-%20Twitter.svg" loading="lazy" alt="Twitter logo with a link to the AutoStore Twitter page. Illustration."></a><a href="https://www.linkedin.com/company/autostoresystem" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603eaea42aef17452d7eec02_Social%20Icons%20%E2%80%93%2016px%20-%20LinkedIn.svg" loading="lazy" alt="LinkedIn logo with a link to the AutoStore LinkedIn page. Illustration."></a></div></div><div class="footer-column"><div class="footer-nav-heading">Directories</div><ul role="list" class="footer-nav-menu"><li class="footer-nav-item"><a href="/industries" class="footer-nav-link w-inline-block"><div>Industries</div></a></li><li class="footer-nav-item"><a href="/system" class="footer-nav-link w-inline-block"><div>System</div></a></li><li class="footer-nav-item"><a href="/cases" class="footer-nav-link w-inline-block"><div>Cases</div></a></li><li class="footer-nav-item"><a href="/insights" class="footer-nav-link w-inline-block"><div>Insights</div></a></li><li class="footer-nav-item"><a href="/partners" class="footer-nav-link w-inline-block"><div>Partners</div></a></li></ul></div><div class="footer-column"><div class="footer-nav-heading">Industries</div><ul role="list" class="footer-nav-menu"><li class="footer-nav-item"><a href="/industries/retail" class="footer-nav-link w-inline-block"><div>Retail</div></a></li><li class="footer-nav-item"><a href="/industries/grocery" class="footer-nav-link w-inline-block"><div>Grocery</div></a></li><li class="footer-nav-item"><a href="/industries/3pl" class="footer-nav-link w-inline-block"><div>3PL</div></a></li><li class="footer-nav-item"><a href="/industries/healthcare" class="footer-nav-link w-inline-block"><div>Healthcare</div></a></li><li class="footer-nav-item"><a href="/industries/industrials" class="footer-nav-link w-inline-block"><div>Industrials</div></a></li></ul></div><div class="footer-column"><div class="footer-nav-heading">Company</div><ul role="list" class="footer-nav-menu"><li class="footer-nav-item"><a href="/company" class="footer-nav-link w-inline-block"><div>About Us</div></a></li><li class="footer-nav-item"><a href="/careers" class="footer-nav-link w-inline-block"><div>Careers</div></a></li><li class="footer-nav-item"><a href="/sustainability" class="footer-nav-link w-inline-block"><div>Sustainability</div></a></li><li class="footer-nav-item"><a href="/news" class="footer-nav-link w-inline-block"><div>News</div></a></li><li class="footer-nav-item"><a href="/events" class="footer-nav-link w-inline-block"><div>Events</div></a></li></ul></div><div class="footer-column newsletter"><div class="footer-nav-heading">Sign up for our newsletter</div><div class="footer-nav-text">Get the latest from AutoStore™ in our quarterly newsletter.</div><a data-hs-form-fr="ddc272a2-8d6f-4720-bc3e-a6e1554cf046" data-hs-form-en="ddc272a2-8d6f-4720-bc3e-a6e1554cf046" href="#" class="button btn-secondary btn-secondary-gray newsletter-trigger w-inline-block"><div class="button-text">Subscribe</div></a></div></div></div><div class="footer-copyright-bar"><div class="container"><div class="w-layout-grid footer-copyright-grid"><div class="footer-copyright-column"><div class="footer-copyright-column-item">© 2024 AutoStore</div><a href="/privacy-policy" class="footer-nav-link footer-copyright-column-item">Privacy Policy</a><a href="/cookies" class="footer-nav-link footer-copyright-column-item">Cookies</a><a href="/site-information" class="footer-nav-link footer-copyright-column-item">Site Information</a></div><div class="footer-copyright-column right social-desktop"><a href="https://www.facebook.com/autostoresystem/" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603eaea55bbbdb817c80b997_Social%20Icons%20%E2%80%93%2016px%20-%20Facebook.svg" loading="lazy" alt="Facebook Icon"></a><a href="https://www.youtube.com/autostoresystem" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/611bcc4515e0af2fd3e54903_youtube%201.svg" loading="lazy" alt="YouTube Icon"></a><a href="https://x.com/AutoStoresystem" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603eaea561699dad77e57105_Social%20Icons%20%E2%80%93%2016px%20-%20Twitter.svg" loading="lazy" alt="Twitter Icon"></a><a href="https://www.linkedin.com/company/autostoresystem" class="footer-copyright-social-item w-inline-block"><img src="https://cdn.prod.website-files.com/60303082bcc0b14498dbe15d/603eaea42aef17452d7eec02_Social%20Icons%20%E2%80%93%2016px%20-%20LinkedIn.svg" loading="lazy" alt="LinkedIn Icon"></a></div></div></div></div><div class="js-modaltemplates w-embed w-iframe"><template id="video-modal-template">
   <div class="video-modal-video-wrapper">
     <div class="newsletter-modal-close" id="close-video-modal"><img src="https://assets-global.website-files.com/60303082bcc0b14498dbe15d/60d56f2e88eab346b6efc4ba_close_icon.svg" loading="lazy" alt="Close Modal" class="newsletter-modal-close-image"></div>
@@ -641,67 +641,67 @@ Webflow.push(function () {
 </style></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Stars in the Milky Way (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Two_Stars_in_the_Milky_Way</id>
-        <link href="https://en.wikipedia.org/wiki/Two_Stars_in_the_Milky_Way"/>
-        <updated>2025-01-08T17:32:57.010Z</updated>
-        <content type="html"><![CDATA[... that the soundtrack of <i><b><a href="/wiki/Two_Stars_in_the_Milky_Way" title="Two Stars in the Milky Way">Two Stars in the Milky Way</a></b></i> <i>(scene pictured)</i>, one of the few surviving early Chinese films, has been lost?]]></content>
+        <title type="html"><![CDATA[Waterloo Column (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Waterloo_Column</id>
+        <link href="https://en.wikipedia.org/wiki/Waterloo_Column"/>
+        <updated>2025-01-09T05:33:12.810Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Waterloo_Column" title="Waterloo Column">Waterloo Column</a></b> <i>(pictured)</i>, which commemorates Germans who died at the <a href="/wiki/Battle_of_Waterloo" title="Battle of Waterloo">Battle of Waterloo</a>, incorporates the barrels of eight cannons that were captured there?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nuno Xavier (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Nuno_Xavier</id>
-        <link href="https://en.wikipedia.org/wiki/Nuno_Xavier"/>
-        <updated>2025-01-08T17:32:57.010Z</updated>
-        <content type="html"><![CDATA[... that aerospace engineer <b><a href="/wiki/Nuno_Xavier" title="Nuno Xavier">Nuno Xavier</a></b> signed the treaty that made São Tomé and Príncipe an independent nation?]]></content>
+        <title type="html"><![CDATA[Harold Styan (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Harold_Styan</id>
+        <link href="https://en.wikipedia.org/wiki/Harold_Styan"/>
+        <updated>2025-01-09T05:33:12.810Z</updated>
+        <content type="html"><![CDATA[... that gym teacher <b><a href="/wiki/Harold_Styan" title="Harold Styan">Harold Styan</a></b> of <b><a href="/wiki/Clifton_House_School" title="Clifton House School">Clifton House School</a></b> was appointed <a href="/wiki/Order_of_the_British_Empire" title="Order of the British Empire">Officer of the Order of the British Empire</a> for services to youth?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[But Daddy I Love Him (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/But_Daddy_I_Love_Him</id>
-        <link href="https://en.wikipedia.org/wiki/But_Daddy_I_Love_Him"/>
-        <updated>2025-01-08T17:32:57.011Z</updated>
-        <content type="html"><![CDATA[... that some journalists interpreted Taylor Swift's song "<b><a href="/wiki/But_Daddy_I_Love_Him" title="But Daddy I Love Him">But Daddy I Love Him</a></b>" as her criticism of her own fans?]]></content>
+        <title type="html"><![CDATA[Life Till Bones (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Life_Till_Bones</id>
+        <link href="https://en.wikipedia.org/wiki/Life_Till_Bones"/>
+        <updated>2025-01-09T05:33:12.814Z</updated>
+        <content type="html"><![CDATA[... that one critic described some of the melodies in <i><b><a href="/wiki/Life_Till_Bones" title="Life Till Bones">Life Till Bones</a></b></i> as akin to "trying to dig a hole in a bowl full of sugar"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bootleggers (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/The_Bootleggers_(Hopper)</id>
-        <link href="https://en.wikipedia.org/wiki/The_Bootleggers_(Hopper)"/>
-        <updated>2025-01-08T17:32:57.012Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/The_Bootleggers_(Hopper)" title="The Bootleggers (Hopper)">The Bootleggers</a></b></i> portrays the illegal alcohol trade during the Prohibition era of the Roaring&nbsp;'20s?]]></content>
+        <title type="html"><![CDATA[Goro Takahashi (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Goro_Takahashi</id>
+        <link href="https://en.wikipedia.org/wiki/Goro_Takahashi"/>
+        <updated>2025-01-09T05:33:12.816Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Goro_Takahashi" title="Goro Takahashi">Goro Takahashi</a></b>, a silversmith adopted by a <a href="/wiki/Lakota_people" title="Lakota people">Lakota</a> family, was the first Japanese person allowed to attend a <a href="/wiki/Sun_Dance" title="Sun Dance">Sun Dance</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hanta Road (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Hanta_Road</id>
-        <link href="https://en.wikipedia.org/wiki/Hanta_Road"/>
-        <updated>2025-01-08T17:32:57.014Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Hanta_Road" title="Hanta Road">Hanta Road</a></b> on <a href="/wiki/Okinawa_Island" title="Okinawa Island">Okinawa</a> was used by both Ryukyuan armies and the U.S. Navy's <a href="/wiki/Perry_Expedition" title="Perry Expedition">Perry Expedition</a>?]]></content>
+        <title type="html"><![CDATA[a Rhode Island TV station (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/WNAC-TV</id>
+        <link href="https://en.wikipedia.org/wiki/WNAC-TV"/>
+        <updated>2025-01-09T05:33:12.816Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/WNAC-TV" title="WNAC-TV">a Rhode Island TV station</a></b> started out by re-running an inventory of 50 hours of cartoons and 14 old movies?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jim Rivaldo (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Jim_Rivaldo</id>
-        <link href="https://en.wikipedia.org/wiki/Jim_Rivaldo"/>
-        <updated>2025-01-08T17:32:57.015Z</updated>
-        <content type="html"><![CDATA[... that political consultant <b><a href="/wiki/Jim_Rivaldo" title="Jim Rivaldo">Jim Rivaldo</a></b> said that moving to San Francisco made him realize that "there were gay lawyers, gay businessmen—a lot of people like me"?]]></content>
+        <title type="html"><![CDATA[Zhang Xinsheng (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Zhang_Xinsheng_(film)</id>
+        <link href="https://en.wikipedia.org/wiki/Zhang_Xinsheng_(film)"/>
+        <updated>2025-01-09T05:33:12.816Z</updated>
+        <content type="html"><![CDATA[... that the 1923 film <i><b><a href="/wiki/Zhang_Xinsheng_(film)" title="Zhang Xinsheng (film)">Zhang Xinsheng</a></b></i> featured close-up views of internal organs?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aquilegia barykinae (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Aquilegia_barykinae</id>
-        <link href="https://en.wikipedia.org/wiki/Aquilegia_barykinae"/>
-        <updated>2025-01-08T17:32:57.019Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Aquilegia_barykinae" title="Aquilegia barykinae">Aquilegia barykinae</a></b></i> is likely more closely related to other species of columbine than to <i><b><a href="/wiki/Aquilegia_amurensis" title="Aquilegia amurensis">Aquilegia amurensis</a></b></i>, which shares its range?]]></content>
+        <title type="html"><![CDATA[marzēaḥ (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Marz%C4%93a%E1%B8%A5</id>
+        <link href="https://en.wikipedia.org/wiki/Marz%C4%93a%E1%B8%A5"/>
+        <updated>2025-01-09T05:33:12.818Z</updated>
+        <content type="html"><![CDATA[... that an inscription from 243&nbsp;AD for a leader of the <i><b><a href="/wiki/Marz%C4%93a%E1%B8%A5" title="Marzēaḥ">marzēaḥ</a></b></i> ends with blessings for his sons, the scribe, the person in charge of the cooking, the cupbearer, and other assistants?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mark Smith (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Mark_Smith_(actor,_born_1887)</id>
-        <link href="https://en.wikipedia.org/wiki/Mark_Smith_(actor,_born_1887)"/>
-        <updated>2025-01-08T17:32:57.020Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Mark_Smith_(actor,_born_1887)" title="Mark Smith (actor, born 1887)">Mark Smith</a></b> was a fourth-generation actor who performed in 70 theaters in New York City and on more than 2,000 radio programs?]]></content>
+        <title type="html"><![CDATA[Ripken (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Ripken_(dog)</id>
+        <link href="https://en.wikipedia.org/wiki/Ripken_(dog)"/>
+        <updated>2025-01-09T05:33:12.819Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Ripken_(dog)" title="Ripken (dog)">Ripken</a></b> wore a <a href="/wiki/GoPro" title="GoPro">GoPro</a> on his back while retrieving used bats and tees at major sporting events?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blossoms Under Somewhere (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Blossoms_Under_Somewhere</id>
-        <link href="https://en.wikipedia.org/wiki/Blossoms_Under_Somewhere"/>
-        <updated>2025-01-08T17:32:57.022Z</updated>
-        <content type="html"><![CDATA[... that the director-screenwriter of <i><b><a href="/wiki/Blossoms_Under_Somewhere" title="Blossoms Under Somewhere">Blossoms Under Somewhere</a></b></i> joined <a href="/wiki/Telegram_(software)" title="Telegram (software)">Telegram</a> groups that sell used lingerie to conduct field research?]]></content>
+        <title type="html"><![CDATA[latest album (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Chromakopia</id>
+        <link href="https://en.wikipedia.org/wiki/Chromakopia"/>
+        <updated>2025-01-09T05:33:12.822Z</updated>
+        <content type="html"><![CDATA[... that trucks in <a href="/wiki/Tyler,_Texas" title="Tyler, Texas">Tyler</a> promoted <a href="/wiki/Tyler,_the_Creator" title="Tyler, the Creator">Tyler</a>'s <b><a href="/wiki/Chromakopia" title="Chromakopia">latest album</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tente 2 pers -  Quechua (FOD - Sport & Vrije tijd - Brussel P1)]]></title>
@@ -712,7 +712,7 @@ Webflow.push(function () {
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-28818" title="Tente 2 pers -  Quechua">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-471-tente-2-pers-quechua-28818"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="046bf44c60cda52972ff15beb70cb8252189400fo1767893586">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-471-tente-2-pers-quechua-28818">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/28818/image_256/%5BBXL-00001-4-11313-471%5D%20Tente%202%20pers%20-%20%20Quechua?unique=fab082f" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/471] Tente 2 pers -  Quechua" loading="lazy"></span>
                 </a>
@@ -752,7 +752,7 @@ Webflow.push(function () {
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-28215" title="Raquette de tennis - Babolat - Aero JRV26">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-443-raquette-de-tennis-babolat-aero-jrv26-28215"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="046bf44c60cda52972ff15beb70cb8252189400fo1767893586">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-443-raquette-de-tennis-babolat-aero-jrv26-28215">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/28215/image_256/%5BBXL-00001-4-11313-443%5D%20Raquette%20de%20tennis%20-%20Babolat%20-%20Aero%20JRV26?unique=693c901" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/443] Raquette de tennis - Babolat - Aero JRV26" loading="lazy"></span>
                 </a>
@@ -792,7 +792,7 @@ Webflow.push(function () {
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-28214" title="Batterie pour vélo électrique - ST">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-442-batterie-pour-velo-electrique-st-28214"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="046bf44c60cda52972ff15beb70cb8252189400fo1767893586">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-442-batterie-pour-velo-electrique-st-28214">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/28214/image_256/%5BBXL-00001-4-11313-442%5D%20Batterie%20pour%20v%C3%A9lo%20%C3%A9lectrique%20-%20ST?unique=1ef1485" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/442] Batterie pour vélo électrique - ST" loading="lazy"></span>
                 </a>
@@ -832,7 +832,7 @@ Webflow.push(function () {
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-28212" title="Plaque vibrante de fitness multifonction - Rockerz">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-440-plaque-vibrante-de-fitness-multifonction-rockerz-28212"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="046bf44c60cda52972ff15beb70cb8252189400fo1767893586">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-440-plaque-vibrante-de-fitness-multifonction-rockerz-28212">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/28212/image_256/%5BBXL-00001-4-11313-440%5D%20Plaque%20vibrante%20de%20fitness%20multifonction%20-%20Rockerz?unique=9742320" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/440] Plaque vibrante de fitness multifonction - Rockerz" loading="lazy"></span>
                 </a>
@@ -872,7 +872,7 @@ Webflow.push(function () {
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-28109" title="Planche de step - Mbro MaxPlus">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-430-planche-de-step-mbro-maxplus-28109"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="046bf44c60cda52972ff15beb70cb8252189400fo1767893586">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-430-planche-de-step-mbro-maxplus-28109">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/28109/image_256/%5BBXL-00001-4-11313-430%5D%20Planche%20de%20step%20-%20Mbro%20MaxPlus?unique=84f4a85" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/430] Planche de step - Mbro MaxPlus" loading="lazy"></span>
                 </a>
@@ -912,7 +912,7 @@ Webflow.push(function () {
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-15506" title="Goliath Piggy Pop - Bordespel">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-00021-296-goliath-piggy-pop-bordespel-15506"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="f8caf7bc965d3d928189fb701e3bc82f496a82d0o1767893587">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-00021-296-goliath-piggy-pop-bordespel-15506">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/15506/image_256/%5BBXL-01438-4-00021-296%5D%20Goliath%20Piggy%20Pop%20-%20Bordespel?unique=27955be" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/00021/296] Goliath Piggy Pop - Bordespel" loading="lazy"></span>
                 </a>
@@ -956,7 +956,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33213" title="American tourister summer session spinner M TSA black / orange - Koffer met 4 wielen">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11059-231-american-tourister-summer-session-spinner-m-tsa-black-orange-koffer-met-4-wielen-33213"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="f8caf7bc965d3d928189fb701e3bc82f496a82d0o1767893587">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11059-231-american-tourister-summer-session-spinner-m-tsa-black-orange-koffer-met-4-wielen-33213">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33213/image_256/%5BBXL-00001-4-11059-231%5D%20American%20tourister%20summer%20session%20spinner%20M%20TSA%20black%20-%20orange%20-%20Koffer%20met%204%20wielen?unique=4cc64ef" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11059/231] American tourister summer session spinner M TSA black / orange - Koffer met 4 wielen" loading="lazy"></span>
                 </a>
@@ -996,7 +996,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32871" title="Samsonite B lite icon spinner 83/81 dark blue 8804 - Zachte uitbreidbare koffer">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11059-227-samsonite-b-lite-icon-spinner-83-81-dark-blue-8804-zachte-uitbreidbare-koffer-32871"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="f8caf7bc965d3d928189fb701e3bc82f496a82d0o1767893587">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11059-227-samsonite-b-lite-icon-spinner-83-81-dark-blue-8804-zachte-uitbreidbare-koffer-32871">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32871/image_256/%5BBXL-00001-4-11059-227%5D%20Samsonite%20B%20lite%20icon%20spinner%2083-81%20dark%20blue%208804%20-%20Zachte%20uitbreidbare%20koffer?unique=4cc64ef" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11059/227] Samsonite B lite icon spinner 83/81 dark blue 8804 - Zachte uitbreidbare koffer" loading="lazy"></span>
                 </a>
@@ -1036,7 +1036,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-30575" title="Tech Stirrups - 2 titanium stijgbeugels + 2 oorbeschermers voor paarden">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11059-176-tech-stirrups-2-titanium-stijgbeugels-2-oorbeschermers-voor-paarden-30575"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="f8caf7bc965d3d928189fb701e3bc82f496a82d0o1767893587">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11059-176-tech-stirrups-2-titanium-stijgbeugels-2-oorbeschermers-voor-paarden-30575">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/30575/image_256/%5BBXL-00001-4-11059-176%5D%20Tech%20Stirrups%20-%202%20titanium%20stijgbeugels%20%2B%202%20oorbeschermers%20voor%20paarden?unique=4cc64ef" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11059/176] Tech Stirrups - 2 titanium stijgbeugels + 2 oorbeschermers voor paarden" loading="lazy"></span>
                 </a>
@@ -1076,7 +1076,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-16564" title="antislip schaats Gr=1 - maat : 30-36">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01438-4-10000-306-antislip-schaats-gr-1-maat-30-36-16564"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="f8caf7bc965d3d928189fb701e3bc82f496a82d0o1767893587">
+                <input type="hidden" name="csrf_token" value="b6c63ab92aa96dd1602c9a114826ea444d8278cdo1767936801">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01438-4-10000-306-antislip-schaats-gr-1-maat-30-36-16564">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/16564/image_256/%5BBXL-01438-4-10000-306%5D%20antislip%20schaats%20Gr%3D1%20-%20maat%20:%2030-36?unique=102a3fa" itemprop="image" class="img img-fluid" alt="[BXL/01438/4/10000/306] antislip schaats Gr=1 - maat : 30-36" loading="lazy"></span>
                 </a>
@@ -1111,157 +1111,6 @@ Hoeveel hamburgers ka..
                                                         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ski- en après-skischoenen - cb1218A56 (FOD - Sport & Vrije tijd - Brussel P1)]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/gem-00297-1-11508-31-ski-en-apres-skischoenen-cb1218a56-34543</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00297-1-11508-31-ski-en-apres-skischoenen-cb1218a56-34543"/>
-        <updated>2024-12-19T05:34:40.008Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34543" title=" Ski- en après-skischoenen - cb1218A56">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00297-1-11508-31-ski-en-apres-skischoenen-cb1218a56-34543"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5f30b8aed9473b83f376a90bf791ffe0c8682920o1767893602">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00297-1-11508-31-ski-en-apres-skischoenen-cb1218a56-34543">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34543/image_256/%5BGEM-00297-1-11508-31%5D%20%20Ski-%20en%20apr%C3%A8s-skischoenen%20-%20cb1218A56?unique=04cc8b8" itemprop="image" class="img img-fluid" alt="[GEM/00297/1/11508/31]  Ski- en après-skischoenen - cb1218A56" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-08 17:40:00" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">06</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Gembloux</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00297-1-11508-31-ski-en-apres-skischoenen-cb1218a56-34543" content=" Ski- en après-skischoenen - cb1218A56"> Ski- en après-skischoenen - cb1218A56</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/30107">
-                    2 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">21,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up (FOD - Sport & Vrije tijd - Brussel P1)]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355"/>
-        <updated>2024-12-19T17:32:53.910Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32355" title="Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5f30b8aed9473b83f376a90bf791ffe0c8682920o1767893602">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32355/image_256/%5BBOR-00001-4-11064-8%5D%20Lot%20120%20-%20Handi%20Life%20Sport%20-%20Boccia%20Lawn%20Set%20%2B%20Boccia%20Ball%20Pick%20Up?unique=37c7279" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11064/8] Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-08 19:24:19" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">50</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">56</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Bornem</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355" content="Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up">Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Artikel: Boccia set + opvangbu..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/30304">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">85,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Enkelbanden - 13 x 2 stuks - cb1223E14 (FOD - Sport & Vrije tijd - Brussel P1)]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11525-301-enkelbanden-13-x-2-stuks-cb1223e14-34574</id>
         <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11525-301-enkelbanden-13-x-2-stuks-cb1223e14-34574"/>
@@ -1270,7 +1119,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34574" title="Enkelbanden - 13 x 2 stuks - cb1223E14">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-301-enkelbanden-13-x-2-stuks-cb1223e14-34574"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5f30b8aed9473b83f376a90bf791ffe0c8682920o1767893602">
+                <input type="hidden" name="csrf_token" value="f8b40455309d914c4957e4fb0fffeef1cbad6b56o1767936807">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-301-enkelbanden-13-x-2-stuks-cb1223e14-34574">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34574/image_256/%5BGEM-00001-4-11525-301%5D%20Enkelbanden%20-%2013%20x%202%20stuks%20-%20cb1223E14?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/301] Enkelbanden - 13 x 2 stuks - cb1223E14" loading="lazy"></span>
                 </a>
@@ -1283,7 +1132,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1293,7 +1142,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
+            <span class="seconds span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1319,7 +1168,7 @@ Hoeveel hamburgers ka..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1344,7 +1193,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34577" title="Lichte 100 opblaasbare kano's - 8 stuks - cb1226E21">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-304-lichte-100-opblaasbare-kano-s-8-stuks-cb1226e21-34577"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5f30b8aed9473b83f376a90bf791ffe0c8682920o1767893602">
+                <input type="hidden" name="csrf_token" value="f8b40455309d914c4957e4fb0fffeef1cbad6b56o1767936807">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-304-lichte-100-opblaasbare-kano-s-8-stuks-cb1226e21-34577">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34577/image_256/%5BGEM-00001-4-11525-304%5D%20Lichte%20100%20opblaasbare%20kano%27s%20-%208%20stuks%20-%20cb1226E21?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/304] Lichte 100 opblaasbare kano's - 8 stuks - cb1226E21" loading="lazy"></span>
                 </a>
@@ -1357,7 +1206,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1367,7 +1216,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">37</span>
+            <span class="seconds span_time_digit">32</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1393,7 +1242,7 @@ Hoeveel hamburgers ka..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1418,7 +1267,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-22624" title="GB-024 Hometrainer fiets BH HI-Power">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11234-6-gb-024-hometrainer-fiets-bh-hi-power-22624"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="5f30b8aed9473b83f376a90bf791ffe0c8682920o1767893602">
+                <input type="hidden" name="csrf_token" value="f8b40455309d914c4957e4fb0fffeef1cbad6b56o1767936807">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11234-6-gb-024-hometrainer-fiets-bh-hi-power-22624">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/22624/image_256/%5BGEM-00002-3-11234-6%5D%20GB-024%20Hometrainer%20fiets%20BH%20HI-Power?unique=c4a2928" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11234/6] GB-024 Hometrainer fiets BH HI-Power" loading="lazy"></span>
                 </a>
@@ -1426,12 +1275,12 @@ Hoeveel hamburgers ka..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-09 17:56:41" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1441,7 +1290,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">18</span>
+            <span class="seconds span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1470,7 +1319,7 @@ Hoeveel hamburgers ka..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1495,7 +1344,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34082" title="Lot 24_969D - Matériel de musculation">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-11313-855-lot-24-969d-materiel-de-musculation-34082"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="570108dca3bc936fccdfbd50a28a9e3a28d7e3aco1767893603">
+                <input type="hidden" name="csrf_token" value="f8b40455309d914c4957e4fb0fffeef1cbad6b56o1767936807">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-11313-855-lot-24-969d-materiel-de-musculation-34082">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34082/image_256/%5BBXL-00001-4-11313-855%5D%20Lot%2024_969D%20-%20Mat%C3%A9riel%20de%20musculation?unique=a773522" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/11313/855] Lot 24_969D - Matériel de musculation" loading="lazy"></span>
                 </a>
@@ -1508,7 +1357,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">15</span>
+            <span class="hours span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1518,7 +1367,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">27</span>
+            <span class="seconds span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1544,7 +1393,7 @@ Hoeveel hamburgers ka..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1569,7 +1418,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34000" title="Motion Ciser Fit - Accessoire om huis te sporten - GB266-P10">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-232-motion-ciser-fit-accessoire-om-huis-te-sporten-gb266-p10-34000"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="570108dca3bc936fccdfbd50a28a9e3a28d7e3aco1767893603">
+                <input type="hidden" name="csrf_token" value="f8b40455309d914c4957e4fb0fffeef1cbad6b56o1767936807">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-232-motion-ciser-fit-accessoire-om-huis-te-sporten-gb266-p10-34000">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34000/image_256/%5BGEM-00001-4-11196-232%5D%20Motion%20Ciser%20Fit%20-%20Accessoire%20om%20huis%20te%20sporten%20-%20GB266-P10?unique=f0a6088" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/232] Motion Ciser Fit - Accessoire om huis te sporten - GB266-P10" loading="lazy"></span>
                 </a>
@@ -1582,7 +1431,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1592,7 +1441,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">10</span>
+            <span class="seconds span_time_digit">06</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1618,7 +1467,7 @@ Hoeveel hamburgers ka..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1643,7 +1492,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34912" title="COLEMAN - buitentent - GB348-P53">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-313-coleman-buitentent-gb348-p53-34912"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="570108dca3bc936fccdfbd50a28a9e3a28d7e3aco1767893603">
+                <input type="hidden" name="csrf_token" value="f8b40455309d914c4957e4fb0fffeef1cbad6b56o1767936807">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-313-coleman-buitentent-gb348-p53-34912">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34912/image_256/%5BGEM-00001-4-11196-313%5D%20COLEMAN%20-%20buitentent%20-%20GB348-P53?unique=f0a6088" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/313] COLEMAN - buitentent - GB348-P53" loading="lazy"></span>
                 </a>
@@ -1651,12 +1500,12 @@ Hoeveel hamburgers ka..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-11 18:02:49" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">03</span>
+            <span class="days span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1666,7 +1515,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">25</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1695,7 +1544,7 @@ Hoeveel hamburgers ka..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">21</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1720,7 +1569,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34694" title=" 2-zits opblaasbare kajak - cb1234P37">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-312-2-zits-opblaasbare-kajak-cb1234p37-34694"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="570108dca3bc936fccdfbd50a28a9e3a28d7e3aco1767893603">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-312-2-zits-opblaasbare-kajak-cb1234p37-34694">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34694/image_256/%5BGEM-00001-4-11525-312%5D%20%202-zits%20opblaasbare%20kajak%20-%20cb1234P37?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/312]  2-zits opblaasbare kajak - cb1234P37" loading="lazy"></span>
                 </a>
@@ -1733,7 +1582,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1743,7 +1592,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">36</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1769,7 +1618,7 @@ Hoeveel hamburgers ka..
                     13 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">37</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1794,7 +1643,7 @@ Hoeveel hamburgers ka..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34695" title="Kampeer artikelen - cb1235A13">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-313-kampeer-artikelen-cb1235a13-34695"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="47747fb6dd9b97786c3a95359e454b65cf009206o1767893604">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-313-kampeer-artikelen-cb1235a13-34695">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34695/image_256/%5BGEM-00001-4-11525-313%5D%20Kampeer%20artikelen%20-%20cb1235A13?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/313] Kampeer artikelen - cb1235A13" loading="lazy"></span>
                 </a>
@@ -1802,12 +1651,12 @@ Hoeveel hamburgers ka..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-12 17:35:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1817,7 +1666,7 @@ Hoeveel hamburgers ka..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1846,7 +1695,7 @@ Inclusief: 1 4-persoonstent, ..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1871,7 +1720,7 @@ Inclusief: 1 4-persoonstent, ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34698" title="Kampeer artikelen - cb1236A9">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-314-kampeer-artikelen-cb1236a9-34698"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="47747fb6dd9b97786c3a95359e454b65cf009206o1767893604">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-314-kampeer-artikelen-cb1236a9-34698">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34698/image_256/%5BGEM-00001-4-11525-314%5D%20Kampeer%20artikelen%20-%20cb1236A9?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/314] Kampeer artikelen - cb1236A9" loading="lazy"></span>
                 </a>
@@ -1879,12 +1728,12 @@ Inclusief: 1 4-persoonstent, ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-12 17:40:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1894,7 +1743,7 @@ Inclusief: 1 4-persoonstent, ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -1923,7 +1772,7 @@ Inclusief: 1 4-persoonstent, ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1948,7 +1797,7 @@ Inclusief: 1 4-persoonstent, ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34705" title="Siège enfant pour vélo - cb1241P7">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-317-siege-enfant-pour-velo-cb1241p7-34705"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="47747fb6dd9b97786c3a95359e454b65cf009206o1767893604">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-317-siege-enfant-pour-velo-cb1241p7-34705">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34705/image_256/%5BGEM-00001-4-11525-317%5D%20Si%C3%A8ge%20enfant%20pour%20v%C3%A9lo%20-%20cb1241P7?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/317] Siège enfant pour vélo - cb1241P7" loading="lazy"></span>
                 </a>
@@ -1956,12 +1805,12 @@ Inclusief: 1 4-persoonstent, ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-12 17:55:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -1971,7 +1820,7 @@ Inclusief: 1 4-persoonstent, ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2000,7 +1849,7 @@ Inclusief: 1 4-persoonstent, ..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2025,7 +1874,7 @@ Inclusief: 1 4-persoonstent, ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34706" title="Polisport - Kinderfietszitje - cb1242P9">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p9-34706"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="47747fb6dd9b97786c3a95359e454b65cf009206o1767893604">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p9-34706">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34706/image_256/%5BGEM-00001-4-11525-318%5D%20Polisport%20-%20Kinderfietszitje%20-%20cb1242P9?unique=e9927cf" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/318] Polisport - Kinderfietszitje - cb1242P9" loading="lazy"></span>
                 </a>
@@ -2033,12 +1882,12 @@ Inclusief: 1 4-persoonstent, ..
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-12 18:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">04</span>
+            <span class="days span_time_digit">03</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2048,7 +1897,7 @@ Inclusief: 1 4-persoonstent, ..
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2077,7 +1926,7 @@ Bevestigingen niet inbegrepen
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2102,7 +1951,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34816" title="CST - Fietsbanden - cb1251P42">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-327-cst-fietsbanden-cb1251p42-34816"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="47747fb6dd9b97786c3a95359e454b65cf009206o1767893604">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-327-cst-fietsbanden-cb1251p42-34816">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34816/image_256/%5BGEM-00001-4-11525-327%5D%20CST%20-%20Fietsbanden%20-%20cb1251P42?unique=5f8c86c" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/327] CST - Fietsbanden - cb1251P42" loading="lazy"></span>
                 </a>
@@ -2115,7 +1964,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2125,7 +1974,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">35</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2151,7 +2000,7 @@ Bevestigingen niet inbegrepen
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2176,7 +2025,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34238" title="Fitnessartikelen - cb1199A30">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-284-fitnessartikelen-cb1199a30-34238"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="33482b0c0d7b0277652b3fb888302bf462ea158bo1767893605">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-284-fitnessartikelen-cb1199a30-34238">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34238/image_256/%5BGEM-00001-4-11525-284%5D%20Fitnessartikelen%20-%20cb1199A30?unique=0381460" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/284] Fitnessartikelen - cb1199A30" loading="lazy"></span>
                 </a>
@@ -2189,7 +2038,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">23</span>
+            <span class="hours span_time_digit">11</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2199,7 +2048,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2225,7 +2074,7 @@ Bevestigingen niet inbegrepen
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2250,7 +2099,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34235" title="Sport- en vrijetijdsartikelen - cb1196A64">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-281-sport-en-vrijetijdsartikelen-cb1196a64-34235"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="33482b0c0d7b0277652b3fb888302bf462ea158bo1767893605">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-281-sport-en-vrijetijdsartikelen-cb1196a64-34235">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34235/image_256/%5BGEM-00001-4-11525-281%5D%20Sport-%20en%20vrijetijdsartikelen%20-%20cb1196A64?unique=20ed8a3" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/281] Sport- en vrijetijdsartikelen - cb1196A64" loading="lazy"></span>
                 </a>
@@ -2258,12 +2107,12 @@ Bevestigingen niet inbegrepen
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-13 17:35:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">05</span>
+            <span class="days span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2273,7 +2122,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">34</span>
+            <span class="seconds span_time_digit">31</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2302,7 +2151,7 @@ Bevestigingen niet inbegrepen
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2327,7 +2176,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34137" title="LITTLE TOM - Plastic balpen voor kinderspellen - GB296-P19">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-262-little-tom-plastic-balpen-voor-kinderspellen-gb296-p19-34137"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="33482b0c0d7b0277652b3fb888302bf462ea158bo1767893605">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-262-little-tom-plastic-balpen-voor-kinderspellen-gb296-p19-34137">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34137/image_256/%5BGEM-00001-4-11196-262%5D%20LITTLE%20TOM%20-%20Plastic%20balpen%20voor%20kinderspellen%20-%20GB296-P19?unique=f0a6088" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/262] LITTLE TOM - Plastic balpen voor kinderspellen - GB296-P19" loading="lazy"></span>
                 </a>
@@ -2335,12 +2184,12 @@ Bevestigingen niet inbegrepen
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-13 17:57:52" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">05</span>
+            <span class="days span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2350,7 +2199,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
+            <span class="seconds span_time_digit">23</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2379,7 +2228,7 @@ Bevestigingen niet inbegrepen
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2404,7 +2253,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-35166" title="Lot 25_10B - Poids de musculations">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12164-28-lot-25-10b-poids-de-musculations-35166"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="33482b0c0d7b0277652b3fb888302bf462ea158bo1767893605">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12164-28-lot-25-10b-poids-de-musculations-35166">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/35166/image_256/%5BBXL-00001-4-12164-28%5D%20Lot%2025_10B%20-%20Poids%20de%20musculations?unique=9de3245" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12164/28] Lot 25_10B - Poids de musculations" loading="lazy"></span>
                 </a>
@@ -2417,7 +2266,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2427,7 +2276,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">32</span>
+            <span class="seconds span_time_digit">29</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2450,10 +2299,10 @@ Bevestigingen niet inbegrepen
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/30656">
-                    0 Biedingen</a>
+                    1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2478,7 +2327,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-35163" title="Set van 2 vintage Paris-Saint-Germain Jersey - XXL - SHR31">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11787-31-set-van-2-vintage-paris-saint-germain-jersey-xxl-shr31-35163"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="33482b0c0d7b0277652b3fb888302bf462ea158bo1767893605">
+                <input type="hidden" name="csrf_token" value="9faff53b478278e7ec22c30fa15b924ae5617646o1767936808">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11787-31-set-van-2-vintage-paris-saint-germain-jersey-xxl-shr31-35163">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/35163/image_256/%5BGEM-00001-4-11787-31%5D%20Set%20van%202%20vintage%20Paris-Saint-Germain%20Jersey%20-%20XXL%20-%20SHR31?unique=775027d" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11787/31] Set van 2 vintage Paris-Saint-Germain Jersey - XXL - SHR31" loading="lazy"></span>
                 </a>
@@ -2486,12 +2335,12 @@ Bevestigingen niet inbegrepen
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-01-18 17:58:55" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">10</span>
+            <span class="days span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">00</span>
+            <span class="hours span_time_digit">12</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2501,7 +2350,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">29</span>
+            <span class="seconds span_time_digit">26</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2524,15 +2373,15 @@ Bevestigingen niet inbegrepen
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/30650">
-                    1 Biedingen</a>
+                    2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">10</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">09</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">20,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">42,00</span>
                   </b>
                 </div>
            <p></p>
@@ -2552,7 +2401,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31347" title="Lot 24_860 - Cube Travel - Elektrische mountainbike ">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-198-lot-24-860-cube-travel-elektrische-mountainbike-31347"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="25bab3cc6881495c4b4f17cb1a2931f404a0857fo1767893618">
+                <input type="hidden" name="csrf_token" value="f5276a86f4e72a88c712bbaeff62e07d2254b12ao1767936813">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-198-lot-24-860-cube-travel-elektrische-mountainbike-31347">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31347/image_256/%5BBXL-01659-7-10007-198%5D%20Lot%2024_860%20-%20Cube%20Travel%20-%20Elektrische%20mountainbike%20?unique=f62b2a5" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/198] Lot 24_860 - Cube Travel - Elektrische mountainbike " loading="lazy"></span>
                 </a>
@@ -2565,7 +2414,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2575,7 +2424,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">17</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2601,7 +2450,7 @@ Bevestigingen niet inbegrepen
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -2626,7 +2475,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-33780" title="Lot 24_941 - Set van 10 fietsen om na te kijken">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-212-lot-24-941-set-van-10-fietsen-om-na-te-kijken-33780"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="25bab3cc6881495c4b4f17cb1a2931f404a0857fo1767893618">
+                <input type="hidden" name="csrf_token" value="f5276a86f4e72a88c712bbaeff62e07d2254b12ao1767936813">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-212-lot-24-941-set-van-10-fietsen-om-na-te-kijken-33780">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/33780/image_256/%5BBXL-01659-7-10007-212%5D%20Lot%2024_941%20-%20Set%20van%2010%20fietsen%20om%20na%20te%20kijken?unique=16abca5" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/212] Lot 24_941 - Set van 10 fietsen om na te kijken" loading="lazy"></span>
                 </a>
@@ -2639,7 +2488,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">22</span>
+            <span class="hours span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -2649,7 +2498,7 @@ Bevestigingen niet inbegrepen
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">05</span>
+            <span class="seconds span_time_digit">10</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -2672,15 +2521,15 @@ Bevestigingen niet inbegrepen
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/30649">
-                    0 Biedingen</a>
+                    2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">120,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">122,00</span>
                   </b>
                 </div>
            <p></p>
@@ -2718,7 +2567,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2025-01-09T15:00:00.000Z">21 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2025-01-09T15:00:00.000Z">9 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
@@ -2761,7 +2610,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_1">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_1" class="tijdsverschil" publicationdate="2025-01-14T11:00:00.000Z">5 dagen 17 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_1" class="tijdsverschil" publicationdate="2025-01-14T11:00:00.000Z">5 dagen 5 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_1" class="col-xs-3">Agenda:</div>
@@ -2804,7 +2653,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_2">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_2" class="tijdsverschil" publicationdate="2025-01-14T14:00:00.000Z">5 dagen 20 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_2" class="tijdsverschil" publicationdate="2025-01-14T14:00:00.000Z">5 dagen 8 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_2" class="col-xs-3">Agenda:</div>
@@ -2847,7 +2696,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_3">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_3" class="tijdsverschil" publicationdate="2025-01-14T18:53:00.000Z">6 dagen 1 uur 19 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_3" class="tijdsverschil" publicationdate="2025-01-14T18:53:00.000Z">5 dagen 13 uur 19 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_3" class="col-xs-3">Agenda:</div>
@@ -2890,7 +2739,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_4">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_4" class="tijdsverschil" publicationdate="2025-01-17T15:00:00.000Z">8 dagen 21 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_4" class="tijdsverschil" publicationdate="2025-01-17T15:00:00.000Z">8 dagen 9 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_4" class="col-xs-3">Agenda:</div>
@@ -2933,7 +2782,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_5">Veiling start over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_5" class="tijdsverschil" publicationdate="2025-01-21T09:00:00.000Z">12 dagen 15 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_5" class="tijdsverschil" publicationdate="2025-01-21T09:00:00.000Z">12 dagen 3 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_5" class="col-xs-3">Agenda:</div>
@@ -2945,7 +2794,7 @@ Bevestigingen niet inbegrepen
         <title type="html"><![CDATA[Veiling Auto's \u0026 transport (FaillissementsDossier - Wagens)]]></title>
         <id>https://www.faillissementsdossier.be/veiling/124004/autos-u0026-transport.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/124004/autos-u0026-transport.aspx"/>
-        <updated>2025-01-08T17:33:44.194Z</updated>
+        <updated>2025-01-08T17:33:44.191Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_5" alt="Veiling moet nog starten" width="24" height="24"></div>
                                             <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_5" href="/veiling/124004/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>]]></content>
     </entry>
@@ -2976,7 +2825,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_6">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_6" class="tijdsverschil" publicationdate="2025-08-01T14:00:00.000Z">204 dagen 20 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_6" class="tijdsverschil" publicationdate="2025-08-01T14:00:00.000Z">204 dagen 8 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_6" class="col-xs-3">Agenda:</div>
@@ -3019,7 +2868,7 @@ Bevestigingen niet inbegrepen
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_7">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_7" class="tijdsverschil" publicationdate="2025-09-01T14:00:00.000Z">235 dagen 20 uur 26 minuten en 16 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_7" class="tijdsverschil" publicationdate="2025-09-01T14:00:00.000Z">235 dagen 8 uur 26 minuten en 22 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_7" class="col-xs-3">Agenda:</div>
