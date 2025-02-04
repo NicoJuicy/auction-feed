@@ -2,83 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-02-04T05:33:58.229Z</updated>
+    <updated>2025-02-04T17:34:44.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lot 24_1953 - Kia Sportage - Année 2022 - 120.598 km - EURO 6e]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-01795-2-12123-1-lot-24-1953-kia-sportage-annee-2022-120-598-km-euro-6e-34187</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01795-2-12123-1-lot-24-1953-kia-sportage-annee-2022-120-598-km-euro-6e-34187"/>
-        <updated>2025-01-21T17:33:52.226Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34187" title="Lot 24_1953 - Kia Sportage - Année 2022 - 120.598 km - EURO 6e">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01795-2-12123-1-lot-24-1953-kia-sportage-annee-2022-120-598-km-euro-6e-34187"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01795-2-12123-1-lot-24-1953-kia-sportage-annee-2022-120-598-km-euro-6e-34187">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34187/image_256/%5BBXL-01795-2-12123-1%5D%20Lot%2024_1953%20-%20Kia%20Sportage%20-%20Ann%C3%A9e%202022%20-%20120.598%20km%20-%20EURO%206e?unique=6197682" itemprop="image" class="img img-fluid" alt="[BXL/01795/2/12123/1] Lot 24_1953 - Kia Sportage - Année 2022 - 120.598 km - EURO 6e" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-02-04 15:05:19" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">00</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">09</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">31</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">26</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Brussel</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-01795-2-12123-1-lot-24-1953-kia-sportage-annee-2022-120-598-km-euro-6e-34187" content="Lot 24_1953 - Kia Sportage - Année 2022 - 120.598 km - EURO 6e">Lot 24_1953 - Kia Sportage - Année 2022 - 120.598 km - EURO 6e</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/31477">
-                    17 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">16.600,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lot 25_66C - Fiets materiaal]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-12213-1-lot-25-66c-fiets-materiaal-35992</id>
@@ -88,20 +14,20 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-35992" title="Lot 25_66C - Fiets materiaal">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-1-lot-25-66c-fiets-materiaal-35992"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
+                <input type="hidden" name="csrf_token" value="7ec2d64851d6f35ad4ce7f788f7501c5d63b502fo1770226477">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-1-lot-25-66c-fiets-materiaal-35992">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/35992/image_256/%5BBXL-00001-4-12213-1%5D%20Lot%2025_66C%20-%20Fiets%20materiaal?unique=e7f57a5" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/1] Lot 25_66C - Fiets materiaal" loading="lazy"></span>
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/35992/image_256/%5BBXL-00001-4-12213-1%5D%20Lot%2025_66C%20-%20Fiets%20materiaal?unique=98194f5" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/1] Lot 25_66C - Fiets materiaal" loading="lazy"></span>
                 </a>
           <div class="product_item auction_running">
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-02-05 09:56:42" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">04</span>
+            <span class="hours span_time_digit">16</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -111,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">49</span>
+            <span class="seconds span_time_digit">04</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -134,15 +60,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/31875">
-                    5 Biedingen</a>
+                    6 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">05</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">55,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">56,00</span>
                   </b>
                 </div>
            <p></p>
@@ -162,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-31678" title="Lot 24_864 - Thompson F-Snap - Elektrische vouwfiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01659-7-10007-203-lot-24-864-thompson-f-snap-elektrische-vouwfiets-31678"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
+                <input type="hidden" name="csrf_token" value="7ec2d64851d6f35ad4ce7f788f7501c5d63b502fo1770226477">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01659-7-10007-203-lot-24-864-thompson-f-snap-elektrische-vouwfiets-31678">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/31678/image_256/%5BBXL-01659-7-10007-203%5D%20Lot%2024_864%20-%20Thompson%20F-Snap%20-%20Elektrische%20vouwfiets?unique=ad1fbbd" itemprop="image" class="img img-fluid" alt="[BXL/01659/7/10007/203] Lot 24_864 - Thompson F-Snap - Elektrische vouwfiets" loading="lazy"></span>
                 </a>
@@ -170,22 +96,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-02-10 16:02:53" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
+            <span class="days span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">10</span>
+            <span class="hours span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">29</span>
+            <span class="minutes span_time_digit">28</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">00</span>
+            <span class="seconds span_time_digit">15</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -211,86 +137,12 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">01</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
                     Huidig bod €&nbsp;<span class="oe_currency_value">199,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767"/>
-        <updated>2025-02-03T17:32:39.507Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36767" title="Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36767/image_256/%5BBXL-01868-7-12263-1%5D%20Lot%2025_0056%20-%20Land%20Rover%20Range%20Rover%20Evoque%20-%20Jaar%202020%20-%20105.781%20km%20-%20EURO%206dt?unique=103071d" itemprop="image" class="img img-fluid" alt="[BXL/01868/7/12263/1] Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt" loading="lazy"></span>
-                </a>
-          <div class="product_item auction_running">
-            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-02-10 19:00:00" data-wk_auction_state="running">
-              <div class="row auction_timer">
-          <div class="col-3 text-center">
-            <span class="days span_time_digit">06</span>
-            <br>
-                        <span class="span_time_unit">Dagen</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
-            <br>
-                        <span class="span_time_unit">Uren</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="minutes span_time_digit">26</span>
-            <br>
-                        <span class="span_time_unit">Minuten</span>
-          </div>
-          <div class="col-3 text-center">
-            <span class="seconds span_time_digit">07</span>
-            <br>
-                        <span class="span_time_unit">Seconden</span>
-          </div>
-        </div>
-            </div>
-          </div>
-        <div class="product_item-warehouse">
-          <p>Finshop
-            <span class="font-weight-bold d-block">Brussel</span>
-          </p>
-        </div>
-      </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767" content="Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt">Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/32180">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">10.000,00</span>
                   </b>
                 </div>
            <p></p>
@@ -310,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34257" title="Lot 24_1980 - BMW 318 - Jaar 2020 - 116.782 km - EURO 6ei">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12126-1-lot-24-1980-bmw-318-jaar-2020-116-782-km-euro-6ei-34257"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
+                <input type="hidden" name="csrf_token" value="7ec2d64851d6f35ad4ce7f788f7501c5d63b502fo1770226477">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12126-1-lot-24-1980-bmw-318-jaar-2020-116-782-km-euro-6ei-34257">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34257/image_256/%5BBXL-00002-3-12126-1%5D%20Lot%2024_1980%20-%20BMW%20318%20-%20Jaar%202020%20-%20116.782%20km%20-%20EURO%206ei?unique=7a0dcd8" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12126/1] Lot 24_1980 - BMW 318 - Jaar 2020 - 116.782 km - EURO 6ei" loading="lazy"></span>
                 </a>
@@ -323,17 +175,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">26</span>
+            <span class="minutes span_time_digit">25</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">07</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -359,12 +211,86 @@
                     18 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
                     Huidig bod €&nbsp;<span class="oe_currency_value">12.400,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767"/>
+        <updated>2025-02-03T17:32:39.507Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36767" title="Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="7ec2d64851d6f35ad4ce7f788f7501c5d63b502fo1770226477">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36767/image_256/%5BBXL-01868-7-12263-1%5D%20Lot%2025_0056%20-%20Land%20Rover%20Range%20Rover%20Evoque%20-%20Jaar%202020%20-%20105.781%20km%20-%20EURO%206dt?unique=103071d" itemprop="image" class="img img-fluid" alt="[BXL/01868/7/12263/1] Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt" loading="lazy"></span>
+                </a>
+          <div class="product_item auction_running">
+            <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-02-10 19:00:00" data-wk_auction_state="running">
+              <div class="row auction_timer">
+          <div class="col-3 text-center">
+            <span class="days span_time_digit">06</span>
+            <br>
+                        <span class="span_time_unit">Dagen</span>
+          </div>
+          <div class="col-3 text-center">
+            <span class="hours span_time_digit">01</span>
+            <br>
+                        <span class="span_time_unit">Uren</span>
+          </div>
+          <div class="col-3 text-center">
+            <span class="minutes span_time_digit">25</span>
+            <br>
+                        <span class="span_time_unit">Minuten</span>
+          </div>
+          <div class="col-3 text-center">
+            <span class="seconds span_time_digit">22</span>
+            <br>
+                        <span class="span_time_unit">Seconden</span>
+          </div>
+        </div>
+            </div>
+          </div>
+        <div class="product_item-warehouse">
+          <p>Finshop
+            <span class="font-weight-bold d-block">Brussel</span>
+          </p>
+        </div>
+      </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-01868-7-12263-1-lot-25-0056-land-rover-range-rover-evoque-jaar-2020-105-781-km-euro-6dt-36767" content="Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt">Lot 25_0056 - Land Rover Range Rover Evoque - Jaar 2020 - 105.781 km - EURO 6dt</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/32180">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">23</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">10.000,00</span>
                   </b>
                 </div>
            <p></p>
@@ -384,7 +310,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36770" title="Lot 25_0184 - Jeep Avenger - Jaar 2024 - 35.213 km - EURO 6e">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12265-1-lot-25-0184-jeep-avenger-jaar-2024-35-213-km-euro-6e-36770"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
+                <input type="hidden" name="csrf_token" value="7ec2d64851d6f35ad4ce7f788f7501c5d63b502fo1770226477">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12265-1-lot-25-0184-jeep-avenger-jaar-2024-35-213-km-euro-6e-36770">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36770/image_256/%5BBXL-00002-3-12265-1%5D%20Lot%2025_0184%20-%20Jeep%20Avenger%20-%20Jaar%202024%20-%2035.213%20km%20-%20EURO%206e?unique=103071d" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12265/1] Lot 25_0184 - Jeep Avenger - Jaar 2024 - 35.213 km - EURO 6e" loading="lazy"></span>
                 </a>
@@ -397,17 +323,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">36</span>
+            <span class="minutes span_time_digit">35</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">07</span>
+            <span class="seconds span_time_digit">22</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -430,15 +356,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/32181">
-                    0 Biedingen</a>
+                    2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">8.000,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">8.100,00</span>
                   </b>
                 </div>
            <p></p>
@@ -458,7 +384,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-34190" title="Lot 24_1961- Audi RS 3 Sportback - Jaar 2022 - 21.619 km - EURO 6d-ISC-FCM">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12124-1-lot-24-1961-audi-rs-3-sportback-jaar-2022-21-619-km-euro-6d-isc-fcm-34190"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="6144f742c5361b00c0698a8cd01abb6c8a22f123o1770183232">
+                <input type="hidden" name="csrf_token" value="345869e919d701edb901496f4c6f31c66fda97e3o1770226478">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12124-1-lot-24-1961-audi-rs-3-sportback-jaar-2022-21-619-km-euro-6d-isc-fcm-34190">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34190/image_256/%5BBXL-00002-3-12124-1%5D%20Lot%2024_1961-%20Audi%20RS%203%20Sportback%20-%20Jaar%202022%20-%2021.619%20km%20-%20EURO%206d-ISC-FCM?unique=6197682" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12124/1] Lot 24_1961- Audi RS 3 Sportback - Jaar 2022 - 21.619 km - EURO 6d-ISC-FCM" loading="lazy"></span>
                 </a>
@@ -471,17 +397,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">41</span>
+            <span class="minutes span_time_digit">40</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">07</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -507,7 +433,7 @@
                     17 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -532,7 +458,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36771" title="Lot 25_0229 - Fiat 500 - Jaar 2018 - 47.712 km - EURO 6b">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01826-2-12266-1-lot-25-0229-fiat-500-jaar-2018-47-712-km-euro-6b-36771"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae16dbb9432003a9c5d90cc7b627b7819feb0b4bo1770183233">
+                <input type="hidden" name="csrf_token" value="345869e919d701edb901496f4c6f31c66fda97e3o1770226478">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01826-2-12266-1-lot-25-0229-fiat-500-jaar-2018-47-712-km-euro-6b-36771">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36771/image_256/%5BBXL-01826-2-12266-1%5D%20Lot%2025_0229%20-%20Fiat%20500%20-%20Jaar%202018%20-%2047.712%20km%20-%20EURO%206b?unique=103071d" itemprop="image" class="img img-fluid" alt="[BXL/01826/2/12266/1] Lot 25_0229 - Fiat 500 - Jaar 2018 - 47.712 km - EURO 6b" loading="lazy"></span>
                 </a>
@@ -545,17 +471,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">46</span>
+            <span class="minutes span_time_digit">45</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -581,7 +507,7 @@
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">45</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -598,17 +524,17 @@
                                                         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lot 25_0245 - Volkswagen T4 - Jaar 1990 - 97.305 km]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t4-jaar-1990-97-305-km-36772</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t4-jaar-1990-97-305-km-36772"/>
-        <updated>2025-02-03T17:32:39.515Z</updated>
+        <title type="html"><![CDATA[Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772"/>
+        <updated>2025-02-04T17:34:38.895Z</updated>
         <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36772" title="Lot 25_0245 - Volkswagen T4 - Jaar 1990 - 97.305 km">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t4-jaar-1990-97-305-km-36772"></a>
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36772" title="Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae16dbb9432003a9c5d90cc7b627b7819feb0b4bo1770183233">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t4-jaar-1990-97-305-km-36772">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36772/image_256/%5BBXL-00002-3-12267-1%5D%20Lot%2025_0245%20-%20Volkswagen%20T4%20-%20Jaar%201990%20-%2097.305%20km?unique=103071d" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12267/1] Lot 25_0245 - Volkswagen T4 - Jaar 1990 - 97.305 km" loading="lazy"></span>
+                <input type="hidden" name="csrf_token" value="345869e919d701edb901496f4c6f31c66fda97e3o1770226478">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36772/image_256/%5BBXL-00002-3-12267-1%5D%20Lot%2025_0245%20-%20Volkswagen%20T3%20-%20Jaar%201990%20-%2097.305%20km?unique=79caef2" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12267/1] Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km" loading="lazy"></span>
                 </a>
           <div class="product_item auction_running">
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-02-10 19:30:00" data-wk_auction_state="running">
@@ -619,17 +545,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">13</span>
+            <span class="hours span_time_digit">01</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">56</span>
+            <span class="minutes span_time_digit">55</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -645,7 +571,7 @@
             <div class="card-body p-0 o_wsale_product_information">
                 <div class="p-2 o_wsale_product_information_text">
                     <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t4-jaar-1990-97-305-km-36772" content="Lot 25_0245 - Volkswagen T4 - Jaar 1990 - 97.305 km">Lot 25_0245 - Volkswagen T4 - Jaar 1990 - 97.305 km</a>
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772" content="Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km">Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km</a>
                     </h6>
            <div class="text-info oe_subdescription" contenteditable="false">
            </div>
@@ -655,7 +581,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -680,7 +606,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36773" title="Lot 25_0246 - Alpine V6GT - Jaar 1986 - 140.760 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12267-2-lot-25-0246-alpine-v6gt-jaar-1986-140-760-km-36773"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae16dbb9432003a9c5d90cc7b627b7819feb0b4bo1770183233">
+                <input type="hidden" name="csrf_token" value="345869e919d701edb901496f4c6f31c66fda97e3o1770226478">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12267-2-lot-25-0246-alpine-v6gt-jaar-1986-140-760-km-36773">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36773/image_256/%5BBXL-00002-3-12267-2%5D%20Lot%2025_0246%20-%20Alpine%20V6GT%20-%20Jaar%201986%20-%20140.760%20km?unique=103071d" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12267/2] Lot 25_0246 - Alpine V6GT - Jaar 1986 - 140.760 km" loading="lazy"></span>
                 </a>
@@ -693,17 +619,17 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">14</span>
+            <span class="hours span_time_digit">02</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">06</span>
+            <span class="minutes span_time_digit">05</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">06</span>
+            <span class="seconds span_time_digit">21</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -729,7 +655,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
