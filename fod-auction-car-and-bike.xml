@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-05T17:34:51.816Z</updated>
+    <updated>2025-03-06T05:35:19.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-37442" title="Lot 25_167B - AMIGO vintage fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fd2ec1f37b17f222e343889a57e21f0680e3f66co1772732086">
+                <input type="hidden" name="csrf_token" value="bb26ea153f24fae5a72394d6ca6b827fa2ed0613o1772775313">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=e7a6002" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
                 </a>
@@ -27,7 +27,7 @@
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">20</span>
+            <span class="hours span_time_digit">08</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
@@ -37,7 +37,7 @@
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">36</span>
+            <span class="seconds span_time_digit">09</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -63,7 +63,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">37</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -88,7 +88,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-34185" title="Lot 24_1949 - Opel Insignia - Jaar 2010 - 226.391 km - EURO 5 ">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01651-1-12122-1-lot-24-1949-opel-insignia-jaar-2010-226-391-km-euro-5-34185"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fd2ec1f37b17f222e343889a57e21f0680e3f66co1772732086">
+                <input type="hidden" name="csrf_token" value="bb26ea153f24fae5a72394d6ca6b827fa2ed0613o1772775313">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01651-1-12122-1-lot-24-1949-opel-insignia-jaar-2010-226-391-km-euro-5-34185">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34185/image_256/%5BBXL-01651-1-12122-1%5D%20Lot%2024_1949%20-%20Opel%20Insignia%20-%20Jaar%202010%20-%20226.391%20km%20-%20EURO%205%20?unique=561b9ad" itemprop="image" class="img img-fluid" alt="[BXL/01651/1/12122/1] Lot 24_1949 - Opel Insignia - Jaar 2010 - 226.391 km - EURO 5 " loading="lazy"></span>
                 </a>
@@ -96,22 +96,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-06 19:00:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">25</span>
+            <span class="minutes span_time_digit">24</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">13</span>
+            <span class="seconds span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -137,7 +137,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -162,7 +162,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-36772" title="Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fd2ec1f37b17f222e343889a57e21f0680e3f66co1772732086">
+                <input type="hidden" name="csrf_token" value="bb26ea153f24fae5a72394d6ca6b827fa2ed0613o1772775313">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36772/image_256/%5BBXL-00002-3-12267-1%5D%20Lot%2025_0245%20-%20Volkswagen%20T3%20-%20Jaar%201990%20-%2097.305%20km?unique=757064f" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12267/1] Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km" loading="lazy"></span>
                 </a>
@@ -170,22 +170,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-06 19:10:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">35</span>
+            <span class="minutes span_time_digit">34</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">13</span>
+            <span class="seconds span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -211,7 +211,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -236,7 +236,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-37385" title="Lot 25_0376 - BMW 218 - Jaar 2020 - 66.813 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12293-1-lot-25-0376-bmw-218-jaar-2020-66-813-km-37385"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fd2ec1f37b17f222e343889a57e21f0680e3f66co1772732086">
+                <input type="hidden" name="csrf_token" value="bb26ea153f24fae5a72394d6ca6b827fa2ed0613o1772775313">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12293-1-lot-25-0376-bmw-218-jaar-2020-66-813-km-37385">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37385/image_256/%5BBXL-00002-3-12293-1%5D%20Lot%2025_0376%20-%20BMW%20218%20-%20Jaar%202020%20-%2066.813%20km?unique=403c0ca" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12293/1] Lot 25_0376 - BMW 218 - Jaar 2020 - 66.813 km" loading="lazy"></span>
                 </a>
@@ -244,22 +244,22 @@
             <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-06 19:15:00" data-wk_auction_state="running">
               <div class="row auction_timer">
           <div class="col-3 text-center">
-            <span class="days span_time_digit">01</span>
+            <span class="days span_time_digit">00</span>
             <br>
                         <span class="span_time_unit">Dagen</span>
           </div>
           <div class="col-3 text-center">
-            <span class="hours span_time_digit">01</span>
+            <span class="hours span_time_digit">13</span>
             <br>
                         <span class="span_time_unit">Uren</span>
           </div>
           <div class="col-3 text-center">
-            <span class="minutes span_time_digit">40</span>
+            <span class="minutes span_time_digit">39</span>
             <br>
                         <span class="span_time_unit">Minuten</span>
           </div>
           <div class="col-3 text-center">
-            <span class="seconds span_time_digit">13</span>
+            <span class="seconds span_time_digit">46</span>
             <br>
                         <span class="span_time_unit">Seconden</span>
           </div>
@@ -282,15 +282,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/33781">
-                    12 Biedingen</a>
+                    17 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">13.000,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">14.000,00</span>
                   </b>
                 </div>
            <p></p>
