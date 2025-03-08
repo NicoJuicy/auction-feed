@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-08T05:31:45.404Z</updated>
+    <updated>2025-03-08T18:37:50.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38665" title="GHD - 1 steps e-twow">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00495-1-12375-1-ghd-1-steps-e-twow-38665"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="82e6dc0967640dbee4d808179499df4f88156c34o1772947899">
+                <input type="hidden" name="csrf_token" value="34459eba6575e26a8de83e22e0e2a26e00adf679o1772995065">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00495-1-12375-1-ghd-1-steps-e-twow-38665">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38665/image_256/%5BBXL-00495-1-12375-1%5D%20GHD%20-%201%20steps%20e-twow?unique=5701d7a" itemprop="image" class="img img-fluid" alt="[BXL/00495/1/12375/1] GHD - 1 steps e-twow" loading="lazy"></span>
                 </a>
@@ -67,15 +67,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/34230">
-                    1 Biedingen</a>
+                    9 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">14</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">40,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">48,00</span>
                   </b>
                 </div>
            <p></p>
