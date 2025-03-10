@@ -2,93 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-09T17:31:54.129Z</updated>
+    <updated>2025-03-10T05:32:21.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Polisport - Kinderfietszitje - cb1242P5]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p5-34706</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p5-34706"/>
-        <updated>2025-03-01T05:33:40.678Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-34706" title="Polisport - Kinderfietszitje - cb1242P5">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p5-34706"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p5-34706">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/34706/image_256/%5BGEM-00001-4-11525-318%5D%20Polisport%20-%20Kinderfietszitje%20-%20cb1242P5?unique=a5ec2ce" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11525/318] Polisport - Kinderfietszitje - cb1242P5" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-09 18:35:00" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-02-26 08:03:08', 'auction_week_left': '2025-03-09 18:35:00', 'auction_start_date': '26th-Feb-2025, 08:03AM', 'auction_end_date': '09th-Mar-2025, 06:35PM', 'wk_auction': wk.website.auction(33534,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 2, 26, 8, 3, 8), 'test_end_date': datetime.datetime(2025, 3, 9, 18, 35), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-09T18:35:00Z'}">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Gembloux</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00001-4-11525-318-polisport-kinderfietszitje-cb1242p5-34706" content="Polisport - Kinderfietszitje - cb1242P5">Polisport - Kinderfietszitje - cb1242P5</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-Bevestigingen niet inbegrepen
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/33534">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">30,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Veloretti - Mini blue yonder loopfiets - cb1559P14]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-305-veloretti-mini-blue-yonder-loopfiets-cb1559p14-38303</id>
@@ -98,7 +14,7 @@ Bevestigingen niet inbegrepen
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38303" title="Veloretti - Mini blue yonder loopfiets - cb1559P14">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-305-veloretti-mini-blue-yonder-loopfiets-cb1559p14-38303"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="6e6a3ac0c4f03439d8ffe99dd7ae757811c50aeeo1773120727">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-305-veloretti-mini-blue-yonder-loopfiets-cb1559p14-38303">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38303/image_256/%5BGEM-00001-4-11798-305%5D%20Veloretti%20-%20Mini%20blue%20yonder%20loopfiets%20-%20cb1559P14?unique=ae31df0" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/305] Veloretti - Mini blue yonder loopfiets - cb1559P14" loading="lazy"></span>
                 </a>
@@ -157,7 +73,7 @@ Voor kinderen van 2-4 jaar oud
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -182,7 +98,7 @@ Voor kinderen van 2-4 jaar oud
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-32355" title="Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="6e6a3ac0c4f03439d8ffe99dd7ae757811c50aeeo1773120727">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32355/image_256/%5BBOR-00001-4-11064-8%5D%20Lot%20120%20-%20Handi%20Life%20Sport%20-%20Boccia%20Lawn%20Set%20%2B%20Boccia%20Ball%20Pick%20Up?unique=ec305c4" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11064/8] Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up" loading="lazy"></span>
                 </a>
@@ -241,7 +157,7 @@ Voor kinderen van 2-4 jaar oud
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">20</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">56</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -266,7 +182,7 @@ Voor kinderen van 2-4 jaar oud
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-36836" title="Lot 137 - Fitnessmateriaal">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="6e6a3ac0c4f03439d8ffe99dd7ae757811c50aeeo1773120727">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36836/image_256/%5BBOR-00001-4-11059-217%5D%20Lot%20137%20-%20Fitnessmateriaal?unique=f3a9b5d" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/217] Lot 137 - Fitnessmateriaal" loading="lazy"></span>
                 </a>
@@ -326,7 +242,7 @@ Versch..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">54</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -351,7 +267,7 @@ Versch..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38456" title="Yonex - Ezone 98 - Set van 2 tennisrackets niet bespannen - SHR254">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11787-254-yonex-ezone-98-set-van-2-tennisrackets-niet-bespannen-shr254-38456"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="6e6a3ac0c4f03439d8ffe99dd7ae757811c50aeeo1773120727">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11787-254-yonex-ezone-98-set-van-2-tennisrackets-niet-bespannen-shr254-38456">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38456/image_256/%5BGEM-00001-4-11787-254%5D%20Yonex%20-%20Ezone%2098%20-%20Set%20van%202%20tennisrackets%20niet%20bespannen%20-%20SHR254?unique=94ce608" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11787/254] Yonex - Ezone 98 - Set van 2 tennisrackets niet bespannen - SHR254" loading="lazy"></span>
                 </a>
@@ -407,7 +323,7 @@ Versch..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -432,7 +348,7 @@ Versch..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38319" title="Kipsta - Klassiek voetbaldoel M - cb1574A108">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-320-kipsta-klassiek-voetbaldoel-m-cb1574a108-38319"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="6e6a3ac0c4f03439d8ffe99dd7ae757811c50aeeo1773120727">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-320-kipsta-klassiek-voetbaldoel-m-cb1574a108-38319">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38319/image_256/%5BGEM-00001-4-11798-320%5D%20Kipsta%20-%20Klassiek%20voetbaldoel%20M%20-%20cb1574A108?unique=348d6ab" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/320] Kipsta - Klassiek voetbaldoel M - cb1574A108" loading="lazy"></span>
                 </a>
@@ -491,7 +407,7 @@ Versch..
                     5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -516,7 +432,7 @@ Versch..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38631" title="Lot 25_269C - FZ FORZA 2 Badmintonrackets + 2 Dozen Vogels.">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-172-lot-25-269c-fz-forza-2-badmintonrackets-2-dozen-vogels-38631"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-172-lot-25-269c-fz-forza-2-badmintonrackets-2-dozen-vogels-38631">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38631/image_256/%5BBXL-00001-4-12213-172%5D%20Lot%2025_269C%20-%20FZ%20FORZA%202%20Badmintonrackets%20%2B%202%20Dozen%20Vogels.?unique=8b535dc" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/172] Lot 25_269C - FZ FORZA 2 Badmintonrackets + 2 Dozen Vogels." loading="lazy"></span>
                 </a>
@@ -572,7 +488,7 @@ Versch..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -597,7 +513,7 @@ Versch..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38626" title="Lot 25_261B -INESIS Golftas + 49 Ballen">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-168-lot-25-261b-inesis-golftas-49-ballen-38626"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-168-lot-25-261b-inesis-golftas-49-ballen-38626">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38626/image_256/%5BBXL-00001-4-12213-168%5D%20Lot%2025_261B%20-INESIS%20Golftas%20%2B%2049%20Ballen?unique=8b535dc" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/168] Lot 25_261B -INESIS Golftas + 49 Ballen" loading="lazy"></span>
                 </a>
@@ -653,7 +569,7 @@ Versch..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">16</span><span class="span_time_unit">h. </span><span class="span_time_digit">02</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">04</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -678,7 +594,7 @@ Versch..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38544" title="Lot 25_247D - Tapis roulant KingSmith">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12164-183-lot-25-247d-tapis-roulant-kingsmith-38544"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12164-183-lot-25-247d-tapis-roulant-kingsmith-38544">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38544/image_256/%5BBXL-00001-4-12164-183%5D%20Lot%2025_247D%20-%20Tapis%20roulant%20KingSmith?unique=352ed14" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12164/183] Lot 25_247D - Tapis roulant KingSmith" loading="lazy"></span>
                 </a>
@@ -734,7 +650,7 @@ Versch..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">18</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">06</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">13</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -759,7 +675,7 @@ Versch..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38408" title="Lot 182 - Divers lot gezelschapsspelen">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11058-172-lot-182-divers-lot-gezelschapsspelen-38408"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="42c1871d7f9fe496e625be094cdd4fa337aececco1773077501">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11058-172-lot-182-divers-lot-gezelschapsspelen-38408">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38408/image_256/%5BBOR-00001-4-11058-172%5D%20Lot%20182%20-%20Divers%20lot%20gezelschapsspelen?unique=0105b55" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11058/172] Lot 182 - Divers lot gezelschapsspelen" loading="lazy"></span>
                 </a>
@@ -819,7 +735,7 @@ V..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">14</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -844,7 +760,7 @@ V..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-36315" title="Accessoires voor persoonlijke verzorging, gezondheid en massage - GB469-A57">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-440-accessoires-voor-persoonlijke-verzorging-gezondheid-en-massage-gb469-a57-36315"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="40c3bcda83dc2e868d35f3e98b4fce7bd862ccd9o1773077502">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-440-accessoires-voor-persoonlijke-verzorging-gezondheid-en-massage-gb469-a57-36315">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36315/image_256/%5BGEM-00001-4-11196-440%5D%20Accessoires%20voor%20persoonlijke%20verzorging%2C%20gezondheid%20en%20massage%20-%20GB469-A57?unique=02fc6eb" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/440] Accessoires voor persoonlijke verzorging, gezondheid en massage - GB469-A57" loading="lazy"></span>
                 </a>
@@ -903,7 +819,7 @@ V..
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">37</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -928,7 +844,7 @@ V..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-36441" title="INESIS - Set van 9 golfclubs met draagtas - DD518-Z">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11753-3-inesis-set-van-9-golfclubs-met-draagtas-dd518-z-36441"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="40c3bcda83dc2e868d35f3e98b4fce7bd862ccd9o1773077502">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11753-3-inesis-set-van-9-golfclubs-met-draagtas-dd518-z-36441">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36441/image_256/%5BGEM-00002-3-11753-3%5D%20INESIS%20-%20Set%20van%209%20golfclubs%20met%20draagtas%20-%20DD518-Z?unique=d423cbc" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11753/3] INESIS - Set van 9 golfclubs met draagtas - DD518-Z" loading="lazy"></span>
                 </a>
@@ -987,7 +903,7 @@ V..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1012,7 +928,7 @@ V..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-36439" title="Set van 2 fietsen - DD516-Z">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="40c3bcda83dc2e868d35f3e98b4fce7bd862ccd9o1773077502">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36439/image_256/%5BGEM-00002-3-11753-1%5D%20Set%20van%202%20fietsen%20-%20DD516-Z?unique=fc807f4" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11753/1] Set van 2 fietsen - DD516-Z" loading="lazy"></span>
                 </a>
@@ -1072,7 +988,7 @@ Een ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">01</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1097,7 +1013,7 @@ Een ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38735" title="Jack Milles - Set van 3 koffers zwart - Bru£GR173">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11786-173-jack-milles-set-van-3-koffers-zwart-brugr173-38735"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="40c3bcda83dc2e868d35f3e98b4fce7bd862ccd9o1773077502">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11786-173-jack-milles-set-van-3-koffers-zwart-brugr173-38735">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38735/image_256/%5BGEM-00001-4-11786-173%5D%20Jack%20Milles%20-%20Set%20van%203%20koffers%20zwart%20-%20Bru%C2%A3GR173?unique=a8b282d" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11786/173] Jack Milles - Set van 3 koffers zwart - Bru£GR173" loading="lazy"></span>
                 </a>
@@ -1153,7 +1069,7 @@ Een ..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">17</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">05</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1178,7 +1094,7 @@ Een ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-38559" title="Deethlon - Quechua Camping Opblaasbare tent -4 personen- Air Seconds - BruGR154">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11786-154-deethlon-quechua-camping-opblaasbare-tent-4-personen-air-seconds-brugr154-38559"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="40c3bcda83dc2e868d35f3e98b4fce7bd862ccd9o1773077502">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11786-154-deethlon-quechua-camping-opblaasbare-tent-4-personen-air-seconds-brugr154-38559">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38559/image_256/%5BGEM-00001-4-11786-154%5D%20Deethlon%20-%20Quechua%20Camping%20Opblaasbare%20tent%20-4%20personen-%20Air%20Seconds%20-%20BruGR154?unique=a8b282d" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11786/154] Deethlon - Quechua Camping Opblaasbare tent -4 personen- Air Seconds - BruGR154" loading="lazy"></span>
                 </a>
@@ -1231,15 +1147,15 @@ Een ..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/33991">
-                    2 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">43</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">152,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">154,00</span>
                   </b>
                 </div>
            <p></p>
@@ -1259,7 +1175,7 @@ Een ..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="https://schema.org/Product" data-publish="on" id="product-36297" title="Wittchen - koffer- BruGR">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11786-65-wittchen-koffer-brugr-36297"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="40c3bcda83dc2e868d35f3e98b4fce7bd862ccd9o1773077502">
+                <input type="hidden" name="csrf_token" value="09616f1d20283d714e946d75757f2e3e0dc6a0c3o1773120728">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11786-65-wittchen-koffer-brugr-36297">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36297/image_256/%5BGEM-00001-4-11786-65%5D%20Wittchen%20-%20koffer-%20BruGR?unique=e8a33ff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11786/65] Wittchen - koffer- BruGR" loading="lazy"></span>
                 </a>
@@ -1315,7 +1231,7 @@ Een ..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">21</span><span class="span_time_unit">h. </span><span class="span_time_digit">23</span><span class="span_time_unit">m. </span><span class="span_time_digit">18</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">09</span><span class="span_time_unit">h. </span><span class="span_time_digit">22</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
