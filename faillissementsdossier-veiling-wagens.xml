@@ -2,67 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/</id>
     <title>FaillissementsDossier - Wagens</title>
-    <updated>2025-03-12T17:34:34.964Z</updated>
+    <updated>2025-03-13T05:35:10.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.faillissementsdossier.be/favicon.gif</icon>
-    <entry>
-        <title type="html"><![CDATA[Veiling Auto's \u0026 transport]]></title>
-        <id>https://www.faillissementsdossier.be/veiling/125556/autos-u0026-transport.aspx</id>
-        <link href="https://www.faillissementsdossier.be/veiling/125556/autos-u0026-transport.aspx"/>
-        <updated>2025-03-06T17:33:56.253Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125556/autos-u0026-transport.aspx" id="cpContent_rpVeilingen_hypAfbeelding_0">
-                                            <img src="/documenten/veilingen/autos-u0026-transport_125556.png" id="cpContent_rpVeilingen_imgContentImage_0" alt="Online veiling Auto's \u0026 transport" class="img-responsive">
-                                                
-                                        </a>
-                                    </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_0" class="col-xs-9 cc" onclick="document.location.href='/veiling/125556/autos-u0026-transport.aspx';return false;">
-                                        <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/125556/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>
-                                        </div>
-                                        <div class="bm"><p></p></div>
-                                        <div class="row bmxs">
-                                            <div class="col-xs-3">Locatie:</div>
-                                            <div class="col-xs-7">Lokeren&nbsp;</div>
-                                        </div>
-                                        <div class="row bmxs">
-                                            <div class="col-xs-3">Veilinghuis:</div>
-                                            <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
-                                        </div>
-                                        <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2025-03-12T19:00:00.000Z">1 uur 25 minuten en 26 seconden</span></div>
-                                        </div>
-                                        <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_0" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_0" class="calendarsimple" href="/nl/veilingkalender/125556/autos-u0026-transport.aspx">Voeg toe aan mijn agenda</a></div>
-                                        </div>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veiling Auto's \u0026 transport]]></title>
-        <id>https://www.faillissementsdossier.be/veiling/125556/autos-u0026-transport.aspx</id>
-        <link href="https://www.faillissementsdossier.be/veiling/125556/autos-u0026-transport.aspx"/>
-        <updated>2025-03-06T17:33:56.253Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/125556/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen]]></title>
         <id>https://www.faillissementsdossier.be/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx"/>
         <updated>2025-03-04T17:34:05.231Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx" id="cpContent_rpVeilingen_hypAfbeelding_1">
-                                            <img src="/images/veilinghuizen/12.jpg" id="cpContent_rpVeilingen_imgContentImage_1" alt="Online veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen" class="img-responsive">
+                                        <a href="/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx" id="cpContent_rpVeilingen_hypAfbeelding_0">
+                                            <img src="/images/veilinghuizen/12.jpg" id="cpContent_rpVeilingen_imgContentImage_0" alt="Online veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_1" class="col-xs-9 cc" onclick="document.location.href='/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_0" class="col-xs-9 cc" onclick="document.location.href='/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_1" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_1" href="/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx">Veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx">Veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Forklift available on site</p></div>
                                         <div class="row bmxs">
@@ -74,12 +31,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_1">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_1" class="tijdsverschil" publicationdate="2025-03-14T13:00:00.000Z">1 dagen 19 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_0">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_0" class="tijdsverschil" publicationdate="2025-03-14T13:00:00.000Z">1 dagen 7 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_1" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_1" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_1" class="calendarsimple" href="/nl/veilingkalender/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_0" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_0" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_0" class="calendarsimple" href="/nl/veilingkalender/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -88,8 +45,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx"/>
         <updated>2025-03-04T17:34:05.231Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_1" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_1" href="/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx">Veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_0" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_0" href="/veiling/125461/graafmachine-7ton-heftruck-4-vrachtwagens-en-voertuigen.aspx">Veiling Graafmachine, 7ton heftruck, 4 vrachtwagens en voertuigen</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Containers, rekken \u0026 aanhangwagens]]></title>
@@ -97,15 +54,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx"/>
         <updated>2025-03-04T17:34:05.234Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx" id="cpContent_rpVeilingen_hypAfbeelding_2">
-                                            <img src="/documenten/veilingen/containers-rekken-u0026-aanhangwagens_125462.png" id="cpContent_rpVeilingen_imgContentImage_2" alt="Online veiling Containers, rekken \u0026 aanhangwagens" class="img-responsive">
+                                        <a href="/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx" id="cpContent_rpVeilingen_hypAfbeelding_1">
+                                            <img src="/documenten/veilingen/containers-rekken-u0026-aanhangwagens_125462.png" id="cpContent_rpVeilingen_imgContentImage_1" alt="Online veiling Containers, rekken \u0026 aanhangwagens" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_2" class="col-xs-9 cc" onclick="document.location.href='/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_1" class="col-xs-9 cc" onclick="document.location.href='/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_2" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_2" href="/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx">Veiling Containers, rekken \u0026 aanhangwagens</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_1" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_1" href="/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx">Veiling Containers, rekken \u0026 aanhangwagens</a></h2></div>
                                         </div>
                                         <div class="bm"><p></p></div>
                                         <div class="row bmxs">
@@ -117,12 +74,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_2">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_2" class="tijdsverschil" publicationdate="2025-03-14T14:00:00.000Z">1 dagen 20 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_1">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_1" class="tijdsverschil" publicationdate="2025-03-14T14:00:00.000Z">1 dagen 8 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_2" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_2" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_2" class="calendarsimple" href="/nl/veilingkalender/125462/containers-rekken-u0026-aanhangwagens.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_1" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_1" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_1" class="calendarsimple" href="/nl/veilingkalender/125462/containers-rekken-u0026-aanhangwagens.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -131,8 +88,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx"/>
         <updated>2025-03-04T17:34:05.234Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_2" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_2" href="/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx">Veiling Containers, rekken \u0026 aanhangwagens</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_1" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_1" href="/veiling/125462/containers-rekken-u0026-aanhangwagens.aspx">Veiling Containers, rekken \u0026 aanhangwagens</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers]]></title>
@@ -140,15 +97,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx"/>
         <updated>2025-03-05T05:35:09.719Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx" id="cpContent_rpVeilingen_hypAfbeelding_3">
-                                            <img src="/documenten/veilingen/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers_125222.png" id="cpContent_rpVeilingen_imgContentImage_3" alt="Online veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers" class="img-responsive">
+                                        <a href="/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx" id="cpContent_rpVeilingen_hypAfbeelding_2">
+                                            <img src="/documenten/veilingen/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers_125222.png" id="cpContent_rpVeilingen_imgContentImage_2" alt="Online veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_3" class="col-xs-9 cc" onclick="document.location.href='/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_2" class="col-xs-9 cc" onclick="document.location.href='/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_3" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_3" href="/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx">Veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_2" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_2" href="/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx">Veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Online veiling van Powerscreen H6203 mobiele zeefinstallatie, Volvo container vrachtwagen, Granalu kipper, Terex Finlay mobiele zeefinstallatie, Potain torenkraan, L-mix250 mobiele breekinstallatie, Omig breekinstallatie, Cam am RS-S spider driewieler, Klaas pannenlift, Kobachi sneeuwruimers, zeecontainers, betonmixers, GFT zeefinstallatie, optrekcontainers, stalen constructie, Caterpillar dieselmotor, mobiele weegbrug,...</p></div>
                                         <div class="row bmxs">
@@ -160,12 +117,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_3">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_3" class="tijdsverschil" publicationdate="2025-03-18T14:00:00.000Z">5 dagen 20 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_2">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_2" class="tijdsverschil" publicationdate="2025-03-18T14:00:00.000Z">5 dagen 8 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_3" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_3" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_3" class="calendarsimple" href="/nl/veilingkalender/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_2" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_2" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_2" class="calendarsimple" href="/nl/veilingkalender/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -174,8 +131,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx"/>
         <updated>2025-03-05T05:35:09.719Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_3" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_3" href="/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx">Veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_2" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_2" href="/veiling/125222/mobiele-zeefinstallaties-rollend-materieel-mobiele-breekinstallaties-en-containers.aspx">Veiling Mobiele zeefinstallaties, rollend materieel, mobiele breekinstallaties en containers</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Auto's \u0026 transport]]></title>
@@ -183,15 +140,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125531/autos-u0026-transport.aspx"/>
         <updated>2025-03-05T17:34:51.127Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125531/autos-u0026-transport.aspx" id="cpContent_rpVeilingen_hypAfbeelding_4">
-                                            <img src="/documenten/veilingen/autos-u0026-transport_125531.png" id="cpContent_rpVeilingen_imgContentImage_4" alt="Online veiling Auto's \u0026 transport" class="img-responsive">
+                                        <a href="/veiling/125531/autos-u0026-transport.aspx" id="cpContent_rpVeilingen_hypAfbeelding_3">
+                                            <img src="/documenten/veilingen/autos-u0026-transport_125531.png" id="cpContent_rpVeilingen_imgContentImage_3" alt="Online veiling Auto's \u0026 transport" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_4" class="col-xs-9 cc" onclick="document.location.href='/veiling/125531/autos-u0026-transport.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_3" class="col-xs-9 cc" onclick="document.location.href='/veiling/125531/autos-u0026-transport.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_4" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_4" href="/veiling/125531/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_3" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_3" href="/veiling/125531/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>
                                         </div>
                                         <div class="bm"><p></p></div>
                                         <div class="row bmxs">
@@ -203,12 +160,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_4">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_4" class="tijdsverschil" publicationdate="2025-03-18T18:00:00.000Z">6 dagen 0 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_3">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_3" class="tijdsverschil" publicationdate="2025-03-18T18:00:00.000Z">5 dagen 12 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_4" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_4" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_4" class="calendarsimple" href="/nl/veilingkalender/125531/autos-u0026-transport.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_3" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_3" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_3" class="calendarsimple" href="/nl/veilingkalender/125531/autos-u0026-transport.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -217,8 +174,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125531/autos-u0026-transport.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125531/autos-u0026-transport.aspx"/>
         <updated>2025-03-05T17:34:51.127Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_4" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_4" href="/veiling/125531/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_3" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_3" href="/veiling/125531/autos-u0026-transport.aspx">Veiling Auto's \u0026 transport</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens]]></title>
@@ -226,15 +183,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx"/>
         <updated>2025-03-12T17:34:34.170Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx" id="cpContent_rpVeilingen_hypAfbeelding_5">
-                                            <img src="/images/veilinghuizen/3.jpg" id="cpContent_rpVeilingen_imgContentImage_5" alt="Online veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens" class="img-responsive">
+                                        <a href="/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx" id="cpContent_rpVeilingen_hypAfbeelding_4">
+                                            <img src="/images/veilinghuizen/3.jpg" id="cpContent_rpVeilingen_imgContentImage_4" alt="Online veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_5" class="col-xs-9 cc" onclick="document.location.href='/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_4" class="col-xs-9 cc" onclick="document.location.href='/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_5" alt="Veiling moet nog starten" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_5" href="/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx">Veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_4" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_4" href="/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx">Veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Verzamelveiling van verschillende goederen, week 12. Zelf uw machines verkopen via deze veiling, contacteer ons via www.veilenmettroostwijk.be</p></div>
                                         <div class="row bmxs">
@@ -246,12 +203,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_5">Veiling start over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_5" class="tijdsverschil" publicationdate="2025-03-12T19:30:00.000Z">1 uur 55 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_4">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_4" class="tijdsverschil" publicationdate="2025-03-19T14:00:00.000Z">6 dagen 8 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_5" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_5" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_5" class="calendarsimple" href="/nl/veilingkalender/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_4" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_4" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_4" class="calendarsimple" href="/nl/veilingkalender/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -259,9 +216,9 @@
         <title type="html"><![CDATA[Veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens]]></title>
         <id>https://www.faillissementsdossier.be/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx"/>
-        <updated>2025-03-12T17:34:34.171Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_5" alt="Veiling moet nog starten" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_5" href="/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx">Veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens</a></h2></div>]]></content>
+        <updated>2025-03-12T17:34:34.170Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_4" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_4" href="/veiling/125725/weekveiling-autos-trucks-trailers-en-aanhangwagens.aspx">Veiling Weekveiling: Auto's, trucks, trailers en aanhangwagens</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Auto onderdelen \u0026 werkkledij]]></title>
@@ -269,15 +226,58 @@
         <link href="https://www.faillissementsdossier.be/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx"/>
         <updated>2025-03-10T17:34:26.583Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx" id="cpContent_rpVeilingen_hypAfbeelding_6">
-                                            <img src="/documenten/veilingen/auto-onderdelen-u0026-werkkledij_125648.png" id="cpContent_rpVeilingen_imgContentImage_6" alt="Online veiling Auto onderdelen \u0026 werkkledij" class="img-responsive">
+                                        <a href="/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx" id="cpContent_rpVeilingen_hypAfbeelding_5">
+                                            <img src="/documenten/veilingen/auto-onderdelen-u0026-werkkledij_125648.png" id="cpContent_rpVeilingen_imgContentImage_5" alt="Online veiling Auto onderdelen \u0026 werkkledij" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_6" class="col-xs-9 cc" onclick="document.location.href='/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_5" class="col-xs-9 cc" onclick="document.location.href='/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx';return false;">
+                                        <div class="row bm">
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_5" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_5" href="/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx">Veiling Auto onderdelen \u0026 werkkledij</a></h2></div>
+                                        </div>
+                                        <div class="bm"><p></p></div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3">Locatie:</div>
+                                            <div class="col-xs-7">Lokeren&nbsp;</div>
+                                        </div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3">Veilinghuis:</div>
+                                            <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
+                                        </div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_5">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_5" class="tijdsverschil" publicationdate="2025-03-21T15:00:00.000Z">8 dagen 9 uur 24 minuten en 50 seconden</span></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="cpContent_rpVeilingen_divKalender_5" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_5" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_5" class="calendarsimple" href="/nl/veilingkalender/125648/auto-onderdelen-u0026-werkkledij.aspx">Voeg toe aan mijn agenda</a></div>
+                                        </div>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veiling Auto onderdelen \u0026 werkkledij]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx"/>
+        <updated>2025-03-10T17:34:26.583Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_5" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_5" href="/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx">Veiling Auto onderdelen \u0026 werkkledij</a></h2></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veiling Auto onderdelen, gereedschappen \u0026 werkkledij]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx"/>
+        <updated>2025-03-11T17:34:36.870Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-3">
+                                        <a href="/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx" id="cpContent_rpVeilingen_hypAfbeelding_6">
+                                            <img src="/documenten/veilingen/auto-onderdelen-gereedschappen-u0026-werkkledij_125686.png" id="cpContent_rpVeilingen_imgContentImage_6" alt="Online veiling Auto onderdelen, gereedschappen \u0026 werkkledij" class="img-responsive">
+                                                
+                                        </a>
+                                    </div>
+                                    <div id="cpContent_rpVeilingen_divCtr_6" class="col-xs-9 cc" onclick="document.location.href='/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx';return false;">
                                         <div class="row bm">
                                             <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_6" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_6" href="/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx">Veiling Auto onderdelen \u0026 werkkledij</a></h2></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_6" href="/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx">Veiling Auto onderdelen, gereedschappen \u0026 werkkledij</a></h2></div>
                                         </div>
                                         <div class="bm"><p></p></div>
                                         <div class="row bmxs">
@@ -290,64 +290,21 @@
                                         </div>
                                         <div class="row bmxs">
                                             <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_6">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_6" class="tijdsverschil" publicationdate="2025-03-21T15:00:00.000Z">8 dagen 21 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_6" class="tijdsverschil" publicationdate="2025-03-21T15:00:00.000Z">8 dagen 9 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
                                             <div id="cpContent_rpVeilingen_divKalender_6" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_6" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_6" class="calendarsimple" href="/nl/veilingkalender/125648/auto-onderdelen-u0026-werkkledij.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_6" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_6" class="calendarsimple" href="/nl/veilingkalender/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Veiling Auto onderdelen \u0026 werkkledij]]></title>
-        <id>https://www.faillissementsdossier.be/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx</id>
-        <link href="https://www.faillissementsdossier.be/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx"/>
-        <updated>2025-03-10T17:34:26.583Z</updated>
+        <title type="html"><![CDATA[Veiling Auto onderdelen, gereedschappen \u0026 werkkledij]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx"/>
+        <updated>2025-03-11T17:34:36.870Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_6" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_6" href="/veiling/125648/auto-onderdelen-u0026-werkkledij.aspx">Veiling Auto onderdelen \u0026 werkkledij</a></h2></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veiling Auto onderdelen, gereedschappen \u0026 werkkledij]]></title>
-        <id>https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx</id>
-        <link href="https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx"/>
-        <updated>2025-03-11T17:34:36.870Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx" id="cpContent_rpVeilingen_hypAfbeelding_7">
-                                            <img src="/documenten/veilingen/auto-onderdelen-gereedschappen-u0026-werkkledij_125686.png" id="cpContent_rpVeilingen_imgContentImage_7" alt="Online veiling Auto onderdelen, gereedschappen \u0026 werkkledij" class="img-responsive">
-                                                
-                                        </a>
-                                    </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_7" class="col-xs-9 cc" onclick="document.location.href='/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx';return false;">
-                                        <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_7" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_7" href="/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx">Veiling Auto onderdelen, gereedschappen \u0026 werkkledij</a></h2></div>
-                                        </div>
-                                        <div class="bm"><p></p></div>
-                                        <div class="row bmxs">
-                                            <div class="col-xs-3">Locatie:</div>
-                                            <div class="col-xs-7">Lokeren&nbsp;</div>
-                                        </div>
-                                        <div class="row bmxs">
-                                            <div class="col-xs-3">Veilinghuis:</div>
-                                            <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
-                                        </div>
-                                        <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_7">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_7" class="tijdsverschil" publicationdate="2025-03-21T15:00:00.000Z">8 dagen 21 uur 25 minuten en 26 seconden</span></div>
-                                        </div>
-                                        <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_7" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_7" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_7" class="calendarsimple" href="/nl/veilingkalender/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx">Voeg toe aan mijn agenda</a></div>
-                                        </div>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veiling Auto onderdelen, gereedschappen \u0026 werkkledij]]></title>
-        <id>https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx</id>
-        <link href="https://www.faillissementsdossier.be/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx"/>
-        <updated>2025-03-11T17:34:36.870Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_7" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_7" href="/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx">Veiling Auto onderdelen, gereedschappen \u0026 werkkledij</a></h2></div>]]></content>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_6" href="/veiling/125686/auto-onderdelen-gereedschappen-u0026-werkkledij.aspx">Veiling Auto onderdelen, gereedschappen \u0026 werkkledij</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz.]]></title>
@@ -355,15 +312,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx"/>
         <updated>2025-03-12T17:34:34.180Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx" id="cpContent_rpVeilingen_hypAfbeelding_8">
-                                            <img src="/images/auction-hammer.jpg" id="cpContent_rpVeilingen_imgContentImage_8" alt="Online veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz." class="img-responsive">
+                                        <a href="/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx" id="cpContent_rpVeilingen_hypAfbeelding_7">
+                                            <img src="/images/auction-hammer.jpg" id="cpContent_rpVeilingen_imgContentImage_7" alt="Online veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz." class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_8" class="col-xs-9 cc" onclick="document.location.href='/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_7" class="col-xs-9 cc" onclick="document.location.href='/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_8" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_8" href="/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx">Veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz.</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_7" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_7" href="/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx">Veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz.</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Minibus Suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, SUV Mercedes ML 320 cdi, plooifiets enz.</p></div>
                                         <div class="row bmxs">
@@ -375,12 +332,12 @@
                                             <div class="col-xs-7">Vlaamse Veilingmaatschappij&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_8">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_8" class="tijdsverschil" publicationdate="2025-03-21T18:00:00.000Z">9 dagen 0 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_7">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_7" class="tijdsverschil" publicationdate="2025-03-21T18:00:00.000Z">8 dagen 12 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_8" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_8" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_8" class="calendarsimple" href="/nl/veilingkalender/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_7" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_7" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_7" class="calendarsimple" href="/nl/veilingkalender/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -388,9 +345,9 @@
         <title type="html"><![CDATA[Veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz.]]></title>
         <id>https://www.faillissementsdossier.be/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx"/>
-        <updated>2025-03-12T17:34:34.183Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_8" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_8" href="/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx">Veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz.</a></h2></div>]]></content>
+        <updated>2025-03-12T17:34:34.180Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_7" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_7" href="/veiling/125738/minibus-suzuki-lichte-vrachtwagen-voor-onderdelen-div-bromfietsen-scooter-suv-mercedes-ml-320-cdi-plooifiets-enz.aspx">Veiling Minibus suzuki, lichte vrachtwagen voor onderdelen, div. bromfietsen, scooter, suv mercedes ml 320 cdi, plooifiets enz.</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Foodtruck en horecamaterialen wegens vereffening]]></title>
@@ -398,15 +355,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx"/>
         <updated>2025-03-11T17:34:36.873Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx" id="cpContent_rpVeilingen_hypAfbeelding_9">
-                                            <img src="/documenten/veilingen/foodtruck-en-horecamaterialen-wegens-vereffening_125687.png" id="cpContent_rpVeilingen_imgContentImage_9" alt="Online veiling Foodtruck en horecamaterialen wegens vereffening" class="img-responsive">
+                                        <a href="/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx" id="cpContent_rpVeilingen_hypAfbeelding_8">
+                                            <img src="/documenten/veilingen/foodtruck-en-horecamaterialen-wegens-vereffening_125687.png" id="cpContent_rpVeilingen_imgContentImage_8" alt="Online veiling Foodtruck en horecamaterialen wegens vereffening" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_9" class="col-xs-9 cc" onclick="document.location.href='/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_8" class="col-xs-9 cc" onclick="document.location.href='/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_9" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_9" href="/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx">Veiling Foodtruck en horecamaterialen wegens vereffening</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_8" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_8" href="/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx">Veiling Foodtruck en horecamaterialen wegens vereffening</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Online verkoop van Foodtruck en horecamaterialen wegens vereffening.\nMet ondermeer: 1 Goliath Food-caravan, Caterchef toaster, Krampouz grillplaat, Caterchef au-bain-marie , Saladette GGM Gastro, vrieskoffers Liebherr en Zanussi, Enduro caravan-mover, Foca container, enzovoort.\nIn opdracht van belanghebbende.\n</p></div>
                                         <div class="row bmxs">
@@ -418,12 +375,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_9">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_9" class="tijdsverschil" publicationdate="2025-03-24T14:00:00.000Z">11 dagen 20 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_8">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_8" class="tijdsverschil" publicationdate="2025-03-24T14:00:00.000Z">11 dagen 8 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_9" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_9" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_9" class="calendarsimple" href="/nl/veilingkalender/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_8" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_8" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_8" class="calendarsimple" href="/nl/veilingkalender/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -432,8 +389,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx"/>
         <updated>2025-03-11T17:34:36.873Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_9" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_9" href="/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx">Veiling Foodtruck en horecamaterialen wegens vereffening</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_8" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_8" href="/veiling/125687/foodtruck-en-horecamaterialen-wegens-vereffening.aspx">Veiling Foodtruck en horecamaterialen wegens vereffening</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Diverse voertuigen wegens faillissement]]></title>
@@ -441,15 +398,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx"/>
         <updated>2025-03-06T17:33:56.304Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx" id="cpContent_rpVeilingen_hypAfbeelding_10">
-                                            <img src="/documenten/veilingen/diverse-voertuigen-wegens-faillissement_125559.png" id="cpContent_rpVeilingen_imgContentImage_10" alt="Online veiling Diverse voertuigen wegens faillissement" class="img-responsive">
+                                        <a href="/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx" id="cpContent_rpVeilingen_hypAfbeelding_9">
+                                            <img src="/documenten/veilingen/diverse-voertuigen-wegens-faillissement_125559.png" id="cpContent_rpVeilingen_imgContentImage_9" alt="Online veiling Diverse voertuigen wegens faillissement" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_10" class="col-xs-9 cc" onclick="document.location.href='/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_9" class="col-xs-9 cc" onclick="document.location.href='/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_10" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_10" href="/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx">Veiling Diverse voertuigen wegens faillissement</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_9" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_9" href="/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx">Veiling Diverse voertuigen wegens faillissement</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Online verkoop van diverse voertuigen uit faillissement zijnde Volvo XC60, Daewoo Laganza, Mercedes Sprinter en Peugeot 208, i.o.v. curatoren B. Dehandschutter, I. Van de Mierop, M. Verraes en M. Bentein</p></div>
                                         <div class="row bmxs">
@@ -461,12 +418,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_10">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_10" class="tijdsverschil" publicationdate="2025-03-24T15:00:00.000Z">11 dagen 21 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_9">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_9" class="tijdsverschil" publicationdate="2025-03-24T15:00:00.000Z">11 dagen 9 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_10" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_10" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_10" class="calendarsimple" href="/nl/veilingkalender/125559/diverse-voertuigen-wegens-faillissement.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_9" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_9" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_9" class="calendarsimple" href="/nl/veilingkalender/125559/diverse-voertuigen-wegens-faillissement.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -475,8 +432,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx"/>
         <updated>2025-03-06T17:33:56.304Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_10" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_10" href="/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx">Veiling Diverse voertuigen wegens faillissement</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_9" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_9" href="/veiling/125559/diverse-voertuigen-wegens-faillissement.aspx">Veiling Diverse voertuigen wegens faillissement</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Aannemersmaterialen en rollend materiaal]]></title>
@@ -484,15 +441,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx"/>
         <updated>2025-03-05T17:34:51.130Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx" id="cpContent_rpVeilingen_hypAfbeelding_11">
-                                            <img src="/documenten/veilingen/aannemersmaterialen-en-rollend-materiaal_125532.png" id="cpContent_rpVeilingen_imgContentImage_11" alt="Online veiling Aannemersmaterialen en rollend materiaal" class="img-responsive">
+                                        <a href="/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx" id="cpContent_rpVeilingen_hypAfbeelding_10">
+                                            <img src="/documenten/veilingen/aannemersmaterialen-en-rollend-materiaal_125532.png" id="cpContent_rpVeilingen_imgContentImage_10" alt="Online veiling Aannemersmaterialen en rollend materiaal" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_11" class="col-xs-9 cc" onclick="document.location.href='/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_10" class="col-xs-9 cc" onclick="document.location.href='/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_11" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_11" href="/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx">Veiling Aannemersmaterialen en rollend materiaal</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_10" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_10" href="/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx">Veiling Aannemersmaterialen en rollend materiaal</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Online veiling van Mercedes Trekker, Wiellader Fiat Kobelco, Motor Aprilia,  aannemersmaterialen, electrisch gereedschap, steigers, pompwagens, lasposten en metaalbewerkingsmachines.</p></div>
                                         <div class="row bmxs">
@@ -504,12 +461,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_11">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_11" class="tijdsverschil" publicationdate="2025-03-25T13:00:00.000Z">12 dagen 19 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_10">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_10" class="tijdsverschil" publicationdate="2025-03-25T13:00:00.000Z">12 dagen 7 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_11" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_11" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_11" class="calendarsimple" href="/nl/veilingkalender/125532/aannemersmaterialen-en-rollend-materiaal.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_10" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_10" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_10" class="calendarsimple" href="/nl/veilingkalender/125532/aannemersmaterialen-en-rollend-materiaal.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -518,8 +475,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx"/>
         <updated>2025-03-05T17:34:51.130Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_11" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_11" href="/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx">Veiling Aannemersmaterialen en rollend materiaal</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_10" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_10" href="/veiling/125532/aannemersmaterialen-en-rollend-materiaal.aspx">Veiling Aannemersmaterialen en rollend materiaal</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Vrachtwagens, horeca \u0026 gereedschappen]]></title>
@@ -527,15 +484,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx"/>
         <updated>2025-03-10T17:34:26.595Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx" id="cpContent_rpVeilingen_hypAfbeelding_12">
-                                            <img src="/documenten/veilingen/vrachtwagens-horeca-u0026-gereedschappen_125652.png" id="cpContent_rpVeilingen_imgContentImage_12" alt="Online veiling Vrachtwagens, horeca \u0026 gereedschappen" class="img-responsive">
+                                        <a href="/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx" id="cpContent_rpVeilingen_hypAfbeelding_11">
+                                            <img src="/documenten/veilingen/vrachtwagens-horeca-u0026-gereedschappen_125652.png" id="cpContent_rpVeilingen_imgContentImage_11" alt="Online veiling Vrachtwagens, horeca \u0026 gereedschappen" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_12" class="col-xs-9 cc" onclick="document.location.href='/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_11" class="col-xs-9 cc" onclick="document.location.href='/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling moet nog starten" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_12" href="/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx">Veiling Vrachtwagens, horeca \u0026 gereedschappen</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_11" alt="Veiling moet nog starten" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_11" href="/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx">Veiling Vrachtwagens, horeca \u0026 gereedschappen</a></h2></div>
                                         </div>
                                         <div class="bm"><p>\r\n</p></div>
                                         <div class="row bmxs">
@@ -547,12 +504,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_12">Veiling start over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_12" class="tijdsverschil" publicationdate="2025-03-16T09:00:00.000Z">3 dagen 15 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_11">Veiling start over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_11" class="tijdsverschil" publicationdate="2025-03-16T09:00:00.000Z">3 dagen 3 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_12" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_12" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_12" class="calendarsimple" href="/nl/veilingkalender/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_11" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_11" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_11" class="calendarsimple" href="/nl/veilingkalender/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -561,8 +518,8 @@
         <id>https://www.faillissementsdossier.be/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx"/>
         <updated>2025-03-10T17:34:26.595Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling moet nog starten" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_12" href="/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx">Veiling Vrachtwagens, horeca \u0026 gereedschappen</a></h2></div>]]></content>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_11" alt="Veiling moet nog starten" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_11" href="/veiling/125652/vrachtwagens-horeca-u0026-gereedschappen.aspx">Veiling Vrachtwagens, horeca \u0026 gereedschappen</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer]]></title>
@@ -570,15 +527,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx"/>
         <updated>2025-03-12T17:34:34.199Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx" id="cpContent_rpVeilingen_hypAfbeelding_13">
-                                            <img src="/documenten/veilingen/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer_125730.png" id="cpContent_rpVeilingen_imgContentImage_13" alt="Online veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer" class="img-responsive">
+                                        <a href="/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx" id="cpContent_rpVeilingen_hypAfbeelding_12">
+                                            <img src="/documenten/veilingen/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer_125730.png" id="cpContent_rpVeilingen_imgContentImage_12" alt="Online veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_13" class="col-xs-9 cc" onclick="document.location.href='/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_12" class="col-xs-9 cc" onclick="document.location.href='/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_13" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_13" href="/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx">Veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_12" href="/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx">Veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer</a></h2></div>
                                         </div>
                                         <div class="bm"><p>Online veiling van grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer.</p></div>
                                         <div class="row bmxs">
@@ -590,12 +547,12 @@
                                             <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_13">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_13" class="tijdsverschil" publicationdate="2025-03-27T13:00:00.000Z">14 dagen 19 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_12">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_12" class="tijdsverschil" publicationdate="2025-03-27T13:00:00.000Z">14 dagen 7 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_13" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_13" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_13" class="calendarsimple" href="/nl/veilingkalender/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_12" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_12" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_12" class="calendarsimple" href="/nl/veilingkalender/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -603,9 +560,9 @@
         <title type="html"><![CDATA[Veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer]]></title>
         <id>https://www.faillissementsdossier.be/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx"/>
-        <updated>2025-03-12T17:34:34.200Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_13" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_13" href="/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx">Veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer</a></h2></div>]]></content>
+        <updated>2025-03-12T17:34:34.199Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_12" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_12" href="/veiling/125730/grote-voorraad-tegels-wegens-verhuis-activiteiten-rib-boten-ponton-en-boottrailer.aspx">Veiling Grote voorraad tegels wegens verhuis activiteiten, Rib boten, ponton en boottrailer</a></h2></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977]]></title>
@@ -613,15 +570,15 @@
         <link href="https://www.faillissementsdossier.be/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx"/>
         <updated>2025-03-12T17:34:34.202Z</updated>
         <content type="html"><![CDATA[<div class="col-xs-3">
-                                        <a href="/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx" id="cpContent_rpVeilingen_hypAfbeelding_14">
-                                            <img src="http://www.makaa.behttps://img.appelboomonline.be/Image.aspx?agid=977&amp;x=200&amp;y=200&amp;crop=1&amp;grow=1" id="cpContent_rpVeilingen_imgContentImage_14" alt="Online veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977" class="img-responsive">
+                                        <a href="/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx" id="cpContent_rpVeilingen_hypAfbeelding_13">
+                                            <img src="http://www.makaa.behttps://img.appelboomonline.be/Image.aspx?agid=977&amp;x=200&amp;y=200&amp;crop=1&amp;grow=1" id="cpContent_rpVeilingen_imgContentImage_13" alt="Online veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977" class="img-responsive">
                                                 
                                         </a>
                                     </div>
-                                    <div id="cpContent_rpVeilingen_divCtr_14" class="col-xs-9 cc" onclick="document.location.href='/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx';return false;">
+                                    <div id="cpContent_rpVeilingen_divCtr_13" class="col-xs-9 cc" onclick="document.location.href='/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx';return false;">
                                         <div class="row bm">
-                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_14" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_14" href="/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx">Veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977</a></h2></div>
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_13" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_13" href="/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx">Veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977</a></h2></div>
                                         </div>
                                         <div class="bm"><p>plm 40 div loten wo vrachtwagen IVECO EUROCARGO 150E20, 4x straatveegmachines RAVO 5-series 540 -- lichte vrachtwagen RENAULT Z.E.OO bj12 -- div fietsen -- div aannemersmateriaal -- div bosmaaiers STIHL -- hd-reiniger KARCHER -- 3x open lichte vracht...</p></div>
                                         <div class="row bmxs">
@@ -633,12 +590,12 @@
                                             <div class="col-xs-7">Appelboom&nbsp;</div>
                                         </div>
                                         <div class="row bmxs">
-                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_14">Veiling sluit over</span>:</div>
-                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_14" class="tijdsverschil" publicationdate="2025-03-27T15:00:00.000Z">14 dagen 21 uur 25 minuten en 26 seconden</span></div>
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_13">Veiling sluit over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_13" class="tijdsverschil" publicationdate="2025-03-27T15:00:00.000Z">14 dagen 9 uur 24 minuten en 50 seconden</span></div>
                                         </div>
                                         <div class="row">
-                                            <div id="cpContent_rpVeilingen_divKalender_14" class="col-xs-3">Agenda:</div>
-                                            <div id="cpContent_rpVeilingen_divKalenderValue_14" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_14" class="calendarsimple" href="/nl/veilingkalender/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx">Voeg toe aan mijn agenda</a></div>
+                                            <div id="cpContent_rpVeilingen_divKalender_13" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_13" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_13" class="calendarsimple" href="/nl/veilingkalender/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx">Voeg toe aan mijn agenda</a></div>
                                         </div>
                                     </div>]]></content>
     </entry>
@@ -646,8 +603,51 @@
         <title type="html"><![CDATA[Veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977]]></title>
         <id>https://www.faillissementsdossier.be/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx</id>
         <link href="https://www.faillissementsdossier.be/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx"/>
-        <updated>2025-03-12T17:34:34.204Z</updated>
-        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_14" alt="Veiling is gestart" width="24" height="24"></div>
-                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_14" href="/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx">Veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977</a></h2></div>]]></content>
+        <updated>2025-03-12T17:34:34.202Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilinglopend2.png" id="cpContent_rpVeilingen_imgIcon_13" alt="Veiling is gestart" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_13" href="/veiling/125737/openbare-verkoping-in-opdracht-van-de-stad-antwerpen-sale-977.aspx">Veiling openbare verkoping in opdracht van de STAD ANTWERPEN - SALE 977</a></h2></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veiling Oldtimers]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/125735/oldtimers.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/125735/oldtimers.aspx"/>
+        <updated>2025-03-13T05:35:10.011Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-3">
+                                        <a href="/veiling/125735/oldtimers.aspx" id="cpContent_rpVeilingen_hypAfbeelding_14">
+                                            <img src="/documenten/veilingen/oldtimers_125735.png" id="cpContent_rpVeilingen_imgContentImage_14" alt="Online veiling Oldtimers" class="img-responsive">
+                                                
+                                        </a>
+                                    </div>
+                                    <div id="cpContent_rpVeilingen_divCtr_14" class="col-xs-9 cc" onclick="document.location.href='/veiling/125735/oldtimers.aspx';return false;">
+                                        <div class="row bm">
+                                            <div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_14" alt="Veiling moet nog starten" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_14" href="/veiling/125735/oldtimers.aspx">Veiling Oldtimers</a></h2></div>
+                                        </div>
+                                        <div class="bm"><p>Online veiling van 2 oldtimer restauratieprojecten.</p></div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3">Locatie:</div>
+                                            <div class="col-xs-7">Zottegem&nbsp;</div>
+                                        </div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3">Veilinghuis:</div>
+                                            <div class="col-xs-7">Troostwijk Auctions - Veilingen&nbsp;</div>
+                                        </div>
+                                        <div class="row bmxs">
+                                            <div class="col-xs-3"><span id="cpContent_rpVeilingen_lbData_14">Veiling start over</span>:</div>
+                                            <div class="col-xs-7"><span id="cpContent_rpVeilingen_span_14" class="tijdsverschil" publicationdate="2025-03-13T13:00:00.000Z">7 uur 24 minuten en 50 seconden</span></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="cpContent_rpVeilingen_divKalender_14" class="col-xs-3">Agenda:</div>
+                                            <div id="cpContent_rpVeilingen_divKalenderValue_14" class="col-xs-7"><a id="cpContent_rpVeilingen_hypKalender_14" class="calendarsimple" href="/nl/veilingkalender/125735/oldtimers.aspx">Voeg toe aan mijn agenda</a></div>
+                                        </div>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veiling Oldtimers]]></title>
+        <id>https://www.faillissementsdossier.be/veiling/125735/oldtimers.aspx</id>
+        <link href="https://www.faillissementsdossier.be/veiling/125735/oldtimers.aspx"/>
+        <updated>2025-03-13T05:35:10.013Z</updated>
+        <content type="html"><![CDATA[<div class="col-xs-2 col-sm-1"><img src="/images/icons/veilingopentover2.png" id="cpContent_rpVeilingen_imgIcon_14" alt="Veiling moet nog starten" width="24" height="24"></div>
+                                            <div class="col-xs-10 col-sm-11"><h2><a id="cpContent_rpVeilingen_hypVeiling_14" href="/veiling/125735/oldtimers.aspx">Veiling Oldtimers</a></h2></div>]]></content>
     </entry>
 </feed>
