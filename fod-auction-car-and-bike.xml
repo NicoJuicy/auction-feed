@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-20T05:34:49.407Z</updated>
+    <updated>2025-03-20T17:34:35.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39266" title="Lot 25_303 - Granville RD8 Luxe E-volve - Electrische fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-9-lot-25-303-granville-rd8-luxe-e-volve-electrische-fiets-39266"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-9-lot-25-303-granville-rd8-luxe-e-volve-electrische-fiets-39266">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39266/image_256/%5BBXL-00486-1-12419-9%5D%20Lot%2025_303%20-%20Granville%20RD8%20Luxe%20E-volve%20-%20Electrische%20fiets?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/9] Lot 25_303 - Granville RD8 Luxe E-volve - Electrische fiets" loading="lazy"></span>
                 </a>
@@ -70,7 +70,7 @@
                     10 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">00</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -95,7 +95,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39270" title="Lot 25_304 - Granville RD8 Luxe E-volve - Electrische fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-10-lot-25-304-granville-rd8-luxe-e-volve-electrische-fiets-39270"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-10-lot-25-304-granville-rd8-luxe-e-volve-electrische-fiets-39270">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39270/image_256/%5BBXL-00486-1-12419-10%5D%20Lot%2025_304%20-%20Granville%20RD8%20Luxe%20E-volve%20-%20Electrische%20fiets?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/10] Lot 25_304 - Granville RD8 Luxe E-volve - Electrische fiets" loading="lazy"></span>
                 </a>
@@ -148,15 +148,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/34651">
-                    9 Biedingen</a>
+                    10 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">38</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">58</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">126,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">128,00</span>
                   </b>
                 </div>
            <p></p>
@@ -176,7 +176,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39271" title="Lot 25_305 - Flyer - Electrische fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-11-lot-25-305-flyer-electrische-fiets-39271"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-11-lot-25-305-flyer-electrische-fiets-39271">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39271/image_256/%5BBXL-00486-1-12419-11%5D%20Lot%2025_305%20-%20Flyer%20-%20Electrische%20fiets?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/11] Lot 25_305 - Flyer - Electrische fiets" loading="lazy"></span>
                 </a>
@@ -232,7 +232,7 @@
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">59</span><span class="span_time_unit">m. </span><span class="span_time_digit">55</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -257,7 +257,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39296" title="Lot 25_309 - Série SR Suntour 012 - Mountainbike">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-15-lot-25-309-serie-sr-suntour-012-mountainbike-39296"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-15-lot-25-309-serie-sr-suntour-012-mountainbike-39296">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39296/image_256/%5BBXL-00486-1-12419-15%5D%20Lot%2025_309%20-%20S%C3%A9rie%20SR%20Suntour%20012%20-%20Mountainbike?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/15] Lot 25_309 - Série SR Suntour 012 - Mountainbike" loading="lazy"></span>
                 </a>
@@ -313,7 +313,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">04</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">00</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -338,7 +338,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39298" title="Lot 25_310 - Série SR Suntour 012 - Mountainbike">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-16-lot-25-310-serie-sr-suntour-012-mountainbike-39298"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-16-lot-25-310-serie-sr-suntour-012-mountainbike-39298">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39298/image_256/%5BBXL-00486-1-12419-16%5D%20Lot%2025_310%20-%20S%C3%A9rie%20SR%20Suntour%20012%20-%20Mountainbike?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/16] Lot 25_310 - Série SR Suntour 012 - Mountainbike" loading="lazy"></span>
                 </a>
@@ -394,7 +394,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">37</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -419,7 +419,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39272" title="Lot 25_306 - SR Suntour 012 Series - Mountainbike">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-12-lot-25-306-sr-suntour-012-series-mountainbike-39272"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-12-lot-25-306-sr-suntour-012-series-mountainbike-39272">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39272/image_256/%5BBXL-00486-1-12419-12%5D%20Lot%2025_306%20-%20SR%20Suntour%20012%20Series%20-%20Mountainbike?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/12] Lot 25_306 - SR Suntour 012 Series - Mountainbike" loading="lazy"></span>
                 </a>
@@ -475,7 +475,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">46</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">01</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -500,7 +500,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39273" title="Lot 25_307 - SR Suntour 012 Series - Mountainbike">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-13-lot-25-307-sr-suntour-012-series-mountainbike-39273"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-13-lot-25-307-sr-suntour-012-series-mountainbike-39273">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39273/image_256/%5BBXL-00486-1-12419-13%5D%20Lot%2025_307%20-%20SR%20Suntour%20012%20Series%20-%20Mountainbike?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/13] Lot 25_307 - SR Suntour 012 Series - Mountainbike" loading="lazy"></span>
                 </a>
@@ -556,7 +556,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -581,7 +581,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39275" title="Lot 25_308 -  Vélo De Ville C200 Premium - Mountainbike">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12419-14-lot-25-308-velo-de-ville-c200-premium-mountainbike-39275"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="0033ad83115451fbc89fc3a5e14fe18e941dc6b6o1774028068">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12419-14-lot-25-308-velo-de-ville-c200-premium-mountainbike-39275">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39275/image_256/%5BBXL-00486-1-12419-14%5D%20Lot%2025_308%20-%20%20V%C3%A9lo%20De%20Ville%20C200%20Premium%20-%20Mountainbike?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12419/14] Lot 25_308 -  Vélo De Ville C200 Premium - Mountainbike" loading="lazy"></span>
                 </a>
@@ -637,7 +637,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">13</span><span class="span_time_unit">m. </span><span class="span_time_digit">58</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">12</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -662,9 +662,9 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37442" title="Lot 25_167B - AMIGO vintage fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="ae2fc32f5c1dba4bce99e4ab2341c1561a82f556o1773984883">
+                <input type="hidden" name="csrf_token" value="3d4294ee6c3ddbfb4dad6bc9c2364d4b2ddfb90do1774028069">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=6beaf65" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=365304d" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
                 </a>
                     <div class="product_item auction_running">
                         <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-26 16:05:58" data-wk_auction_state="running">
@@ -718,7 +718,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">15</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
