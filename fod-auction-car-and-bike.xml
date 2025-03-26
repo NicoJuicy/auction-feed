@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-25T17:34:39.804Z</updated>
+    <updated>2025-03-26T05:35:44.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37442" title="Lot 25_167B - AMIGO vintage fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="dfa6a64e963de34cb75d8b682423e9bbdcb6a501o1774460074">
+                <input type="hidden" name="csrf_token" value="74c980e4c7284da81d51d8edda8951e02d95f3e1o1774503339">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=d258ab1" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
                 </a>
@@ -70,7 +70,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
