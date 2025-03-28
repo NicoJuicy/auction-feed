@@ -2,518 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=&amp;category_select=6&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-27T17:35:27.730Z</updated>
+    <updated>2025-03-28T05:35:36.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[THULE - Gebruikt kinderzitje voor fiets - GB605-P11]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11196-508-thule-gebruikt-kinderzitje-voor-fiets-gb605-p11-39442</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11196-508-thule-gebruikt-kinderzitje-voor-fiets-gb605-p11-39442"/>
-        <updated>2025-03-19T17:34:38.703Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39442" title="THULE - Gebruikt kinderzitje voor fiets - GB605-P11">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-508-thule-gebruikt-kinderzitje-voor-fiets-gb605-p11-39442"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-508-thule-gebruikt-kinderzitje-voor-fiets-gb605-p11-39442">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39442/image_256/%5BGEM-00001-4-11196-508%5D%20THULE%20-%20Gebruikt%20kinderzitje%20voor%20fiets%20-%20GB605-P11?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/508] THULE - Gebruikt kinderzitje voor fiets - GB605-P11" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-27 17:46:27" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-19 14:46:27', 'auction_week_left': '2025-03-27 17:46:27', 'auction_start_date': '19th-Mar-2025, 02:46PM', 'auction_end_date': '27th-Mar-2025, 05:46PM', 'wk_auction': wk.website.auction(34862,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 19, 14, 46, 27), 'test_end_date': datetime.datetime(2025, 3, 27, 17, 46, 27), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-27T17:46:27Z'}" data-auction_end_date="2025-03-27T17:46:27Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Gembloux</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00001-4-11196-508-thule-gebruikt-kinderzitje-voor-fiets-gb605-p11-39442" content="THULE - Gebruikt kinderzitje voor fiets - GB605-P11">THULE - Gebruikt kinderzitje voor fiets - GB605-P11</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Kan onvolledig zijn
-Geen schro..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/34862">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">19</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">50,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set van 2 fietsen - DD516-Z]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439"/>
-        <updated>2025-03-19T17:34:38.704Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36439" title="Set van 2 fietsen - DD516-Z">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36439/image_256/%5BGEM-00002-3-11753-1%5D%20Set%20van%202%20fietsen%20-%20DD516-Z?unique=5f7a913" itemprop="image" class="img img-fluid" alt="[GEM/00002/3/11753/1] Set van 2 fietsen - DD516-Z" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-27 17:52:42" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-19 07:52:42', 'auction_week_left': '2025-03-27 17:52:42', 'auction_start_date': '19th-Mar-2025, 07:52AM', 'auction_end_date': '27th-Mar-2025, 05:52PM', 'wk_auction': wk.website.auction(34750,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 19, 7, 52, 42), 'test_end_date': datetime.datetime(2025, 3, 27, 17, 52, 42), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-27T17:52:42Z'}" data-auction_end_date="2025-03-27T17:52:42Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Gembloux</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00002-3-11753-1-set-van-2-fietsen-dd516-z-36439" content="Set van 2 fietsen - DD516-Z">Set van 2 fietsen - DD516-Z</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Een grijze / blauwe fiets
-Een ..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/34750">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">17</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">200,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 150 - Vidaxl - Achtergronddoek - Groen]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-230-lot-150-vidaxl-achtergronddoek-groen-37839</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-230-lot-150-vidaxl-achtergronddoek-groen-37839"/>
-        <updated>2025-03-19T17:34:38.705Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37839" title="Lot 150 - Vidaxl - Achtergronddoek - Groen">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-230-lot-150-vidaxl-achtergronddoek-groen-37839"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-230-lot-150-vidaxl-achtergronddoek-groen-37839">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37839/image_256/%5BBOR-00001-4-11059-230%5D%20Lot%20150%20-%20Vidaxl%20-%20Achtergronddoek%20-%20Groen?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/230] Lot 150 - Vidaxl - Achtergronddoek - Groen" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-27 19:45:40" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-19 09:52:40', 'auction_week_left': '2025-03-27 19:45:40', 'auction_start_date': '19th-Mar-2025, 09:52AM', 'auction_end_date': '27th-Mar-2025, 07:45PM', 'wk_auction': wk.website.auction(34818,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 19, 9, 52, 40), 'test_end_date': datetime.datetime(2025, 3, 27, 19, 45, 40), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-27T19:45:40Z'}" data-auction_end_date="2025-03-27T19:45:40Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Bornem</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11059-230-lot-150-vidaxl-achtergronddoek-groen-37839" content="Lot 150 - Vidaxl - Achtergronddoek - Groen">Lot 150 - Vidaxl - Achtergronddoek - Groen</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Merk: Vidaxl
-Artikel: Achtergr..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/34818">
-                    1 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">32</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">14,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 137 - Fitnessmateriaal]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836"/>
-        <updated>2025-03-19T17:34:38.710Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36836" title="Lot 137 - Fitnessmateriaal">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36836/image_256/%5BBOR-00001-4-11059-217%5D%20Lot%20137%20-%20Fitnessmateriaal?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/217] Lot 137 - Fitnessmateriaal" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-27 20:07:39" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-19 10:07:39', 'auction_week_left': '2025-03-27 20:07:39', 'auction_start_date': '19th-Mar-2025, 10:07AM', 'auction_end_date': '27th-Mar-2025, 08:07PM', 'wk_auction': wk.website.auction(34822,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 19, 10, 7, 39), 'test_end_date': datetime.datetime(2025, 3, 27, 20, 7, 39), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-27T20:07:39Z'}" data-auction_end_date="2025-03-27T20:07:39Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Bornem</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11059-217-lot-137-fitnessmateriaal-36836" content="Lot 137 - Fitnessmateriaal">Lot 137 - Fitnessmateriaal</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Verschillende gewichten
-Versch..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/34822">
-                    2 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">32</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">26,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 127 - Einhell - Elektrische Verticuteerder/Beluchter]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-228-lot-127-einhell-elektrische-verticuteerder-beluchter-37694</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11059-228-lot-127-einhell-elektrische-verticuteerder-beluchter-37694"/>
-        <updated>2025-03-21T17:33:56.034Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37694" title="Lot 127 - Einhell - Elektrische Verticuteerder/Beluchter">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11059-228-lot-127-einhell-elektrische-verticuteerder-beluchter-37694"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11059-228-lot-127-einhell-elektrische-verticuteerder-beluchter-37694">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37694/image_256/%5BBOR-00001-4-11059-228%5D%20Lot%20127%20-%20Einhell%20-%20Elektrische%20Verticuteerder-Beluchter?unique=b69a64b" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11059/228] Lot 127 - Einhell - Elektrische Verticuteerder/Beluchter" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-27 20:20:05" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-19 12:45:05', 'auction_week_left': '2025-03-27 20:20:05', 'auction_start_date': '19th-Mar-2025, 12:45PM', 'auction_end_date': '27th-Mar-2025, 08:20PM', 'wk_auction': wk.website.auction(34827,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 19, 12, 45, 5), 'test_end_date': datetime.datetime(2025, 3, 27, 20, 20, 5), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-27T20:20:05Z'}" data-auction_end_date="2025-03-27T20:20:05Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Bornem</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11059-228-lot-127-einhell-elektrische-verticuteerder-beluchter-37694" content="Lot 127 - Einhell - Elektrische Verticuteerder/Beluchter">Lot 127 - Einhell - Elektrische Verticuteerder/Beluchter</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Merk: Einhell
-Artikel: Verticu..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/34827">
-                    4 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">57</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">43,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355"/>
-        <updated>2025-03-21T17:33:56.034Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-32355" title="Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/32355/image_256/%5BBOR-00001-4-11064-8%5D%20Lot%20120%20-%20Handi%20Life%20Sport%20-%20Boccia%20Lawn%20Set%20%2B%20Boccia%20Ball%20Pick%20Up?unique=ef2b6ce" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11064/8] Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-03-27 20:42:41" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-19 09:42:41', 'auction_week_left': '2025-03-27 20:42:41', 'auction_start_date': '19th-Mar-2025, 09:42AM', 'auction_end_date': '27th-Mar-2025, 08:42PM', 'wk_auction': wk.website.auction(34817,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 19, 9, 42, 41), 'test_end_date': datetime.datetime(2025, 3, 27, 20, 42, 41), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-03-27T20:42:41Z'}" data-auction_end_date="2025-03-27T20:42:41Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Bornem</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11064-8-lot-120-handi-life-sport-boccia-lawn-set-boccia-ball-pick-up-32355" content="Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up">Lot 120 - Handi Life Sport - Boccia Lawn Set + Boccia Ball Pick Up</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-             <div itemprop="description">
-                Artikel: Boccia set + opvangbu..
-             </div>
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/34817">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">07</span><span class="span_time_unit">m. </span><span class="span_time_digit">33</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">20,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Sport - Pakket verschillende gewichten - GB593-Z]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11196-496-sport-pakket-verschillende-gewichten-gb593-z-39415</id>
@@ -523,7 +14,7 @@ Artikel: Verticu..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39415" title="Sport - Pakket verschillende gewichten - GB593-Z">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-496-sport-pakket-verschillende-gewichten-gb593-z-39415"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-496-sport-pakket-verschillende-gewichten-gb593-z-39415">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39415/image_256/%5BGEM-00001-4-11196-496%5D%20Sport%20-%20Pakket%20verschillende%20gewichten%20-%20GB593-Z?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/496] Sport - Pakket verschillende gewichten - GB593-Z" loading="lazy"></span>
                 </a>
@@ -583,7 +74,7 @@ Verschillende maten en g..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">52</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -608,7 +99,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39416" title="Sport - Gewicht en accessoires - GB594-Z">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-497-sport-gewicht-en-accessoires-gb594-z-39416"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="620f8d789da0fc0b7c7f3a6ce6b570105f0abbdao1774632908">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-497-sport-gewicht-en-accessoires-gb594-z-39416">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39416/image_256/%5BGEM-00001-4-11196-497%5D%20Sport%20-%20Gewicht%20en%20accessoires%20-%20GB594-Z?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/497] Sport - Gewicht en accessoires - GB594-Z" loading="lazy"></span>
                 </a>
@@ -667,7 +158,7 @@ Verschillende maten en g..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">49</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -692,7 +183,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-38958" title="Optrekstang voor krachttraining wandmontage binnen en buitene - cb1597A109">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-343-optrekstang-voor-krachttraining-wandmontage-binnen-en-buitene-cb1597a109-38958"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-343-optrekstang-voor-krachttraining-wandmontage-binnen-en-buitene-cb1597a109-38958">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38958/image_256/%5BGEM-00001-4-11798-343%5D%20Optrekstang%20voor%20krachttraining%20wandmontage%20binnen%20en%20buitene%20-%20cb1597A109?unique=1b79bc7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/343] Optrekstang voor krachttraining wandmontage binnen en buitene - cb1597A109" loading="lazy"></span>
                 </a>
@@ -745,10 +236,10 @@ Verschillende maten en g..
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/34795">
-                    0 Biedingen</a>
+                    1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -773,7 +264,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-38960" title="Werka pro - Zwembadbeschermingsnet 8x14 m - cb1599A122">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-345-werka-pro-zwembadbeschermingsnet-8x14-m-cb1599a122-38960"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-345-werka-pro-zwembadbeschermingsnet-8x14-m-cb1599a122-38960">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38960/image_256/%5BGEM-00001-4-11798-345%5D%20Werka%20pro%20-%20Zwembadbeschermingsnet%208x14%20m%20-%20cb1599A122?unique=1b79bc7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/345] Werka pro - Zwembadbeschermingsnet 8x14 m - cb1599A122" loading="lazy"></span>
                 </a>
@@ -829,7 +320,7 @@ Verschillende maten en g..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -854,7 +345,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39417" title="Sport - Pakket verschillende gewichten - GB595-Z">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-498-sport-pakket-verschillende-gewichten-gb595-z-39417"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-498-sport-pakket-verschillende-gewichten-gb595-z-39417">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39417/image_256/%5BGEM-00001-4-11196-498%5D%20Sport%20-%20Pakket%20verschillende%20gewichten%20-%20GB595-Z?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/498] Sport - Pakket verschillende gewichten - GB595-Z" loading="lazy"></span>
                 </a>
@@ -913,7 +404,7 @@ Verschillende maten en g..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">39</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">00</span><span class="span_time_unit">m. </span><span class="span_time_digit">29</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -938,7 +429,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39647" title="Set Manchester City - SHR271">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11787-271-set-manchester-city-shr271-39647"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11787-271-set-manchester-city-shr271-39647">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39647/image_256/%5BGEM-00001-4-11787-271%5D%20Set%20Manchester%20City%20-%20SHR271?unique=dd8506c" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11787/271] Set Manchester City - SHR271" loading="lazy"></span>
                 </a>
@@ -994,7 +485,7 @@ Verschillende maten en g..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">12</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1019,7 +510,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39674" title="AMSTRAD - rolstoel Gaming AMS-900 Led - GB620-P7">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-523-amstrad-rolstoel-gaming-ams-900-led-gb620-p7-39674"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-523-amstrad-rolstoel-gaming-ams-900-led-gb620-p7-39674">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39674/image_256/%5BGEM-00001-4-11196-523%5D%20AMSTRAD%20-%20rolstoel%20Gaming%20AMS-900%20Led%20-%20GB620-P7?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/523] AMSTRAD - rolstoel Gaming AMS-900 Led - GB620-P7" loading="lazy"></span>
                 </a>
@@ -1078,7 +569,7 @@ Verschillende maten en g..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">22</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">58</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">48</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1103,7 +594,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39663" title="INTEX - Opblaasbare kajak Excursion Pro K2 - GB610-P16">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-513-intex-opblaasbare-kajak-excursion-pro-k2-gb610-p16-39663"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-513-intex-opblaasbare-kajak-excursion-pro-k2-gb610-p16-39663">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39663/image_256/%5BGEM-00001-4-11196-513%5D%20INTEX%20-%20Opblaasbare%20kajak%20Excursion%20Pro%20K2%20-%20GB610-P16?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/513] INTEX - Opblaasbare kajak Excursion Pro K2 - GB610-P16" loading="lazy"></span>
                 </a>
@@ -1162,7 +653,7 @@ Verschillende maten en g..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">10</span><span class="span_time_unit">m. </span><span class="span_time_digit">09</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">59</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1187,7 +678,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39466" title="Veldbed - cb1631A107">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-377-veldbed-cb1631a107-39466"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-377-veldbed-cb1631a107-39466">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39466/image_256/%5BGEM-00001-4-11798-377%5D%20Veldbed%20-%20cb1631A107?unique=1b79bc7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/377] Veldbed - cb1631A107" loading="lazy"></span>
                 </a>
@@ -1243,7 +734,7 @@ Verschillende maten en g..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1268,7 +759,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39141" title="Sportschool voor kinderen van 3-10 jaar - Roze - GB585-P5">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11196-488-sportschool-voor-kinderen-van-3-10-jaar-roze-gb585-p5-39141"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11196-488-sportschool-voor-kinderen-van-3-10-jaar-roze-gb585-p5-39141">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39141/image_256/%5BGEM-00001-4-11196-488%5D%20Sportschool%20voor%20kinderen%20van%203-10%20jaar%20-%20Roze%20-%20GB585-P5?unique=1f91eff" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11196/488] Sportschool voor kinderen van 3-10 jaar - Roze - GB585-P5" loading="lazy"></span>
                 </a>
@@ -1327,7 +818,7 @@ Verschillende maten en g..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">49</span><span class="span_time_unit">m. </span><span class="span_time_digit">02</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1352,7 +843,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39474" title="Ryer - Koffer - cb1637P3">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-383-ryer-koffer-cb1637p3-39474"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-383-ryer-koffer-cb1637p3-39474">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39474/image_256/%5BGEM-00001-4-11798-383%5D%20Ryer%20-%20Koffer%20-%20cb1637P3?unique=1b79bc7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/383] Ryer - Koffer - cb1637P3" loading="lazy"></span>
                 </a>
@@ -1411,7 +902,7 @@ Verschillende maten en g..
                     1 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">41</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1436,7 +927,7 @@ Verschillende maten en g..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39613" title="Lot 117 - Sony - Spelcomputer - PS 5 Digital Edition+Extra Controller">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-13563-2-lot-117-sony-spelcomputer-ps-5-digital-edition-extra-controller-39613"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="7f13b2bb6f74a7b976ffe31cb242fe759613cadco1774676119">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-13563-2-lot-117-sony-spelcomputer-ps-5-digital-edition-extra-controller-39613">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39613/image_256/%5BBOR-00001-4-13563-2%5D%20Lot%20117%20-%20Sony%20-%20Spelcomputer%20-%20PS%205%20Digital%20Edition%2BExtra%20Controller?unique=d2db87d" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/13563/2] Lot 117 - Sony - Spelcomputer - PS 5 Digital Edition+Extra Controller" loading="lazy"></span>
                 </a>
@@ -1496,7 +987,7 @@ Computerplatform: P..
                     33 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">35</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1521,7 +1012,7 @@ Computerplatform: P..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39480" title="Schepnet T1 Landing net - cb1643A102">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-389-schepnet-t1-landing-net-cb1643a102-39480"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-389-schepnet-t1-landing-net-cb1643a102-39480">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39480/image_256/%5BGEM-00001-4-11798-389%5D%20Schepnet%20T1%20Landing%20net%20-%20cb1643A102?unique=1b79bc7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/389] Schepnet T1 Landing net - cb1643A102" loading="lazy"></span>
                 </a>
@@ -1577,7 +1068,7 @@ Computerplatform: P..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">49</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">49</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1602,7 +1093,7 @@ Computerplatform: P..
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39481" title=" Lafuma - California XL campingtafel - cb1644P9">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-390-lafuma-california-xl-campingtafel-cb1644p9-39481"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="c15dcbecfce94bdeb1b411e8a86e3c0d3a34415do1774632909">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-390-lafuma-california-xl-campingtafel-cb1644p9-39481">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39481/image_256/%5BGEM-00001-4-11798-390%5D%20%20Lafuma%20-%20California%20XL%20campingtafel%20-%20cb1644P9?unique=1b79bc7" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/390]  Lafuma - California XL campingtafel - cb1644P9" loading="lazy"></span>
                 </a>
@@ -1661,12 +1152,515 @@ Computerplatform: P..
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
                     Huidig bod €&nbsp;<span class="oe_currency_value">40,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 170 - LifeGoods - Bolderkar]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11061-189-lot-170-lifegoods-bolderkar-39591</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11061-189-lot-170-lifegoods-bolderkar-39591"/>
+        <updated>2025-03-28T05:35:22.093Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39591" title="Lot 170 - LifeGoods - Bolderkar">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11061-189-lot-170-lifegoods-bolderkar-39591"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11061-189-lot-170-lifegoods-bolderkar-39591">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39591/image_256/%5BBOR-00001-4-11061-189%5D%20Lot%20170%20-%20LifeGoods%20-%20Bolderkar?unique=9aa52e2" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11061/189] Lot 170 - LifeGoods - Bolderkar" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-02 19:09:10" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-21 08:09:10', 'auction_week_left': '2025-04-02 19:09:10', 'auction_start_date': '21th-Mar-2025, 08:09AM', 'auction_end_date': '02th-Apr-2025, 07:09PM', 'wk_auction': wk.website.auction(35021,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 21, 8, 9, 10), 'test_end_date': datetime.datetime(2025, 4, 2, 19, 9, 10), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-02T19:09:10Z'}" data-auction_end_date="2025-04-02T19:09:10Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Bornem</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11061-189-lot-170-lifegoods-bolderkar-39591" content="Lot 170 - LifeGoods - Bolderkar">Lot 170 - LifeGoods - Bolderkar</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+             <div itemprop="description">
+                Merk: LifeGoods
+Artikel: Bolde..
+             </div>
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35021">
+                    10 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">53,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lafuma - Campingtafel - cb1675A110]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-421-lafuma-campingtafel-cb1675a110-39743</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-421-lafuma-campingtafel-cb1675a110-39743"/>
+        <updated>2025-03-28T05:35:22.095Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39743" title=" Lafuma - Campingtafel - cb1675A110">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-421-lafuma-campingtafel-cb1675a110-39743"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-421-lafuma-campingtafel-cb1675a110-39743">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39743/image_256/%5BGEM-00001-4-11798-421%5D%20%20Lafuma%20-%20Campingtafel%20-%20cb1675A110?unique=f85d954" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/421]  Lafuma - Campingtafel - cb1675A110" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-08 17:50:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-27 09:09:31', 'auction_week_left': '2025-04-08 17:50:00', 'auction_start_date': '27th-Mar-2025, 09:09AM', 'auction_end_date': '08th-Apr-2025, 05:50PM', 'wk_auction': wk.website.auction(35246,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 27, 9, 9, 31), 'test_end_date': datetime.datetime(2025, 4, 8, 17, 50), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-08T17:50:00Z'}" data-auction_end_date="2025-04-08T17:50:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Gembloux</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00001-4-11798-421-lafuma-campingtafel-cb1675a110-39743" content=" Lafuma - Campingtafel - cb1675A110"> Lafuma - Campingtafel - cb1675A110</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+             <div itemprop="description">
+                Afmeetingen: 60.5 x 72.5 cm
+             </div>
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35246">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">11</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">30,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 344 - fitnessmateriaal]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11062-231-lot-344-fitnessmateriaal-39963</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11062-231-lot-344-fitnessmateriaal-39963"/>
+        <updated>2025-03-28T05:35:22.099Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39963" title="Lot 344 - fitnessmateriaal">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11062-231-lot-344-fitnessmateriaal-39963"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11062-231-lot-344-fitnessmateriaal-39963">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39963/image_256/%5BBOR-00001-4-11062-231%5D%20Lot%20344%20-%20fitnessmateriaal?unique=aa0572d" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11062/231] Lot 344 - fitnessmateriaal" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-09 17:40:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-27 12:25:11', 'auction_week_left': '2025-04-09 17:40:00', 'auction_start_date': '27th-Mar-2025, 12:25PM', 'auction_end_date': '09th-Apr-2025, 05:40PM', 'wk_auction': wk.website.auction(35297,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 27, 12, 25, 11), 'test_end_date': datetime.datetime(2025, 4, 9, 17, 40), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-09T17:40:00Z'}" data-auction_end_date="2025-04-09T17:40:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Bornem</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11062-231-lot-344-fitnessmateriaal-39963" content="Lot 344 - fitnessmateriaal">Lot 344 - fitnessmateriaal</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+             <div itemprop="description">
+                Dumbells
+Kettlebels
+gewichten
+..
+             </div>
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35297">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">12</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">04</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">99,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 101 - Groot lot drinkflessen]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11062-229-lot-101-groot-lot-drinkflessen-39835</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bor-00001-4-11062-229-lot-101-groot-lot-drinkflessen-39835"/>
+        <updated>2025-03-28T05:35:22.099Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39835" title="Lot 101 - Groot lot drinkflessen">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bor-00001-4-11062-229-lot-101-groot-lot-drinkflessen-39835"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bor-00001-4-11062-229-lot-101-groot-lot-drinkflessen-39835">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39835/image_256/%5BBOR-00001-4-11062-229%5D%20Lot%20101%20-%20Groot%20lot%20drinkflessen?unique=aa0572d" itemprop="image" class="img img-fluid" alt="[BOR/00001/4/11062/229] Lot 101 - Groot lot drinkflessen" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-09 18:17:42" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-26 13:17:42', 'auction_week_left': '2025-04-09 18:17:42', 'auction_start_date': '26th-Mar-2025, 01:17PM', 'auction_end_date': '09th-Apr-2025, 06:17PM', 'wk_auction': wk.website.auction(35189,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 26, 13, 17, 42), 'test_end_date': datetime.datetime(2025, 4, 9, 18, 17, 42), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-09T18:17:42Z'}" data-auction_end_date="2025-04-09T18:17:42Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Bornem</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bor-00001-4-11062-229-lot-101-groot-lot-drinkflessen-39835" content="Lot 101 - Groot lot drinkflessen">Lot 101 - Groot lot drinkflessen</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+             <div itemprop="description">
+                Divers lot drinkflessen
+Versch..
+             </div>
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35189">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">12</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">42</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">95,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teamsportbedarf.de - Sta voor vrije trap dummy - cb1594A81]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-340-teamsportbedarf-de-sta-voor-vrije-trap-dummy-cb1594a81-38955</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-340-teamsportbedarf-de-sta-voor-vrije-trap-dummy-cb1594a81-38955"/>
+        <updated>2025-03-28T05:35:22.100Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-38955" title="Teamsportbedarf.de - Sta voor vrije trap dummy - cb1594A81">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-340-teamsportbedarf-de-sta-voor-vrije-trap-dummy-cb1594a81-38955"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-340-teamsportbedarf-de-sta-voor-vrije-trap-dummy-cb1594a81-38955">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/38955/image_256/%5BGEM-00001-4-11798-340%5D%20Teamsportbedarf.de%20-%20Sta%20voor%20vrije%20trap%20dummy%20-%20cb1594A81?unique=f9fd1a1" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/340] Teamsportbedarf.de - Sta voor vrije trap dummy - cb1594A81" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-10 17:00:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-27 12:21:11', 'auction_week_left': '2025-04-10 17:00:00', 'auction_start_date': '27th-Mar-2025, 12:21PM', 'auction_end_date': '10th-Apr-2025, 05:00PM', 'wk_auction': wk.website.auction(35292,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 27, 12, 21, 11), 'test_end_date': datetime.datetime(2025, 4, 10, 17, 0), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-10T17:00:00Z'}" data-auction_end_date="2025-04-10T17:00:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Gembloux</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00001-4-11798-340-teamsportbedarf-de-sta-voor-vrije-trap-dummy-cb1594a81-38955" content="Teamsportbedarf.de - Sta voor vrije trap dummy - cb1594A81">Teamsportbedarf.de - Sta voor vrije trap dummy - cb1594A81</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35292">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">13</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">10,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gewichten en halters - cb1704A79]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-450-gewichten-en-halters-cb1704a79-39900</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/gem-00001-4-11798-450-gewichten-en-halters-cb1704a79-39900"/>
+        <updated>2025-03-28T05:35:22.102Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39900" title=" Gewichten en halters - cb1704A79">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/gem-00001-4-11798-450-gewichten-en-halters-cb1704a79-39900"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="2aafabdcef8662baa383fabd6eed5f9f3c9c79c2o1774676120">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/gem-00001-4-11798-450-gewichten-en-halters-cb1704a79-39900">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39900/image_256/%5BGEM-00001-4-11798-450%5D%20%20Gewichten%20en%20halters%20-%20cb1704A79?unique=1a9ed30" itemprop="image" class="img img-fluid" alt="[GEM/00001/4/11798/450]  Gewichten en halters - cb1704A79" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-10 18:20:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-03-27 13:17:08', 'auction_week_left': '2025-04-10 18:20:00', 'auction_start_date': '27th-Mar-2025, 01:17PM', 'auction_end_date': '10th-Apr-2025, 06:20PM', 'wk_auction': wk.website.auction(35314,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 3, 27, 13, 17, 8), 'test_end_date': datetime.datetime(2025, 4, 10, 18, 20), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-10T18:20:00Z'}" data-auction_end_date="2025-04-10T18:20:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Gembloux</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/gem-00001-4-11798-450-gewichten-en-halters-cb1704a79-39900" content=" Gewichten en halters - cb1704A79"> Gewichten en halters - cb1704A79</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35314">
+                    1 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">13</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">40</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">10,00</span>
                   </b>
                 </div>
            <p></p>
