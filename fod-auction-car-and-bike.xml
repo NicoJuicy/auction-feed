@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-03-30T05:34:24.443Z</updated>
+    <updated>2025-03-30T17:33:59.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39721" title="Lot 25_0547 - Porsche Cayenne - Jaar 2011 - 189.581 km - Euro 5">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12453-1-lot-25-0547-porsche-cayenne-jaar-2011-189-581-km-euro-5-39721"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fa9b3c4b5a0cc62b3602eff69bada625f734b6aao1774848855">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12453-1-lot-25-0547-porsche-cayenne-jaar-2011-189-581-km-euro-5-39721">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39721/image_256/%5BBXL-00002-3-12453-1%5D%20Lot%2025_0547%20-%20Porsche%20Cayenne%20-%20Jaar%202011%20-%20189.581%20km%20-%20Euro%205?unique=6087d00" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12453/1] Lot 25_0547 - Porsche Cayenne - Jaar 2011 - 189.581 km - Euro 5" loading="lazy"></span>
                 </a>
@@ -70,7 +70,7 @@
                     26 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -95,7 +95,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39723" title="Lot 25_0581 - Volkswagen Caddy - Jaar 2017 - 210.148 km - EURO 6b">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01665-1-12454-1-lot-25-0581-volkswagen-caddy-jaar-2017-210-148-km-euro-6b-39723"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fa9b3c4b5a0cc62b3602eff69bada625f734b6aao1774848855">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01665-1-12454-1-lot-25-0581-volkswagen-caddy-jaar-2017-210-148-km-euro-6b-39723">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39723/image_256/%5BBXL-01665-1-12454-1%5D%20Lot%2025_0581%20-%20Volkswagen%20Caddy%20-%20Jaar%202017%20-%20210.148%20km%20-%20EURO%206b?unique=6087d00" itemprop="image" class="img img-fluid" alt="[BXL/01665/1/12454/1] Lot 25_0581 - Volkswagen Caddy - Jaar 2017 - 210.148 km - EURO 6b" loading="lazy"></span>
                 </a>
@@ -151,7 +151,7 @@
                     6 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">45</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -176,7 +176,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39724" title="Lot 25_0596 - Volkswagen Polo - Jaar 2019 - 98.744 km - EURO 6d">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12455-1-lot-25-0596-volkswagen-polo-jaar-2019-98-744-km-euro-6d-39724"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fa9b3c4b5a0cc62b3602eff69bada625f734b6aao1774848855">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12455-1-lot-25-0596-volkswagen-polo-jaar-2019-98-744-km-euro-6d-39724">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39724/image_256/%5BBXL-00002-3-12455-1%5D%20Lot%2025_0596%20-%20Volkswagen%20Polo%20-%20Jaar%202019%20-%2098.744%20km%20-%20EURO%206d?unique=6087d00" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12455/1] Lot 25_0596 - Volkswagen Polo - Jaar 2019 - 98.744 km - EURO 6d" loading="lazy"></span>
                 </a>
@@ -229,15 +229,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/35162">
-                    14 Biedingen</a>
+                    15 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">6.700,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">7.000,00</span>
                   </b>
                 </div>
            <p></p>
@@ -257,7 +257,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39750" title="Lot 25_0660 - Opel Zafira - Jaar 2015 - 200.097 km - EURO 6b">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12456-1-lot-25-0660-opel-zafira-jaar-2015-200-097-km-euro-6b-39750"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12456-1-lot-25-0660-opel-zafira-jaar-2015-200-097-km-euro-6b-39750">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39750/image_256/%5BBXL-00441-1-12456-1%5D%20Lot%2025_0660%20-%20Opel%20Zafira%20-%20Jaar%202015%20-%20200.097%20km%20-%20EURO%206b?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12456/1] Lot 25_0660 - Opel Zafira - Jaar 2015 - 200.097 km - EURO 6b" loading="lazy"></span>
                 </a>
@@ -310,15 +310,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/35163">
-                    4 Biedingen</a>
+                    5 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">40</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">3.300,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">3.350,00</span>
                   </b>
                 </div>
            <p></p>
@@ -338,7 +338,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39752" title="Lot 25_0661 - Opel Astra - Jaar 2015 - 103.586 km - EURO 6b">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00441-1-12460-1-lot-25-0661-opel-astra-jaar-2015-103-586-km-euro-6b-39752"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00441-1-12460-1-lot-25-0661-opel-astra-jaar-2015-103-586-km-euro-6b-39752">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39752/image_256/%5BBXL-00441-1-12460-1%5D%20Lot%2025_0661%20-%20Opel%20Astra%20-%20Jaar%202015%20-%20103.586%20km%20-%20EURO%206b?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/00441/1/12460/1] Lot 25_0661 - Opel Astra - Jaar 2015 - 103.586 km - EURO 6b" loading="lazy"></span>
                 </a>
@@ -391,15 +391,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/35164">
-                    1 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">45</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">3.500,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">3.600,00</span>
                   </b>
                 </div>
            <p></p>
@@ -419,7 +419,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39751" title="Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39751/image_256/%5BBXL-00486-1-12457-1%5D%20Lot%2025_0680%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2043.172%20km%20-%20EURO%204?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12457/1] Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -475,7 +475,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">50</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">51</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -500,7 +500,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39754" title="Lot 25_0692 - BMW M135i - Jaar 2015 - 122.909 km - EURO 6b">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01868-7-12458-1-lot-25-0692-bmw-m135i-jaar-2015-122-909-km-euro-6b-39754"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01868-7-12458-1-lot-25-0692-bmw-m135i-jaar-2015-122-909-km-euro-6b-39754">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39754/image_256/%5BBXL-01868-7-12458-1%5D%20Lot%2025_0692%20-%20BMW%20M135i%20-%20Jaar%202015%20-%20122.909%20km%20-%20EURO%206b?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/01868/7/12458/1] Lot 25_0692 - BMW M135i - Jaar 2015 - 122.909 km - EURO 6b" loading="lazy"></span>
                 </a>
@@ -556,7 +556,7 @@
                     14 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">55</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -581,7 +581,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39753" title="Lot 25_0693 - Nissan Cabstar - Jaar 2010 - 48.063 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12459-1-lot-25-0693-nissan-cabstar-jaar-2010-48-063-km-euro-4-39753"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12459-1-lot-25-0693-nissan-cabstar-jaar-2010-48-063-km-euro-4-39753">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39753/image_256/%5BBXL-00486-1-12459-1%5D%20Lot%2025_0693%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2048.063%20km%20-%20EURO%204?unique=6087d00" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12459/1] Lot 25_0693 - Nissan Cabstar - Jaar 2010 - 48.063 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -637,7 +637,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">01</span><span class="span_time_unit">m. </span><span class="span_time_digit">36</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">02</span><span class="span_time_unit">m. </span><span class="span_time_digit">00</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -662,7 +662,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39756" title="Lot 25_0694 - Mitsubishi Fuso Canter - Jaar 2013 - 38.643 km - EURO EEV">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12461-1-lot-25-0694-mitsubishi-fuso-canter-jaar-2013-38-643-km-euro-eev-39756"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="d61726789ecb8537811107c982ef733aca2b0444o1774892032">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12461-1-lot-25-0694-mitsubishi-fuso-canter-jaar-2013-38-643-km-euro-eev-39756">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39756/image_256/%5BBXL-00486-1-12461-1%5D%20Lot%2025_0694%20-%20Mitsubishi%20Fuso%20Canter%20-%20Jaar%202013%20-%2038.643%20km%20-%20EURO%20EEV?unique=6087d00" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12461/1] Lot 25_0694 - Mitsubishi Fuso Canter - Jaar 2013 - 38.643 km - EURO EEV" loading="lazy"></span>
                 </a>
@@ -718,7 +718,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">06</span><span class="span_time_unit">m. </span><span class="span_time_digit">08</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -743,7 +743,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39759" title="Lot 25_0695 - Mitsubishi Fuso Canter - Jaar 2014 - 70.752 km - EURO 5b">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12466-1-lot-25-0695-mitsubishi-fuso-canter-jaar-2014-70-752-km-euro-5b-39759"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="f5c90cd2a6e2d365c8ddf5f1ddfe76ba9ae6cf30o1774892033">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12466-1-lot-25-0695-mitsubishi-fuso-canter-jaar-2014-70-752-km-euro-5b-39759">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39759/image_256/%5BBXL-00486-1-12466-1%5D%20Lot%2025_0695%20-%20Mitsubishi%20Fuso%20Canter%20-%20Jaar%202014%20-%2070.752%20km%20-%20EURO%205b?unique=6087d00" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12466/1] Lot 25_0695 - Mitsubishi Fuso Canter - Jaar 2014 - 70.752 km - EURO 5b" loading="lazy"></span>
                 </a>
@@ -799,7 +799,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">43</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">12</span><span class="span_time_unit">m. </span><span class="span_time_digit">06</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -824,7 +824,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39762" title="Lot 25_0696 - Nissan Cabstar - Jaar 2010 - 37.309 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12463-1-lot-25-0696-nissan-cabstar-jaar-2010-37-309-km-euro-4-39762"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="f5c90cd2a6e2d365c8ddf5f1ddfe76ba9ae6cf30o1774892033">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12463-1-lot-25-0696-nissan-cabstar-jaar-2010-37-309-km-euro-4-39762">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39762/image_256/%5BBXL-00486-1-12463-1%5D%20Lot%2025_0696%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2037.309%20km%20-%20EURO%204?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12463/1] Lot 25_0696 - Nissan Cabstar - Jaar 2010 - 37.309 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -880,7 +880,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -905,7 +905,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39760" title="Lot 25_0704 - Volkswagen Golf R-Line - Année 2020 - 18.744 km - EURO 6d">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-01868-7-12464-1-lot-25-0704-volkswagen-golf-r-line-annee-2020-18-744-km-euro-6d-39760"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="f5c90cd2a6e2d365c8ddf5f1ddfe76ba9ae6cf30o1774892033">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-01868-7-12464-1-lot-25-0704-volkswagen-golf-r-line-annee-2020-18-744-km-euro-6d-39760">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39760/image_256/%5BBXL-01868-7-12464-1%5D%20Lot%2025_0704%20-%20Volkswagen%20Golf%20R-Line%20-%20Ann%C3%A9e%202020%20-%2018.744%20km%20-%20EURO%206d?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/01868/7/12464/1] Lot 25_0704 - Volkswagen Golf R-Line - Année 2020 - 18.744 km - EURO 6d" loading="lazy"></span>
                 </a>
@@ -961,7 +961,7 @@
                     16 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">20</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">21</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -986,7 +986,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39761" title="Lot 25_0718 - Peugeot 2008 - Jaar 2023 - 34.168 km - EURO 6if">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12465-1-lot-25-0718-peugeot-2008-jaar-2023-34-168-km-euro-6if-39761"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="f5c90cd2a6e2d365c8ddf5f1ddfe76ba9ae6cf30o1774892033">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12465-1-lot-25-0718-peugeot-2008-jaar-2023-34-168-km-euro-6if-39761">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39761/image_256/%5BBXL-00002-3-12465-1%5D%20Lot%2025_0718%20-%20Peugeot%202008%20-%20Jaar%202023%20-%2034.168%20km%20-%20EURO%206if?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12465/1] Lot 25_0718 - Peugeot 2008 - Jaar 2023 - 34.168 km - EURO 6if" loading="lazy"></span>
                 </a>
@@ -1042,7 +1042,7 @@
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1067,7 +1067,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39758" title="Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="f5c90cd2a6e2d365c8ddf5f1ddfe76ba9ae6cf30o1774892033">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39758/image_256/%5BBXL-00486-1-12462-1%5D%20Lot%2025_0722%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2062.037%20km%20-%20EURO%204?unique=175edc7" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12462/1] Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -1123,7 +1123,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -1148,7 +1148,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40054" title="Lot 25_345B - PURE ADVANCE - elektrische step">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-245-lot-25-345b-pure-advance-elektrische-step-40054"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="fdc63211a04b4551451b353a5730d601a692e71bo1774848856">
+                <input type="hidden" name="csrf_token" value="f5c90cd2a6e2d365c8ddf5f1ddfe76ba9ae6cf30o1774892033">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-245-lot-25-345b-pure-advance-elektrische-step-40054">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40054/image_256/%5BBXL-00001-4-12213-245%5D%20Lot%2025_345B%20-%20PURE%20ADVANCE%20-%20elektrische%20step?unique=b4929d6" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/245] Lot 25_345B - PURE ADVANCE - elektrische step" loading="lazy"></span>
                 </a>
@@ -1204,7 +1204,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">05</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">11</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">19</span><span class="span_time_unit">h. </span><span class="span_time_digit">30</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
