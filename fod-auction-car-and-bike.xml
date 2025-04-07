@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-04-06T17:33:37.500Z</updated>
+    <updated>2025-04-07T06:44:16.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36772" title="Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="aa54c934c2c0b2305d39bf4de78a4ad43f8d02bao1775496810">
+                <input type="hidden" name="csrf_token" value="2a3357eeda026928a6892b4183cb2f4c84af0118o1775544249">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36772/image_256/%5BBXL-00002-3-12267-1%5D%20Lot%2025_0245%20-%20Volkswagen%20T3%20-%20Jaar%201990%20-%2097.305%20km?unique=170ec8c" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12267/1] Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km" loading="lazy"></span>
                 </a>
@@ -70,7 +70,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">15</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -95,7 +95,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39751" title="Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="aa54c934c2c0b2305d39bf4de78a4ad43f8d02bao1775496810">
+                <input type="hidden" name="csrf_token" value="d783e29d70c28a0f95a18e9ed597a13007b86d70o1775544250">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39751/image_256/%5BBXL-00486-1-12457-1%5D%20Lot%2025_0680%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2043.172%20km%20-%20EURO%204?unique=7c2e3bf" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12457/1] Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -151,7 +151,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">36</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">25</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -176,7 +176,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39758" title="Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="aa54c934c2c0b2305d39bf4de78a4ad43f8d02bao1775496810">
+                <input type="hidden" name="csrf_token" value="d783e29d70c28a0f95a18e9ed597a13007b86d70o1775544250">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39758/image_256/%5BBXL-00486-1-12462-1%5D%20Lot%2025_0722%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2062.037%20km%20-%20EURO%204?unique=2f1de02" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12462/1] Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -232,7 +232,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">46</span><span class="span_time_unit">m. </span><span class="span_time_digit">30</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">35</span><span class="span_time_unit">m. </span><span class="span_time_digit">50</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -257,7 +257,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37442" title="Lot 25_167B - AMIGO vintage fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="aa54c934c2c0b2305d39bf4de78a4ad43f8d02bao1775496810">
+                <input type="hidden" name="csrf_token" value="d783e29d70c28a0f95a18e9ed597a13007b86d70o1775544250">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=fea6e6f" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
                 </a>
@@ -313,7 +313,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">15</span><span class="span_time_unit">h. </span><span class="span_time_digit">16</span><span class="span_time_unit">m. </span><span class="span_time_digit">24</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">02</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">44</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -338,7 +338,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40359" title="Lot 25_382E - Matériel automobile">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12164-193-lot-25-382e-materiel-automobile-40359"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="aa54c934c2c0b2305d39bf4de78a4ad43f8d02bao1775496810">
+                <input type="hidden" name="csrf_token" value="d783e29d70c28a0f95a18e9ed597a13007b86d70o1775544250">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12164-193-lot-25-382e-materiel-automobile-40359">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40359/image_256/%5BBXL-00001-4-12164-193%5D%20Lot%2025_382E%20-%20Mat%C3%A9riel%20automobile?unique=4322ea0" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12164/193] Lot 25_382E - Matériel automobile" loading="lazy"></span>
                 </a>
@@ -394,7 +394,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">31</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">03</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">20</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
