@@ -2,252 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-04-08T05:35:32.948Z</updated>
+    <updated>2025-04-09T05:35:52.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772"/>
-        <updated>2025-04-02T17:34:13.407Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-36772" title="Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="9a6d92c0c43f1969e4b303be19e0f07764ccfb95o1775626526">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/36772/image_256/%5BBXL-00002-3-12267-1%5D%20Lot%2025_0245%20-%20Volkswagen%20T3%20-%20Jaar%201990%20-%2097.305%20km?unique=170ec8c" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12267/1] Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-08 18:00:00" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-02 13:51:24', 'auction_week_left': '2025-04-08 18:00:00', 'auction_start_date': '02th-Apr-2025, 01:51PM', 'auction_end_date': '08th-Apr-2025, 06:00PM', 'wk_auction': wk.website.auction(35595,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 2, 13, 51, 24), 'test_end_date': datetime.datetime(2025, 4, 8, 18, 0), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-08T18:00:00Z'}" data-auction_end_date="2025-04-08T18:00:00Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Brussel</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12267-1-lot-25-0245-volkswagen-t3-jaar-1990-97-305-km-36772" content="Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km">Lot 25_0245 - Volkswagen T3 - Jaar 1990 - 97.305 km</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/35595">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">4.000,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751"/>
-        <updated>2025-04-02T17:34:13.409Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39751" title="Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="9a6d92c0c43f1969e4b303be19e0f07764ccfb95o1775626526">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39751/image_256/%5BBXL-00486-1-12457-1%5D%20Lot%2025_0680%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2043.172%20km%20-%20EURO%204?unique=7c2e3bf" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12457/1] Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-08 18:10:00" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-02 13:52:51', 'auction_week_left': '2025-04-08 18:10:00', 'auction_start_date': '02th-Apr-2025, 01:52PM', 'auction_end_date': '08th-Apr-2025, 06:10PM', 'wk_auction': wk.website.auction(35596,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 2, 13, 52, 51), 'test_end_date': datetime.datetime(2025, 4, 8, 18, 10), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-08T18:10:00Z'}" data-auction_end_date="2025-04-08T18:10:00Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Brussel</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751" content="Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4">Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/35596">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">34</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">7.500,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4]]></title>
-        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758</id>
-        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758"/>
-        <updated>2025-04-02T17:34:13.411Z</updated>
-        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
-        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39758" title="Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4">
-            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758"></a>
-            <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="9a6d92c0c43f1969e4b303be19e0f07764ccfb95o1775626526">
-                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758">
-                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39758/image_256/%5BBXL-00486-1-12462-1%5D%20Lot%2025_0722%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2062.037%20km%20-%20EURO%204?unique=2f1de02" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12462/1] Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4" loading="lazy"></span>
-                </a>
-                    <div class="product_item auction_running">
-                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-08 18:20:00" data-wk_auction_state="running">
-                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-02 13:56:15', 'auction_week_left': '2025-04-08 18:20:00', 'auction_start_date': '02th-Apr-2025, 01:56PM', 'auction_end_date': '08th-Apr-2025, 06:20PM', 'wk_auction': wk.website.auction(35597,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 2, 13, 56, 15), 'test_end_date': datetime.datetime(2025, 4, 8, 18, 20), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-08T18:20:00Z'}" data-auction_end_date="2025-04-08T18:20:00Z">
-                    <div class="row auction_timer auction_finshop_wrapper">
-                        <div class="col-3 text-center">
-                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Jours</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Heures</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Minutes</span>
-                        </div>
-                        <div class="col-3 text-center">
-                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
-                            <br>
-                            <span class="span_time_unit">Secondes</span>
-                        </div>
-                    </div>
-                    <div class="row auction_timer auction_finshop_end_message d-none">
-                        <div class="col-12 text-center">
-                            Auction is over
-                        </div>
-                    </div>
-                </div>
-                        </div>
-                    </div>
-                <div class="product_item-warehouse">
-                    <p>Finshop
-                        <span class="font-weight-bold d-block">Brussel</span>
-                    </p>
-                </div>
-            </div>
-            <div class="card-body p-0 o_wsale_product_information">
-                <div class="p-2 o_wsale_product_information_text">
-                    <h6 class="o_wsale_products_item_title mb-1">
-                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00486-1-12462-1-lot-25-0722-nissan-cabstar-jaar-2010-62-037-km-euro-4-39758" content="Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4">Lot 25_0722 - Nissan Cabstar - Jaar 2010 - 62.037 km - EURO 4</a>
-                    </h6>
-           <div class="text-info oe_subdescription" contenteditable="false">
-           </div>
-            <p>
-                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
-                  <a class="span_total_bids" href="/nl_BE/product/auction/35597">
-                    0 Biedingen</a>
-                </span>
-                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">00</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">44</span><span class="span_time_unit">m. </span><span class="span_time_digit">34</span><span class="span_time_unit">s. </span>
-                      <span>&nbsp;&nbsp; left</span>
-                </span>
-                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
-                  <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">7.000,00</span>
-                  </b>
-                </div>
-           <p></p>
-      </div>
-                <div class="o_wsale_product_btn pl-2"></div>
-            </div>
-            <span class="o_ribbon " style=""></span>
-        </form>
-                                                        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lot 25_167B - AMIGO vintage fiets]]></title>
         <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442</id>
@@ -257,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37442" title="Lot 25_167B - AMIGO vintage fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="9a6d92c0c43f1969e4b303be19e0f07764ccfb95o1775626526">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=fea6e6f" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
                 </a>
@@ -313,7 +70,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">03</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -338,7 +95,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40359" title="Lot 25_382E - Matériel automobile">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12164-193-lot-25-382e-materiel-automobile-40359"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="a0e29f53053e4fa8789e3f9f1b2cad9f710c5348o1775626527">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12164-193-lot-25-382e-materiel-automobile-40359">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40359/image_256/%5BBXL-00001-4-12164-193%5D%20Lot%2025_382E%20-%20Mat%C3%A9riel%20automobile?unique=6416674" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12164/193] Lot 25_382E - Matériel automobile" loading="lazy"></span>
                 </a>
@@ -394,12 +151,417 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">29</span><span class="span_time_unit">m. </span><span class="span_time_digit">10</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">28</span><span class="span_time_unit">m. </span><span class="span_time_digit">53</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
                     Huidig bod €&nbsp;<span class="oe_currency_value">99,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 25_405E - Matériel de cyclisme]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534"/>
+        <updated>2025-04-09T05:35:46.209Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40534" title="Lot 25_405E - Matériel de cyclisme">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40534/image_256/%5BBXL-00001-4-12164-209%5D%20Lot%2025_405E%20-%20Mat%C3%A9riel%20de%20cyclisme?unique=a8cd006" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12164/209] Lot 25_405E - Matériel de cyclisme" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-15 13:47:15" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-08 13:47:15', 'auction_week_left': '2025-04-15 13:47:15', 'auction_start_date': '08th-Apr-2025, 01:47PM', 'auction_end_date': '15th-Apr-2025, 01:47PM', 'wk_auction': wk.website.auction(35923,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 8, 13, 47, 15), 'test_end_date': datetime.datetime(2025, 4, 15, 13, 47, 15), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-15T13:47:15Z'}" data-auction_end_date="2025-04-15T13:47:15Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Brussel</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534" content="Lot 25_405E - Matériel de cyclisme">Lot 25_405E - Matériel de cyclisme</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35923">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">08</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">31</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">99,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563"/>
+        <updated>2025-04-09T05:35:46.211Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40563" title="Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40563/image_256/%5BBXL-00002-3-12514-1%5D%20Lot%2025_0625%20-%20BMW%20330%20Xdrive%20-%20Jaar%202022%20-%2012.900%20km%20-%20EURO%206?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12514/1] Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-15 18:00:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-08 14:00:00', 'auction_week_left': '2025-04-15 18:00:00', 'auction_start_date': '08th-Apr-2025, 02:00PM', 'auction_end_date': '15th-Apr-2025, 06:00PM', 'wk_auction': wk.website.auction(35913,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 8, 14, 0), 'test_end_date': datetime.datetime(2025, 4, 15, 18, 0), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-15T18:00:00Z'}" data-auction_end_date="2025-04-15T18:00:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Brussel</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563" content="Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6">Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35913">
+                    1 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">24</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">20.000,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564"/>
+        <updated>2025-04-09T05:35:46.212Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40564" title="Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40564/image_256/%5BBXL-00002-3-12515-1%5D%20Lot%2025_0734%20-%20Peugeot%20308%20-%20Jaar%202019%20-%2084.994%20km%20-%20EURO%206dt?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12515/1] Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-15 18:15:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-08 14:00:00', 'auction_week_left': '2025-04-15 18:15:00', 'auction_start_date': '08th-Apr-2025, 02:00PM', 'auction_end_date': '15th-Apr-2025, 06:15PM', 'wk_auction': wk.website.auction(35914,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 8, 14, 0), 'test_end_date': datetime.datetime(2025, 4, 15, 18, 15), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-15T18:15:00Z'}" data-auction_end_date="2025-04-15T18:15:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Brussel</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564" content="Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt">Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35914">
+                    1 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">5.000,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565"/>
+        <updated>2025-04-09T05:35:46.214Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40565" title="Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40565/image_256/%5BBXL-00002-3-12516-1%5D%20Lot%2025_0775%20-%20Kia%20Rio%20-%20Jaar%202023%20-%2046.182%20km%20-%20EURO%206if?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12516/1] Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-15 18:30:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-08 14:00:00', 'auction_week_left': '2025-04-15 18:30:00', 'auction_start_date': '08th-Apr-2025, 02:00PM', 'auction_end_date': '15th-Apr-2025, 06:30PM', 'wk_auction': wk.website.auction(35915,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 8, 14, 0), 'test_end_date': datetime.datetime(2025, 4, 15, 18, 30), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-15T18:30:00Z'}" data-auction_end_date="2025-04-15T18:30:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Brussel</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565" content="Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if">Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35915">
+                    0 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">54</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">7.500,00</span>
+                  </b>
+                </div>
+           <p></p>
+      </div>
+                <div class="o_wsale_product_btn pl-2"></div>
+            </div>
+            <span class="o_ribbon " style=""></span>
+        </form>
+                                                        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt]]></title>
+        <id>https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566</id>
+        <link href="https://finshop.belgium.be/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566"/>
+        <updated>2025-04-09T05:35:46.215Z</updated>
+        <content type="html"><![CDATA[<div class="o_wsale_product_grid_wrapper o_wsale_product_grid_wrapper_1_1">
+        <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40566" title="Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt">
+            <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566"></a>
+            <div class="card-body p-1 oe_product_image">
+                <input type="hidden" name="csrf_token" value="00417ab9f9c7ddf807eb045e8578715f984566e7o1775712944">
+                <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566">
+                    <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40566/image_256/%5BBXL-00002-3-12517-1%5D%20Lot%2025_0777%20-%20Mercedes%20A200%20-%20Jaar%202019%20-%207.442%20km%20-%20EURO%206dt?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12517/1] Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt" loading="lazy"></span>
+                </a>
+                    <div class="product_item auction_running">
+                        <div class="col-md-12 card-header border countdown" style="padding:0px" data-wk_time_left="2025-04-15 18:45:00" data-wk_auction_state="running">
+                            <div class="auction_finshop_timer" data-auction_wk_config="{'auction_running_extend': True, 'auction_yet_not_running': False, 'auction_yet_not_finish': True, 'auction_start_week_left': '2025-04-08 14:00:00', 'auction_week_left': '2025-04-15 18:45:00', 'auction_start_date': '08th-Apr-2025, 02:00PM', 'auction_end_date': '15th-Apr-2025, 06:45PM', 'wk_auction': wk.website.auction(35916,), 'login_user_is_winner': None, 'login_user_is_losser': 0.0, 'login_user_have_auto_bid': wk.auction.bidder(), 'login_user_was_auto_bidder': wk.auction.bidder(), 'test_start_date': datetime.datetime(2025, 4, 8, 14, 0), 'test_end_date': datetime.datetime(2025, 4, 15, 18, 45), 'publish_total_bids': True, 'publish_info_link': True, 'publish_subscribe_link': True, 'publish_start_date': True, 'publish_end_date': True, 'publish_extend_date': True, 'publish_intial_price': True, 'publish_current_price': True, 'publish_simple_bid': True, 'publish_auto_bid': True, 'publish_next_bid': True, 'publish_user_highest_bid': True, 'publish_user_auto_bid': True, 'publish_auction_complete': True, 'auction_complete_msz': 'Auction has been Finished on this Product.', 'publish_auction_close': True, 'auction_close_msz': 'Auction has been Closed on this Product.', 'publish_login_first': True, 'publish_login_first_msz': 'Please Login First.', 'auction_bid_submitted': True, 'auction_bid_submitted_msz': 'Uw bod was correct geplaatst.', 'publish_unexpected_error': True, 'publish_unexpected_error_msz': 'Something Wrong happen ,Please Try again.', 'publish_min_bid_error': True, 'publish_min_bid_error_msz': 'Het geboden bedrag is kleiner dan de eerstvolgende aanvaardbare minimum bieding. ', 'publish_min_autobid_error': True, 'publish_min_autobid_error_msz': 'Het bedrag van de automatische veiling is kleiner dan de eerstvolgende aanvaardbare minimale stap van de automatische veiling.  ', 'publish_bid_subscribe': True, 'publish_bid_subscribe_msz': 'Notification For Auction Subscribed.', 'publish_bid_unsubscribe': True, 'publish_bid_unsubscribe_msz': 'Notification For Auction Un-Subscribed.', 'publish_bidders_name': 'cross', 'publish_bid_record': 10, 'publish_winner_name': 'cross', 'buynow_option': True, 'notify_s_auction_running': False, 'notify_s_auction_extended': False, 'notify_s_auction_closed': False, 'notify_s_auction_completed': False, 'notify_s_new_bid': False, 'notify_before_expire': False, 'notify_before': 10, 'notify_time_uom': '60', 'notify_w_auction_completed': True, 'notify_l_auction_completed': True, 'notify_ab_bid_placed': True, 'notify_ab_bid_overbid': True, 'notify_s_last_bidder': True, 'auction_end_date_countdown': '2025-04-15T18:45:00Z'}" data-auction_end_date="2025-04-15T18:45:00Z">
+                    <div class="row auction_timer auction_finshop_wrapper">
+                        <div class="col-3 text-center">
+                            <span class="auction_days span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Jours</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_hours span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Heures</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_minutes span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Minutes</span>
+                        </div>
+                        <div class="col-3 text-center">
+                            <span class="auction_seconds span_time_digit"><div class="spinner-border"></div></span>
+                            <br>
+                            <span class="span_time_unit">Secondes</span>
+                        </div>
+                    </div>
+                    <div class="row auction_timer auction_finshop_end_message d-none">
+                        <div class="col-12 text-center">
+                            Auction is over
+                        </div>
+                    </div>
+                </div>
+                        </div>
+                    </div>
+                <div class="product_item-warehouse">
+                    <p>Finshop
+                        <span class="font-weight-bold d-block">Brussel</span>
+                    </p>
+                </div>
+            </div>
+            <div class="card-body p-0 o_wsale_product_information">
+                <div class="p-2 o_wsale_product_information_text">
+                    <h6 class="o_wsale_products_item_title mb-1">
+                        <a class="text-primary text-decoration-none text-truncate-2-lines" itemprop="name" href="/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566" content="Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt">Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt</a>
+                    </h6>
+           <div class="text-info oe_subdescription" contenteditable="false">
+           </div>
+            <p>
+                <span class="col-md-4" style="padding-left:0px;padding-right:0px">
+                  <a class="span_total_bids" href="/nl_BE/product/auction/35916">
+                    2 Biedingen</a>
+                </span>
+                <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
+                      <span class="span_time_digit">06</span><span class="span_time_unit">d. </span><span class="span_time_digit">13</span><span class="span_time_unit">h. </span><span class="span_time_digit">09</span><span class="span_time_unit">m. </span><span class="span_time_digit">16</span><span class="span_time_unit">s. </span>
+                      <span>&nbsp;&nbsp; left</span>
+                </span>
+                </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
+                  <b>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">10.200,00</span>
                   </b>
                 </div>
            <p></p>
