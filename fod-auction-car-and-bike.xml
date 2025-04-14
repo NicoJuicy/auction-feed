@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://finshop.belgium.be/nl_BE/shop?type=auction&amp;finshop=3&amp;category_select=1&amp;state=&amp;keyword=</id>
     <title>FOD - Sport &amp; Vrije tijd - Brussel P1</title>
-    <updated>2025-04-13T17:33:15.072Z</updated>
+    <updated>2025-04-14T06:41:39.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://finshop.belgium.be/nl_BE/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40534" title="Lot 25_405E - Matériel de cyclisme">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0faf57d2f899cf8bbbd82ed990586247fb6e9d41o1776101588">
+                <input type="hidden" name="csrf_token" value="11c0ec37e894a38cbc188849450b5e877a4cd867o1776148893">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12164-209-lot-25-405e-materiel-de-cyclisme-40534">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40534/image_256/%5BBXL-00001-4-12164-209%5D%20Lot%2025_405E%20-%20Mat%C3%A9riel%20de%20cyclisme?unique=1c9f467" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12164/209] Lot 25_405E - Matériel de cyclisme" loading="lazy"></span>
                 </a>
@@ -67,15 +67,15 @@
             <p>
                 <span class="col-md-4" style="padding-left:0px;padding-right:0px">
                   <a class="span_total_bids" href="/nl_BE/product/auction/35923">
-                    2 Biedingen</a>
+                    3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">20</span><span class="span_time_unit">h. </span><span class="span_time_digit">14</span><span class="span_time_unit">m. </span><span class="span_time_digit">07</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">07</span><span class="span_time_unit">h. </span><span class="span_time_digit">05</span><span class="span_time_unit">m. </span><span class="span_time_digit">42</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
                   <b>
-                    Huidig bod €&nbsp;<span class="oe_currency_value">100,00</span>
+                    Huidig bod €&nbsp;<span class="oe_currency_value">102,00</span>
                   </b>
                 </div>
            <p></p>
@@ -95,7 +95,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40563" title="Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0faf57d2f899cf8bbbd82ed990586247fb6e9d41o1776101588">
+                <input type="hidden" name="csrf_token" value="11c0ec37e894a38cbc188849450b5e877a4cd867o1776148893">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12514-1-lot-25-0625-bmw-330-xdrive-jaar-2022-12-900-km-euro-6-40563">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40563/image_256/%5BBXL-00002-3-12514-1%5D%20Lot%2025_0625%20-%20BMW%20330%20Xdrive%20-%20Jaar%202022%20-%2012.900%20km%20-%20EURO%206?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12514/1] Lot 25_0625 - BMW 330 Xdrive - Jaar 2022 - 12.900 km - EURO 6" loading="lazy"></span>
                 </a>
@@ -151,7 +151,7 @@
                     11 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">26</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">18</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -176,7 +176,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40564" title="Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0faf57d2f899cf8bbbd82ed990586247fb6e9d41o1776101588">
+                <input type="hidden" name="csrf_token" value="11c0ec37e894a38cbc188849450b5e877a4cd867o1776148893">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12515-1-lot-25-0734-peugeot-308-jaar-2019-84-994-km-euro-6dt-40564">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40564/image_256/%5BBXL-00002-3-12515-1%5D%20Lot%2025_0734%20-%20Peugeot%20308%20-%20Jaar%202019%20-%2084.994%20km%20-%20EURO%206dt?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12515/1] Lot 25_0734 - Peugeot 308 - Jaar 2019 - 84.994 km - EURO 6dt" loading="lazy"></span>
                 </a>
@@ -232,7 +232,7 @@
                     3 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">41</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">33</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -257,7 +257,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40565" title="Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0faf57d2f899cf8bbbd82ed990586247fb6e9d41o1776101588">
+                <input type="hidden" name="csrf_token" value="11c0ec37e894a38cbc188849450b5e877a4cd867o1776148893">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12516-1-lot-25-0775-kia-rio-jaar-2023-46-182-km-euro-6if-40565">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40565/image_256/%5BBXL-00002-3-12516-1%5D%20Lot%2025_0775%20-%20Kia%20Rio%20-%20Jaar%202023%20-%2046.182%20km%20-%20EURO%206if?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12516/1] Lot 25_0775 - Kia Rio - Jaar 2023 - 46.182 km - EURO 6if" loading="lazy"></span>
                 </a>
@@ -313,7 +313,7 @@
                     2 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">00</span><span class="span_time_unit">h. </span><span class="span_time_digit">56</span><span class="span_time_unit">m. </span><span class="span_time_digit">52</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">11</span><span class="span_time_unit">h. </span><span class="span_time_digit">48</span><span class="span_time_unit">m. </span><span class="span_time_digit">27</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -338,7 +338,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-40566" title="Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="0faf57d2f899cf8bbbd82ed990586247fb6e9d41o1776101588">
+                <input type="hidden" name="csrf_token" value="11c0ec37e894a38cbc188849450b5e877a4cd867o1776148893">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00002-3-12517-1-lot-25-0777-mercedes-a200-jaar-2019-7-442-km-euro-6dt-40566">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/40566/image_256/%5BBXL-00002-3-12517-1%5D%20Lot%2025_0777%20-%20Mercedes%20A200%20-%20Jaar%202019%20-%207.442%20km%20-%20EURO%206dt?unique=c2e11a7" itemprop="image" class="img img-fluid" alt="[BXL/00002/3/12517/1] Lot 25_0777 - Mercedes A200 - Jaar 2019 - 7.442 km - EURO 6dt" loading="lazy"></span>
                 </a>
@@ -394,7 +394,7 @@
                     11 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">11</span><span class="span_time_unit">m. </span><span class="span_time_digit">51</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">03</span><span class="span_time_unit">m. </span><span class="span_time_digit">26</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -419,7 +419,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-39751" title="Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="b79444655b6110f482d6ea6fe44ad58af431ab98o1776101589">
+                <input type="hidden" name="csrf_token" value="00fd7acf2b737ae4e0c412e699a47aa87a055286o1776148894">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00486-1-12457-1-lot-25-0680-nissan-cabstar-jaar-2010-43-172-km-euro-4-39751">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/39751/image_256/%5BBXL-00486-1-12457-1%5D%20Lot%2025_0680%20-%20Nissan%20Cabstar%20-%20Jaar%202010%20-%2043.172%20km%20-%20EURO%204?unique=92966af" itemprop="image" class="img img-fluid" alt="[BXL/00486/1/12457/1] Lot 25_0680 - Nissan Cabstar - Jaar 2010 - 43.172 km - EURO 4" loading="lazy"></span>
                 </a>
@@ -475,7 +475,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">02</span><span class="span_time_unit">d. </span><span class="span_time_digit">01</span><span class="span_time_unit">h. </span><span class="span_time_digit">27</span><span class="span_time_unit">m. </span><span class="span_time_digit">28</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">01</span><span class="span_time_unit">d. </span><span class="span_time_digit">12</span><span class="span_time_unit">h. </span><span class="span_time_digit">19</span><span class="span_time_unit">m. </span><span class="span_time_digit">03</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
@@ -500,7 +500,7 @@
         <form action="/nl_BE/shop/cart/update" method="post" class="card oe_product_cart" itemscope="itemscope" itemtype="http://schema.org/Product" data-publish="on" id="product-37442" title="Lot 25_167B - AMIGO vintage fiets">
             <a class="o_product_link css_editable_mode_hidden" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442"></a>
             <div class="card-body p-1 oe_product_image">
-                <input type="hidden" name="csrf_token" value="b79444655b6110f482d6ea6fe44ad58af431ab98o1776101589">
+                <input type="hidden" name="csrf_token" value="00fd7acf2b737ae4e0c412e699a47aa87a055286o1776148894">
                 <a class="d-block h-100" itemprop="url" href="/nl_BE/shop/bxl-00001-4-12213-56-lot-25-167b-amigo-vintage-fiets-37442">
                     <span class="d-flex h-100 justify-content-center align-items-center"><img src="/web/image/product.template/37442/image_256/%5BBXL-00001-4-12213-56%5D%20Lot%2025_167B%20-%20AMIGO%20vintage%20fiets?unique=ccd1de0" itemprop="image" class="img img-fluid" alt="[BXL/00001/4/12213/56] Lot 25_167B - AMIGO vintage fiets" loading="lazy"></span>
                 </a>
@@ -556,7 +556,7 @@
                     0 Biedingen</a>
                 </span>
                 <span style="padding-left:0px;padding-right:0px" class="col-md-8 category_page_timer auction_running">
-                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">23</span><span class="span_time_unit">h. </span><span class="span_time_digit">47</span><span class="span_time_unit">m. </span><span class="span_time_digit">47</span><span class="span_time_unit">s. </span>
+                      <span class="span_time_digit">04</span><span class="span_time_unit">d. </span><span class="span_time_digit">10</span><span class="span_time_unit">h. </span><span class="span_time_digit">39</span><span class="span_time_unit">m. </span><span class="span_time_digit">22</span><span class="span_time_unit">s. </span>
                       <span>&nbsp;&nbsp; left</span>
                 </span>
                 </p><div style="position: absolute; bottom: 0; padding: 5px 0; font-size: 14px;">
